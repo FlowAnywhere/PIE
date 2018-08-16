@@ -8,12 +8,12 @@ from flask import request
 from PIE.config import Config
 from PIE.predict import Prediction
 
-app = Flask(__name__)
+application = Flask(__name__)
 
 prediction = Prediction(Config(), 'localhost', 9000)
 
 
-@app.route("/c3api_ai/v1/privacy", methods=['GET', 'POST'])
+@application.route("/c3api_ai/v1/privacy", methods=['GET', 'POST'])
 def privacy_predict():
     if request.method == 'POST':
         # if header Content-Type is not application/json, json_object = None
@@ -27,4 +27,4 @@ def privacy_predict():
             return 'URL query parameter "json" must be specified.'
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    application.run(debug=False)

@@ -6,9 +6,9 @@ import sys
 
 import numpy as np
 import tensorflow as tf
-from PIE.config import Config
 from tensorflow.python.training import session_run_hook
 
+from PIE.config import Config
 from PIE.data import Data, DataSet
 
 
@@ -229,11 +229,6 @@ class Model(object):
             model_dir=self.config.output_dir_root,
             config=self.run_config
         )
-
-        # if there is checkpoint already, need to evaluate first then train
-        # update self.best in EvalHook
-        # if self.predictor.latest_checkpoint() is not None:
-        #     self.predictor.evaluate(input_fn=self._valid_input_fn)
 
         tf.gfile.MakeDirs(self.config.output_dir_savedmodel)
 
