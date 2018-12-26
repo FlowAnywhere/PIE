@@ -1,685 +1,267 @@
-Berry Organization O
-Farmers Organization O
-of Organization O
-Ontario Organization O
+Berry Organization B-ORG
+Farmers Organization I-ORG
+of Organization I-ORG
+Ontario Organization E-ORG
 30 Address B-ADDRESS
 Harmony Address I-ADDRESS
 Way Address I-ADDRESS
-, Address I-ADDRESS
 Kempville Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-K0 Address I-ADDRESS
-G Address I-ADDRESS
+K0G Address I-ADDRESS
 1J0 Address E-ADDRESS
 
-( Telephone B-PHONE
-613 Telephone I-PHONE
-) Telephone I-PHONE
-258 Telephone I-PHONE
-- Telephone I-PHONE
-4587 Telephone E-PHONE
-
+ Telephone O
+613 Telephone O
+258 Telephone O
+4587 Telephone O
 None E-mail O
-
 None Website O
 
-
-Chicken Organization O
-Farmers Organization O
-of Organization O
-Ontario Organization O
+Chicken Organization B-ORG
+Farmers Organization I-ORG
+of Organization I-ORG
+Ontario Organization E-ORG
 
 3320 Address B-ADDRESS
 South Address I-ADDRESS
 Service Address I-ADDRESS
 Rd Address I-ADDRESS
-. Address I-ADDRESS
-, Address I-ADDRESS
 P Address I-ADDRESS
-. Address I-ADDRESS
 O Address I-ADDRESS
-. Address I-ADDRESS
 Box Address I-ADDRESS
 5035 Address I-ADDRESS
-, Address I-ADDRESS
 Burlington Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-, Address I-ADDRESS
 L7R Address I-ADDRESS
 3Y8 Address E-ADDRESS
 
-( Telephone B-PHONE
-905 Telephone I-PHONE
-) Telephone I-PHONE
-637 Telephone I-PHONE
-- Telephone I-PHONE
-0025 Telephone E-PHONE
+ Telephone O
+905 Telephone O
+637 Telephone O
+0025 Telephone O
 
-info E-mail B-EMAIL
-@ E-mail I-EMAIL
-ontariochicken E-mail I-EMAIL
-. E-mail I-EMAIL
-ca E-mail E-EMAIL
-
+info E-mail O
+ontariochicken E-mail O
+ca E-mail O
 www Website O
-. Website O
 cfo Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
-
-Dairy Organization O
-Farmers Organization O
-of Organization O
-Ontario Organization O
+Dairy Organization B-ORG
+Farmers Organization I-ORG
+of Organization I-ORG
+Ontario Organization E-ORG
 
 6780 Address B-ADDRESS
 Campobello Address I-ADDRESS
 Rd Address I-ADDRESS
-. Address I-ADDRESS
-, Address I-ADDRESS
 Mississauga Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
 L5N Address I-ADDRESS
 2L8 Address E-ADDRESS
 
-( Telephone B-PHONE
-905 Telephone I-PHONE
-) Telephone I-PHONE
-821 Telephone I-PHONE
-- Telephone I-PHONE
-8970 Telephone E-PHONE
-
-questions E-mail B-EMAIL
-@ E-mail I-EMAIL
-milk E-mail I-EMAIL
-. E-mail I-EMAIL
-org E-mail E-EMAIL
+ Telephone O
+905 Telephone O
+821 Telephone O
+8970 Telephone O
+questions E-mail O
+milk E-mail O
+org E-mail O
 
 www Website O
-. Website O
 milk Website O
-. Website O
 org Website O
 
 
-Grape Organization O
-Growers Organization O
-of Organization O
-Ontario Organization O
+Grape Organization B-ORG
+Growers Organization I-ORG
+of Organization I-ORG
+Ontario Organization E-ORG
 
 P Address B-ADDRESS
-. Address I-ADDRESS
 O Address I-ADDRESS
-. Address I-ADDRESS
 Box Address I-ADDRESS
 100 Address I-ADDRESS
-, Address I-ADDRESS
 Vineland Address I-ADDRESS
 Station Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-, Address I-ADDRESS
 L0R Address I-ADDRESS
 2E0 Address E-ADDRESS
 
-( Telephone B-PHONE
-905 Telephone I-PHONE
-) Telephone I-PHONE
-688 Telephone I-PHONE
-- Telephone I-PHONE
-0990 Telephone E-PHONE
-info E-mail B-EMAIL
-@ E-mail I-EMAIL
-grapegrowersofontario E-mail I-EMAIL
-. E-mail I-EMAIL
-com E-mail E-EMAIL
+ Telephone O
+905 Telephone O
+688 Telephone O
+0990 Telephone O
+
+info E-mail O
+grapegrowersofontario E-mail O
+com E-mail O
 
 www Website O
-. Website O
 grapegrowersofontario Website O
-. Website O
 com Website O
 
 
-Grain Organization O
-Farmers Organization O
-of Organization O
-Ontario Organization O
+Grain Organization B-ORG
+Farmers Organization I-ORG
+of Organization I-ORG
+Ontario Organization E-ORG
 
 679 Address B-ADDRESS
 Southgate Address I-ADDRESS
 Drive Address I-ADDRESS
-, Address I-ADDRESS
 Guelph Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-, Address I-ADDRESS
-N1 Address I-ADDRESS
-G Address I-ADDRESS
+N1G Address I-ADDRESS
 4S2 Address E-ADDRESS
 
-1 Telephone B-PHONE
-- Telephone I-PHONE
-800 Telephone I-PHONE
-- Telephone I-PHONE
-265 Telephone I-PHONE
-- Telephone I-PHONE
-0550 Telephone E-PHONE
+1 Telephone O
+800 Telephone O
+265 Telephone O
+0550 Telephone O
 
-info E-mail B-EMAIL
-@ E-mail I-EMAIL
-gfc E-mail I-EMAIL
-. E-mail I-EMAIL
-ca E-mail E-EMAIL
+info E-mail O
+gfc E-mail O
+ca E-mail O
 
 www Website O
-. Website O
 gfo Website O
-. Website O
 ca Website O
 
-
-Ontario Organization O
-Apple Organization O
-Growers Organization O
-
+Ontario Organization B-ORG
+Apple Organization I-ORG
+Growers Organization E-ORG
 P Address B-ADDRESS
-. Address I-ADDRESS
 O Address I-ADDRESS
-. Address I-ADDRESS
 Box Address I-ADDRESS
 100 Address I-ADDRESS
-, Address I-ADDRESS
 Vineland Address I-ADDRESS
 Station Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-, Address I-ADDRESS
 L0R Address I-ADDRESS
 2E0 Address E-ADDRESS
+ Telephone O
+905 Telephone O
+688 Telephone O
+0990 Telephone O
 
-( Telephone B-PHONE
-905 Telephone I-PHONE
-) Telephone I-PHONE
-688 Telephone I-PHONE
-- Telephone I-PHONE
-0990 Telephone E-PHONE
-
-kciceran E-mail B-EMAIL
-@ E-mail I-EMAIL
-onapples E-mail I-EMAIL
-. E-mail I-EMAIL
-com E-mail E-EMAIL
+kciceran E-mail O
+onapples E-mail O
+com E-mail O
 
 www Website O
-. Website O
 onapples Website O
-. Website O
 com Website O
 
-
-Asparagus Organization O
-Farmers Organization O
-of Organization O
-Ontario Organization O
-
+Asparagus Organization B-ORG
+Farmers Organization I-ORG
+of Organization I-ORG
+Ontario Organization E-ORG
 Box Address B-ADDRESS
 587 Address I-ADDRESS
-, Address I-ADDRESS
 1283 Address I-ADDRESS
 Blueline Address I-ADDRESS
 Road Address I-ADDRESS
-, Address I-ADDRESS
 Simcoe Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-, Address I-ADDRESS
 N3Y Address I-ADDRESS
 4N5 Address E-ADDRESS
+ Telephone O
+519 Telephone O
+426 Telephone O
+7529 Telephone O
 
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-426 Telephone I-PHONE
-- Telephone I-PHONE
-7529 Telephone E-PHONE
-
-info E-mail B-EMAIL
-@ E-mail I-EMAIL
-asparagus E-mail I-EMAIL
-. E-mail I-EMAIL
-on E-mail I-EMAIL
-. E-mail I-EMAIL
-ca E-mail E-EMAIL
+info E-mail O
+asparagus E-mail O
+on E-mail O
+ca E-mail O
 www Website O
-. Website O
 asparagus Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 
-Ontario Organization O
-Bean Organization O
-Growers Organization O
+Ontario Organization B-ORG
+Bean Organization I-ORG
+Growers Organization E-ORG
 
 660 Address B-ADDRESS
 Speedville Address I-ADDRESS
 Ave Address I-ADDRESS
-. Address I-ADDRESS
 West Address I-ADDRESS
-, Address I-ADDRESS
 Suite Address I-ADDRESS
 302 Address I-ADDRESS
-, Address I-ADDRESS
 Guelph Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-, Address I-ADDRESS
 N5A Address I-ADDRESS
 6S4 Address E-ADDRESS
+ Telephone O
+519 Telephone O
+271 Telephone O
+8641 Telephone O
 
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-271 Telephone I-PHONE
-- Telephone I-PHONE
-8641 Telephone E-PHONE
-
-info E-mail B-EMAIL
-@ E-mail I-EMAIL
-ontariobeans E-mail I-EMAIL
-. E-mail I-EMAIL
-on E-mail I-EMAIL
-. E-mail I-EMAIL
-ca E-mail E-EMAIL
-
+info E-mail O
+ontariobeans E-mail O
+on E-mail O
+ca E-mail O
 www Website O
-. Website O
 ontariobeans Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 
-Ontario Organization O
-Broiler Organization O
-Hatching Organization O
-Egg Organization O
-and Organization O
-Chick Organization O
-Commission Organization O
+Ontario Organization B-ORG
+Broiler Organization I-ORG
+Hatching Organization I-ORG
+Egg Organization I-ORG
+and Organization I-ORG
+Chick Organization I-ORG
+Commission Organization E-ORG
 
 251 Address B-ADDRESS
 Woodlawn Address I-ADDRESS
 Rd Address I-ADDRESS
-. Address I-ADDRESS
 W Address I-ADDRESS
-. Address I-ADDRESS
-, Address I-ADDRESS
 Ste Address I-ADDRESS
-. Address I-ADDRESS
 213 Address I-ADDRESS
-, Address I-ADDRESS
 Guelph Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-, Address I-ADDRESS
 N1H Address I-ADDRESS
 8J1 Address E-ADDRESS
-
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-837 Telephone I-PHONE
-- Telephone I-PHONE
-0005 Telephone E-PHONE
-
-info E-mail B-EMAIL
-@ E-mail I-EMAIL
-obhecc E-mail I-EMAIL
-. E-mail I-EMAIL
-com E-mail E-EMAIL
+ Telephone O
+519 Telephone O
+837 Telephone O
+0005 Telephone O
+info E-mail O
+obhecc E-mail O
+com E-mail O
 
 www Website O
-. Website O
 obhecc Website O
-. Website O
 com Website O
 
 
-Egg Organization O
-Farmers Organization O
-of Organization O
-Ontario Organization O
-
+Egg Organization B-ORG
+Farmers Organization I-ORG
+of Organization I-ORG
+Ontario Organization E-ORG
 7195 Address B-ADDRESS
 Millcreek Address I-ADDRESS
-Dr. Address I-ADDRESS
-, Address I-ADDRESS
+Dr Address I-ADDRESS
 Mississauga Address I-ADDRESS
-, Address I-ADDRESS
 Ontario Address I-ADDRESS
-, Address I-ADDRESS
 L5N Address I-ADDRESS
 4H1 Address E-ADDRESS
-
-( Telephone B-PHONE
-905 Telephone I-PHONE
-) Telephone I-PHONE
-858 Telephone I-PHONE
-- Telephone I-PHONE
-9790 Telephone E-PHONE
-
-eggboard E-mail B-EMAIL
-@ E-mail I-EMAIL
-getcracking E-mail I-EMAIL
-. E-mail I-EMAIL
-ca E-mail E-EMAIL
+ Telephone O
+905 Telephone O
+858 Telephone O
+9790 Telephone O
+eggboard E-mail O
+getcracking E-mail O
+ca E-mail O
 
 www Website O
-. Website O
 eggfarmersofontario Website O
-. Website O
 ca Website O
-
-
-Ontario Organization O
-Flue Organization O
-- Organization O
-Cured Organization O
-Tobacco Organization O
-Growers Organization O
-' Organization O
-Marketing Organization O
-Board Organization O
-
-4B Address B-ADDRESS
-Elm Address I-ADDRESS
-Street Address I-ADDRESS
-, Address I-ADDRESS
-P Address I-ADDRESS
-. Address I-ADDRESS
-O Address I-ADDRESS
-. Address I-ADDRESS
-Box Address I-ADDRESS
-70 Address I-ADDRESS
-, Address I-ADDRESS
-Tillsonburg Address I-ADDRESS
-, Address I-ADDRESS
-Ontario Address I-ADDRESS
-, Address I-ADDRESS
-N4 Address I-ADDRESS
-G Address I-ADDRESS
-OC4 Address E-ADDRESS
-
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-842 Telephone I-PHONE
-- Telephone I-PHONE
-3661 Telephone E-PHONE
-
-otb E-mail B-EMAIL
-@ E-mail I-EMAIL
-ontarioflue E-mail I-EMAIL
-- E-mail I-EMAIL
-cured E-mail I-EMAIL
-. E-mail I-EMAIL
-com E-mail E-EMAIL
-
-www Website O
-. Website O
-ontarioflue Website O
-- Website O
-cured Website O
-. Website O
-com Website O
-
-
-Ontario Organization O
-Fresh Organization O
-Grape Organization O
-Growers Organization O
-' Organization O
-Marketing Organization O
-Board Organization O
-
-P Address B-ADDRESS
-. Address I-ADDRESS
-O Address I-ADDRESS
-. Address I-ADDRESS
-Box Address I-ADDRESS
-100 Address I-ADDRESS
-, Address I-ADDRESS
-Vineland Address I-ADDRESS
-Station Address I-ADDRESS
-, Address I-ADDRESS
-Ontario Address I-ADDRESS
-, Address I-ADDRESS
-L0R Address I-ADDRESS
-2E0 Address E-ADDRESS
-
-( Telephone B-PHONE
-905 Telephone I-PHONE
-) Telephone I-PHONE
-688 Telephone I-PHONE
-- Telephone I-PHONE
-0990 Telephone E-PHONE
-
-sarah E-mail B-EMAIL
-@ E-mail I-EMAIL
-ontariotenderfruit E-mail I-EMAIL
-. E-mail I-EMAIL
-com E-mail E-EMAIL
-None Website O
-
-
-Ontario Organization O
-Greenhouse Organization O
-Vegetable Organization O
-Growers Organization O
-
-32 Address B-ADDRESS
-Seneca Address I-ADDRESS
-Rd Address I-ADDRESS
-. Address I-ADDRESS
-, Address I-ADDRESS
-Leamington Address I-ADDRESS
-, Address I-ADDRESS
-Ontario Address I-ADDRESS
-, Address I-ADDRESS
-N8H Address I-ADDRESS
-5H7 Address E-ADDRESS
-
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-326 Telephone I-PHONE
-- Telephone I-PHONE
-2604 Telephone E-PHONE
-
-admin E-mail B-EMAIL
-@ E-mail I-EMAIL
-ontariogreenhouse E-mail I-EMAIL
-. E-mail I-EMAIL
-com E-mail E-EMAIL
-
-www Website O
-. Website O
-ontariogreenhouse Website O
-. Website O
-com Website O
-
-
-Ontario Organization O
-Pork Organization O
-Producers Organization O
-' Organization O
-Marketing Organization O
-Board Organization O
-
-655 Address B-ADDRESS
-Southgate Address I-ADDRESS
-Drive Address I-ADDRESS
-, Address I-ADDRESS
-Guelph Address I-ADDRESS
-, Address I-ADDRESS
-Ontario Address I-ADDRESS
-, Address I-ADDRESS
-N1 Address I-ADDRESS
-G Address I-ADDRESS
-5G6 Address E-ADDRESS
-
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-767 Telephone I-PHONE
-- Telephone I-PHONE
-4600 Telephone I-PHONE
-, Telephone I-PHONE
-1 Telephone I-PHONE
-- Telephone I-PHONE
-877 Telephone I-PHONE
-- Telephone I-PHONE
-668 Telephone I-PHONE
-- Telephone I-PHONE
-7675 Telephone E-PHONE
-
-comm E-mail B-EMAIL
-@ E-mail I-EMAIL
-ontariopork E-mail I-EMAIL
-. E-mail I-EMAIL
-on E-mail I-EMAIL
-. E-mail I-EMAIL
-ca E-mail E-EMAIL
-
-www Website O
-. Website O
-ontariopork Website O
-. Website O
-on Website O
-. Website O
-ca Website O
-
-
-Ontario Organization O
-Potato Organization O
-Board Organization O
-
-485 Address B-ADDRESS
-Washington Address I-ADDRESS
-Street Address I-ADDRESS
-, Address I-ADDRESS
-Elora Address I-ADDRESS
-, Address I-ADDRESS
-Ontario Address I-ADDRESS
-, Address I-ADDRESS
-N0B Address I-ADDRESS
-1S0 Address E-ADDRESS
-
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-846 Telephone I-PHONE
-- Telephone I-PHONE
-5553 Telephone E-PHONE
-
-info E-mail B-EMAIL
-@ E-mail I-EMAIL
-ontariopotatoes E-mail I-EMAIL
-. E-mail I-EMAIL
-ca E-mail E-EMAIL
-
-www Website O
-. Website O
-ontariopotatoes Website O
-. Website O
-ca Website O
-
-
-Ontario Organization O
-Processing Organization O
-Vegetable Organization O
-Growers Organization O
-
-435 Address B-ADDRESS
-Consortium Address I-ADDRESS
-Crt Address I-ADDRESS
-. Address I-ADDRESS
-, Address I-ADDRESS
-London Address I-ADDRESS
-, Address I-ADDRESS
-Ontario Address I-ADDRESS
-, Address I-ADDRESS
-N6E Address I-ADDRESS
-2S8 Address E-ADDRESS
-
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-681 Telephone I-PHONE
-- Telephone I-PHONE
-1875 Telephone E-PHONE
-
-opvg E-mail B-EMAIL
-@ E-mail I-EMAIL
-opvg E-mail I-EMAIL
-. E-mail I-EMAIL
-org E-mail E-EMAIL
-
-www Website O
-. Website O
-opvg Website O
-. Website O
-org Website O
-
-
-Seed Organization O
-Corn Organization O
-Growers Organization O
-of Organization O
-Ontario Organization O
-825 Address B-ADDRESS
-Park Address I-ADDRESS
-Avenue Address I-ADDRESS
-West Address I-ADDRESS
-, Address I-ADDRESS
-Chatham Address I-ADDRESS
-, Address I-ADDRESS
-Ontario Address I-ADDRESS
-, Address I-ADDRESS
-N7 Address I-ADDRESS
-M Address I-ADDRESS
-5J6 Address E-ADDRESS
-
-( Telephone B-PHONE
-519 Telephone I-PHONE
-) Telephone I-PHONE
-352 Telephone I-PHONE
-- Telephone I-PHONE
-6710 Telephone E-PHONE
-
-info E-mail B-EMAIL
-@ E-mail I-EMAIL
-seedcorngrowers E-mail I-EMAIL
-. E-mail I-EMAIL
-on E-mail I-EMAIL
-. E-mail I-EMAIL
-ca E-mail E-EMAIL
-
-www Website O
-. Website O
-scgo Website O
-. Website O
-ca Website O
-
 

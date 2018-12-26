@@ -1,22 +1,21 @@
 10101 RegistrationNumber(Numérod'enregistrement) O
+
 1991 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 07 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
-
-GrowthWorks Company O
-Canadian Company O
-Fund Company O
-Ltd. Company O
-
+GrowthWorks Company B-ORG
+Canadian Company I-ORG
+Fund Company I-ORG
+Ltd Company I-ORG
+ Company E-ORG
 None Website(Siteweb) O
 
 5300 Street B-ADDRESS
-- Street I-ADDRESS
 66 Street I-ADDRESS
 Wellington Street I-ADDRESS
 Street Street I-ADDRESS
@@ -24,8 +23,7 @@ West Street E-ADDRESS
 
 Toronto City(Ville) O
 ON Province O
-M5 PostalCode O
-K PostalCode O
+M5K PostalCode O
 1E6 PostalCode O
 
 Ian FundContact O
@@ -33,71 +31,67 @@ Ross FundContact O
 
 
 10102 RegistrationNumber(Numérod'enregistrement) O
-
 1993 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 01 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 12 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
 
-Dynamic Company O
-Venture Company O
-Opportunities Company O
-Fund Company O
-Ltd. Company O
+Dynamic Company B-ORG
+Venture Company I-ORG
+Opportunities Company I-ORG
+Fund Company I-ORG
+Ltd Company I-ORG
+ Company E-ORG
 
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 dynamic Website(Siteweb) O
-. Website(Siteweb) O
 ca Website(Siteweb) O
-
 1 Street B-ADDRESS
 Adelaide Street I-ADDRESS
 Street Street I-ADDRESS
 East Street I-ADDRESS
-, Street I-ADDRESS
 29th Street I-ADDRESS
 Floor Street E-ADDRESS
 
 Toronto City(Ville) O
-
 ON Province O
+
 M5C PostalCode O
 2V9 PostalCode O
 
 Ray FundContact O
 Benzinger FundContact O
 
+
 10103 RegistrationNumber(Numérod'enregistrement) O
 
 1993 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 17 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 None FederalRegistration(Enregistrementfédéral) O
-The Company O
-Active Company O
-Communicatins Company O
-Growth Company O
-Fund Company O
-Inc. Company O
 
+The Company B-ORG
+Active Company I-ORG
+Communicatins Company I-ORG
+Growth Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 None Website(Siteweb) O
 2239 Street B-ADDRESS
 Yonge Street I-ADDRESS
 Street Street E-ADDRESS
-
 Toronto City(Ville) O
 
 ON Province O
-
 M4S PostalCode O
 2B5 PostalCode O
 
@@ -105,32 +99,28 @@ None FundContact O
 
 
 10104 RegistrationNumber(Numérod'enregistrement) O
-
 1993 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 17 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
-
-Impax Company O
-Venture Company O
-Income Company O
-Fund Company O
-Inc. Company O
-
+Impax Company B-ORG
+Venture Company I-ORG
+Income Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 None Website(Siteweb) O
 
 3740 Street B-ADDRESS
-- Street I-ADDRESS
 181 Street I-ADDRESS
 Bay Street I-ADDRESS
 Street Street E-ADDRESS
 
 Toronto City(Ville) O
-
 ON Province O
 
 M5J PostalCode O
@@ -139,67 +129,60 @@ M5J PostalCode O
 Steve FundContact O
 Hawkins FundContact O
 
-
 10105 RegistrationNumber(Numérod'enregistrement) O
 
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 01 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 18 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
-
-FESA Company O
-Enterprise Company O
-Venture Company O
-Capital Company O
-Fund Company O
+FESA Company B-ORG
+Enterprise Company I-ORG
+Venture Company I-ORG
+Capital Company I-ORG
+Fund Company E-ORG
 
 None Website(Siteweb) O
-
 None Street O
 
 None City(Ville) O
-
 None Province O
+
 None PostalCode O
+
 Les FundContact O
 Lyall FundContact O
-
 
 10106 RegistrationNumber(Numérod'enregistrement) O
 
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 08 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 31 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+
 Yes FederalRegistration(Enregistrementfédéral) O
+Capital Company B-ORG
+Alliance Company I-ORG
+Ventures Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
-Capital Company O
-Alliance Company O
-Ventures Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 cavi Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
-
 600 Street B-ADDRESS
-- Street I-ADDRESS
 60 Street I-ADDRESS
 Queen Street I-ADDRESS
 Street Street E-ADDRESS
-
 Ottawa City(Ville) O
 
 ON Province O
-
 K1P PostalCode O
 5Y7 PostalCode O
 
@@ -210,32 +193,27 @@ Lyall FundContact O
 10107 RegistrationNumber(Numérod'enregistrement) O
 
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 07 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 Yes FederalRegistration(Enregistrementfédéral) O
-Canadian Company O
-Medical Company O
-Discoveries Company O
-Fund Company O
-Inc. Company O
-
+Canadian Company B-ORG
+Medical Company I-ORG
+Discoveries Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 None Website(Siteweb) O
-
 700 Street B-ADDRESS
-- Street I-ADDRESS
 26 Street I-ADDRESS
 Wellington Street I-ADDRESS
 Street Street I-ADDRESS
 East Street E-ADDRESS
-
 Toronto City(Ville) O
 
 ON Province O
-
 M5E PostalCode O
 1S2 PostalCode O
 
@@ -246,86 +224,76 @@ Hawkins FundContact O
 10108 RegistrationNumber(Numérod'enregistrement) O
 
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
 
-Sportfund Company O
-Inc Company O
+Sportfund Company B-ORG
+Inc Company E-ORG
 None Website(Siteweb) O
-
 None Street O
-None City(Ville) O
 
+None City(Ville) O
 None Province O
 
 None PostalCode O
-
 Daniel FundContact O
 Sobel FundContact O
 
-
 10109 RegistrationNumber(Numérod'enregistrement) O
-
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 18 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 None FederalRegistration(Enregistrementfédéral) O
-Trillium Company O
-Growth Company O
-Capital Company O
-Inc. Company O
+Trillium Company B-ORG
+Growth Company I-ORG
+Capital Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
 None Website(Siteweb) O
-
 None Street O
 
 None City(Ville) O
-
 None Province O
-
 None PostalCode O
 
 Les FundContact O
 Lyall FundContact O
 
+
 10110 RegistrationNumber(Numérod'enregistrement) O
 
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 28 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
-
-Covington Company O
-Fund Company O
-l Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+Covington Company B-ORG
+Fund Company I-ORG
+l Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+http Website(Siteweb) O
+www Website(Siteweb) O
 covington Website(Siteweb) O
-. Website(Siteweb) O
 ca Website(Siteweb) O
-
 3003 Street B-ADDRESS
-- Street I-ADDRESS
 200 Street I-ADDRESS
 Front Street I-ADDRESS
 Street Street I-ADDRESS
 West Street I-ADDRESS
-, Street I-ADDRESS
 PO Street I-ADDRESS
 Box Street I-ADDRESS
 10 Street E-ADDRESS
@@ -340,32 +308,29 @@ M5V PostalCode O
 Phil FundContact O
 Reddon FundContact O
 
-
 10111 RegistrationNumber(Numérod'enregistrement) O
-
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 25 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
 
-The Company O
-VenGrowth Company O
-Investment Company O
-Fund Company O
-Inc. Company O
+The Company B-ORG
+VenGrowth Company I-ORG
+Investment Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 vengrowth Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
 
 1000 Street B-ADDRESS
-- Street I-ADDRESS
 105 Street I-ADDRESS
 Adelaide Street I-ADDRESS
 Street Street I-ADDRESS
@@ -383,19 +348,16 @@ Ruiter FundContact O
 10112 RegistrationNumber(Numérod'enregistrement) O
 
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 14 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 None FederalRegistration(Enregistrementfédéral) O
-
-TCU Company O
-Development Company O
-Fund Company O
-Inc Company O
-
+TCU Company B-ORG
+Development Company I-ORG
+Fund Company I-ORG
+Inc Company E-ORG
 None Website(Siteweb) O
 
 None Street O
@@ -406,39 +368,35 @@ None Province O
 None PostalCode O
 None FundContact O
 
+
 10113 RegistrationNumber(Numérod'enregistrement) O
 
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 01 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 18 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 None FederalRegistration(Enregistrementfédéral) O
-First Company O
-Ontario Company O
-Labour Company O
-Sponsored Company O
-Investment Company O
-Fund Company O
-Ltd Company O
 
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+First Company B-ORG
+Ontario Company I-ORG
+Labour Company I-ORG
+Sponsored Company I-ORG
+Investment Company I-ORG
+Fund Company I-ORG
+Ltd Company E-ORG
+http Website(Siteweb) O
+www Website(Siteweb) O
 firstontariofund Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
-
 310 Street B-ADDRESS
-- Street I-ADDRESS
 234 Street I-ADDRESS
 Eglinton Street I-ADDRESS
 Avenue Street I-ADDRESS
 East Street E-ADDRESS
 
 Toronto City(Ville) O
-
 ON Province O
 
 M4P PostalCode O
@@ -447,140 +405,114 @@ M4P PostalCode O
 Les FundContact O
 Lyall FundContact O
 
-
 10114 RegistrationNumber(Numérod'enregistrement) O
-
 1994 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+
 Yes FederalRegistration(Enregistrementfédéral) O
-
-Retrocom Company O
-Growth Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+Retrocom Company B-ORG
+Growth Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+http Website(Siteweb) O
+www Website(Siteweb) O
 rgfjobs Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
 
 400 Street B-ADDRESS
-- Street I-ADDRESS
 135 Street I-ADDRESS
 Queens Street I-ADDRESS
 Plate Street I-ADDRESS
 Drive Street E-ADDRESS
-
 Toronto City(Ville) O
-
 ON Province O
-
 M9W PostalCode O
 6V1 PostalCode O
-
 Daniel FundContact O
 Sobel FundContact O
-
 
 10115 RegistrationNumber(Numérod'enregistrement) O
 
 1996 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 01 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 12 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 None FederalRegistration(Enregistrementfédéral) O
-
-Tourism Company O
-& Company O
-Entertainment Company O
-Growth Company O
-Fund Company O
-Inc. Company O
-
+Tourism Company B-ORG
+Entertainment Company I-ORG
+Growth Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 None Website(Siteweb) O
-
 None Street O
-
 None City(Ville) O
 
 None Province O
 
 None PostalCode O
-
 None FundContact O
 
 
 10116 RegistrationNumber(Numérod'enregistrement) O
 
 1996 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 01 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 10 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
-
-Covington Company O
-Venture Company O
-Fund Company O
-Inc. Company O
-
+Covington Company B-ORG
+Venture Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 None Website(Siteweb) O
 
 400 Street B-ADDRESS
-- Street I-ADDRESS
 87 Street I-ADDRESS
 Front Street I-ADDRESS
 Street Street I-ADDRESS
 East Street E-ADDRESS
-
 Toronto City(Ville) O
-
 ON Province O
-
 M5E PostalCode O
 1B8 PostalCode O
-
 Phil FundContact O
 Reddon FundContact O
 
-
 10117 RegistrationNumber(Numérod'enregistrement) O
-
 1996 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 09 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 20 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 Yes FederalRegistration(Enregistrementfédéral) O
+Canadian Company B-ORG
+Science Company I-ORG
+Technology Company I-ORG
+Growth Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
-Canadian Company O
-Science Company O
-& Company O
-Technology Company O
-Growth Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 cstgf Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
 
 2006 Street B-ADDRESS
-- Street I-ADDRESS
 148 Street I-ADDRESS
 Fullarton Street I-ADDRESS
 Street Street E-ADDRESS
@@ -597,191 +529,158 @@ Lyall FundContact O
 
 
 10118 RegistrationNumber(Numérod'enregistrement) O
-
 1996 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 18 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 None FederalRegistration(Enregistrementfédéral) O
 
-Innovacap Company O
-Capital Company O
-Corporation Company O
-
+Innovacap Company B-ORG
+Capital Company I-ORG
+Corporation Company E-ORG
 None Website(Siteweb) O
 
 None Street O
 
 None City(Ville) O
-
 None Province O
 
 None PostalCode O
-
 None FundContact O
-
 
 10119 RegistrationNumber(Numérod'enregistrement) O
 
 1996 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 17 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 No FederalRegistration(Enregistrementfédéral) O
+The Company B-ORG
+Business Company I-ORG
+Engineering Company I-ORG
+Science Company I-ORG
+Technology Company I-ORG
+Discoveries Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
-The Company O
-Business Company O
-, Company O
-Engineering Company O
-, Company O
-Science Company O
-& Company O
-Technology Company O
-Discoveries Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 bestfunds Website(Siteweb) O
-. Website(Siteweb) O
 ca Website(Siteweb) O
-
 400 Street B-ADDRESS
-- Street I-ADDRESS
 15 Street I-ADDRESS
 Toronto Street I-ADDRESS
 Street Street E-ADDRESS
-
 Toronto City(Ville) O
 
 ON Province O
 
 M5C PostalCode O
 2E3 PostalCode O
-
 John FundContact O
 Richardson FundContact O
-
 
 10120 RegistrationNumber(Numérod'enregistrement) O
 
 1997 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 01 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 16 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 None FederalRegistration(Enregistrementfédéral) O
 
-York Company O
-Labour Company O
-Fund Company O
-Inc Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+York Company B-ORG
+Labour Company I-ORG
+Fund Company I-ORG
+Inc Company E-ORG
+http Website(Siteweb) O
+www Website(Siteweb) O
 lawrenceasset Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
 
 1500 Street B-ADDRESS
-- Street I-ADDRESS
 70 Street I-ADDRESS
 York Street I-ADDRESS
 Street Street E-ADDRESS
 Toronto City(Ville) O
-
 ON Province O
-
 M5J PostalCode O
 1S9 PostalCode O
-
 Miles FundContact O
 Nagamatsu FundContact O
-
 
 10121 RegistrationNumber(Numérod'enregistrement) O
 
 1999 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 20 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 None FederalRegistration(Enregistrementfédéral) O
-
-Covington Company O
-Fund Company O
-II Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+Covington Company B-ORG
+Fund Company I-ORG
+II Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+http Website(Siteweb) O
+www Website(Siteweb) O
 covington Website(Siteweb) O
-. Website(Siteweb) O
 ca Website(Siteweb) O
 
 400 Street B-ADDRESS
-- Street I-ADDRESS
 87 Street I-ADDRESS
 Front Street I-ADDRESS
 Street Street I-ADDRESS
 East Street E-ADDRESS
+
 Toronto City(Ville) O
 
 ON Province O
 
 M5E PostalCode O
 1B8 PostalCode O
-
 Phil FundContact O
 Reddon FundContact O
 
-
 10122 RegistrationNumber(Numérod'enregistrement) O
-
 1999 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 18 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 Yes FederalRegistration(Enregistrementfédéral) O
+The Company B-ORG
+VenGrowth Company I-ORG
+II Company I-ORG
+Investment Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
-The Company O
-VenGrowth Company O
-II Company O
-Investment Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 vengrowth Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
-
 1000 Street B-ADDRESS
-- Street I-ADDRESS
 105 Street I-ADDRESS
 Adelaide Street I-ADDRESS
 Street Street I-ADDRESS
 West Street E-ADDRESS
-
 Toronto City(Ville) O
 
 ON Province O
-
 M5H PostalCode O
 1P9 PostalCode O
 
@@ -792,819 +691,138 @@ Ruiter FundContact O
 10123 RegistrationNumber(Numérod'enregistrement) O
 
 1999 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 30 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 None FederalRegistration(Enregistrementfédéral) O
 
-New Company O
-Millennium Company O
-Venture Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+New Company B-ORG
+Millennium Company I-ORG
+Venture Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+http Website(Siteweb) O
+www Website(Siteweb) O
 triaxcapital Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
 1400 Street B-ADDRESS
-- Street I-ADDRESS
 70 Street I-ADDRESS
 York Street I-ADDRESS
 Street Street E-ADDRESS
-
 Toronto City(Ville) O
 
 ON Province O
 
 M5J PostalCode O
 1S9 PostalCode O
-
 Phil FundContact O
 Reddon FundContact O
+
 
 10124 RegistrationNumber(Numérod'enregistrement) O
 
 2000 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 29 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 None FederalRegistration(Enregistrementfédéral) O
 
-New Company O
-Generation Company O
-Biotech Company O
-( Company O
-Equity Company O
-) Company O
-Fund Company O
-Inc. Company O
+New Company B-ORG
+Generation Company I-ORG
+Biotech Company I-ORG
+Equity Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 triaxcapital Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
-
 400 Street B-ADDRESS
-- Street I-ADDRESS
 87 Street I-ADDRESS
 Front Street I-ADDRESS
 Street Street I-ADDRESS
 West Street E-ADDRESS
 
 Toronto City(Ville) O
-
 ON Province O
 
 M5E PostalCode O
 1B8 PostalCode O
-
 Phil FundContact O
 Reddon FundContact O
 
-
 10125 RegistrationNumber(Numérod'enregistrement) O
+
 2000 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 29 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 None FederalRegistration(Enregistrementfédéral) O
+New Company B-ORG
+Generation Company I-ORG
+Biotech Company I-ORG
+Balanced Company I-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
-New Company O
-Generation Company O
-Biotech Company O
-( Company O
-Balanced Company O
-) Company O
-Fund Company O
-Inc. Company O
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 triaxcapital Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
 
 1400 Street B-ADDRESS
-- Street I-ADDRESS
 70 Street I-ADDRESS
 York Street I-ADDRESS
 Street Street E-ADDRESS
-
 Toronto City(Ville) O
-
 ON Province O
-
 M5J PostalCode O
 1S9 PostalCode O
 
 Phil FundContact O
 Reddon FundContact O
-
 
 10126 RegistrationNumber(Numérod'enregistrement) O
 
 2000 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
 29 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
+00 RegistrationDate(Dated'enregistrement) O
 
 None FederalRegistration(Enregistrementfédéral) O
+VentureLink Company B-ORG
+Fund Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
-VentureLink Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
+http Website(Siteweb) O
+www Website(Siteweb) O
 venturelinkfunds Website(Siteweb) O
-. Website(Siteweb) O
 com Website(Siteweb) O
 
 801 Street B-ADDRESS
-- Street I-ADDRESS
 1 Street I-ADDRESS
 Richmond Street I-ADDRESS
 Street Street I-ADDRESS
 West Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5H PostalCode O
-3W4 PostalCode O
-
-W FundContact O
-. FundContact O
-James FundContact O
-Whitaker FundContact O
-
-
-10127 RegistrationNumber(Numérod'enregistrement) O
-
-2000 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-29 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-None FederalRegistration(Enregistrementfédéral) O
-GrowthWorks Company O
-Opportunity Company O
-Fund Company O
-Ltd. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-growthworks Website(Siteweb) O
-. Website(Siteweb) O
-ca Website(Siteweb) O
-
-3504 Street B-ADDRESS
-- Street I-ADDRESS
-20 Street I-ADDRESS
-Queen Street I-ADDRESS
-Street Street I-ADDRESS
-West Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5H PostalCode O
-3R3 PostalCode O
-
-Les FundContact O
-Lyall FundContact O
-
-
-10128 RegistrationNumber(Numérod'enregistrement) O
-
-2001 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-30 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-Yes FederalRegistration(Enregistrementfédéral) O
-
-VentureLink Company O
-Brighter Company O
-Future Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-venturelinkfunds Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-801 Street B-ADDRESS
-- Street I-ADDRESS
-1 Street I-ADDRESS
-Richmond Street I-ADDRESS
-Street Street I-ADDRESS
-West Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5H PostalCode O
-3W4 PostalCode O
-
-W FundContact O
-. FundContact O
-James FundContact O
-Whitaker FundContact O
-
-
-10129 RegistrationNumber(Numérod'enregistrement) O
-
-2011 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-30 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-None FederalRegistration(Enregistrementfédéral) O
-
-VentureLink Company O
-Balanced Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-venturelinkfunds Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-801 Street B-ADDRESS
-- Street I-ADDRESS
-1 Street I-ADDRESS
-Richmond Street I-ADDRESS
-Street Street I-ADDRESS
-West Street E-ADDRESS
-
 Toronto City(Ville) O
 ON Province O
 M5H PostalCode O
 3W4 PostalCode O
-
 W FundContact O
-. FundContact O
 James FundContact O
 Whitaker FundContact O
-
-
-10130 RegistrationNumber(Numérod'enregistrement) O
-
-2001 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-23 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-Yes FederalRegistration(Enregistrementfédéral) O
-E2 Company O
-Venture Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-triaxcapital Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-1400 Street B-ADDRESS
-- Street I-ADDRESS
-70 Street I-ADDRESS
-York Street I-ADDRESS
-Street Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5J PostalCode O
-1S9 PostalCode O
-
-Phil FundContact O
-Reddon FundContact O
-
-
-10131 RegistrationNumber(Numérod'enregistrement) O
-
-2001 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-23 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-None FederalRegistration(Enregistrementfédéral) O
-
-Axis Company O
-Investment Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-bestfunds Website(Siteweb) O
-. Website(Siteweb) O
-ca Website(Siteweb) O
-
-400 Street B-ADDRESS
-- Street I-ADDRESS
-15 Street I-ADDRESS
-Toronto Street I-ADDRESS
-Street Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5C PostalCode O
-2E3 PostalCode O
-
-John FundContact O
-Richardson FundContact O
-
-
-10132 RegistrationNumber(Numérod'enregistrement) O
-
-2001 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-23 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-Yes FederalRegistration(Enregistrementfédéral) O
-
-Lawrence Company O
-Enterprise Company O
-Fund Company O
-Inc. Company O
-
-None Website(Siteweb) O
-
-92 Street B-ADDRESS
-Foxtail Street I-ADDRESS
-Court Street E-ADDRESS
-
-Georgetown City(Ville) O
-
-ON Province O
-
-L7 PostalCode O
-G PostalCode O
-0G2 PostalCode O
-
-Matthew FundContact O
-Hoang FundContact O
-
-
-10133 RegistrationNumber(Numérod'enregistrement) O
-2001 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-29 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-Yes FederalRegistration(Enregistrementfédéral) O
-
-VentureLink Company O
-Innovation Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-venturelinkfunds Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-602 Street B-ADDRESS
-- Street I-ADDRESS
-3 Street I-ADDRESS
-Church Street I-ADDRESS
-Street Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5E PostalCode O
-1M2 PostalCode O
-Geoff FundContact O
-Horton FundContact O
-
-
-10134 RegistrationNumber(Numérod'enregistrement) O
-
-2001 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-12 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-None FederalRegistration(Enregistrementfédéral) O
-
-CMDF Company O
-Early Company O
-Stage Company O
-Fund Company O
-Inc. Company O
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-cmdf Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-2006 Street B-ADDRESS
-- Street I-ADDRESS
-148 Street I-ADDRESS
-Fullarton Street I-ADDRESS
-Street Street E-ADDRESS
-
-London City(Ville) O
-
-ON Province O
-
-N6A PostalCode O
-5P3 PostalCode O
-
-Steve FundContact O
-Hawkins FundContact O
-
-
-10135 RegistrationNumber(Numérod'enregistrement) O
-
-2001 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-12 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-None FederalRegistration(Enregistrementfédéral) O
-
-Canadian Company O
-Medical Company O
-Discoveries Company O
-Fund Company O
-II Company O
-Inc. Company O
-
-None Website(Siteweb) O
-
-3740 Street B-ADDRESS
-- Street I-ADDRESS
-181 Street I-ADDRESS
-Bay Street I-ADDRESS
-Street Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5J PostalCode O
-2T3 PostalCode O
-
-Steve FundContact O
-Hawkins FundContact O
-
-
-10136 RegistrationNumber(Numérod'enregistrement) O
-
-2001 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-07 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-Yes FederalRegistration(Enregistrementfédéral) O
-The Company O
-VenGrowth Company O
-Advanced Company O
-Life Company O
-Sciences Company O
-Fund Company O
-Inc. Company O
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-vengrowth Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-1000 Street B-ADDRESS
-- Street I-ADDRESS
-105 Street I-ADDRESS
-Adelaide Street I-ADDRESS
-Street Street I-ADDRESS
-West Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5H PostalCode O
-1P9 PostalCode O
-
-Steve FundContact O
-Ruiter FundContact O
-
-
-10137 RegistrationNumber(Numérod'enregistrement) O
-
-2002 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-21 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-None FederalRegistration(Enregistrementfédéral) O
-
-VentureLink Company O
-Diversified Company O
-Income Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-venturelinkfunds Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-801 Street B-ADDRESS
-- Street I-ADDRESS
-1 Street I-ADDRESS
-Richmond Street I-ADDRESS
-Street Street I-ADDRESS
-West Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5H PostalCode O
-3W4 PostalCode O
-
-W FundContact O
-. FundContact O
-James FundContact O
-Whitaker FundContact O
-
-
-10138 RegistrationNumber(Numérod'enregistrement) O
-
-2002 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-21 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-None FederalRegistration(Enregistrementfédéral) O
-
-The Company O
-VentureLink Company O
-Diversified Company O
-Balanced Company O
-Fund Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-venturelinkfunds Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-801 Street B-ADDRESS
-- Street I-ADDRESS
-1 Street I-ADDRESS
-Richmond Street I-ADDRESS
-Street Street I-ADDRESS
-West Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5H PostalCode O
-3W4 PostalCode O
-
-W FundContact O
-. FundContact O
-James FundContact O
-Whitaker FundContact O
-
-
-10139 RegistrationNumber(Numérod'enregistrement) O
-2002 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-14 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-None FederalRegistration(Enregistrementfédéral) O
-
-Return Company O
-on Company O
-Innovation Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-roifund Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-
-37 Street B-ADDRESS
-Front Street I-ADDRESS
-Street Street I-ADDRESS
-East Street I-ADDRESS
-, Street I-ADDRESS
-4th Street I-ADDRESS
-Floor Street E-ADDRESS
-Toronto City(Ville) O
-
-ON Province O
-
-M5E PostalCode O
-1B3 PostalCode O
-
-David FundContact O
-Dundas FundContact O
-
-
-10140 RegistrationNumber(Numérod'enregistrement) O
-
-2002 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-02 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-Yes FederalRegistration(Enregistrementfédéral) O
-
-Horizons Company O
-Advantaged Company O
-Equity Company O
-Fund Company O
-Inc. Company O
-
-None Website(Siteweb) O
-
-700 Street B-ADDRESS
-- Street I-ADDRESS
-26 Street I-ADDRESS
-Wellington Street I-ADDRESS
-Street Street I-ADDRESS
-East Street E-ADDRESS
-
-Toronto City(Ville) O
-ON Province O
-
-M5J PostalCode O
-1S9 PostalCode O
-
-Steve FundContact O
-Hawkins FundContact O
-
-
-10141 RegistrationNumber(Numérod'enregistrement) O
-
-2002 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-12 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-02 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-None FederalRegistration(Enregistrementfédéral) O
-
-Venture Company O
-Partners Company O
-Balanced Company O
-Fund Company O
-Inc. Company O
-
-None Website(Siteweb) O
-
-1400 Street B-ADDRESS
-- Street I-ADDRESS
-70 Street I-ADDRESS
-York Street I-ADDRESS
-Street Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5J PostalCode O
-1S9 PostalCode O
-Phil FundContact O
-Reddon FundContact O
-
-
-10142 RegistrationNumber(Numérod'enregistrement) O
-
-2003 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-10 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-20 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-
-Yes FederalRegistration(Enregistrementfédéral) O
-
-The Company O
-VenGrowth Company O
-Traditional Company O
-Industries Company O
-Fund Company O
-Inc. Company O
-
-http://www Website(Siteweb) O
-. Website(Siteweb) O
-vengrowth Website(Siteweb) O
-. Website(Siteweb) O
-com Website(Siteweb) O
-1000 Street B-ADDRESS
-- Street I-ADDRESS
-105 Street I-ADDRESS
-Adelaide Street I-ADDRESS
-Street Street I-ADDRESS
-West Street E-ADDRESS
-
-Toronto City(Ville) O
-
-ON Province O
-
-M5H PostalCode O
-1P9 PostalCode O
-
-Steve FundContact O
-Ruiter FundContact O
-
-
-10143 RegistrationNumber(Numérod'enregistrement) O
-
-2003 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-11 RegistrationDate(Dated'enregistrement) O
-- RegistrationDate(Dated'enregistrement) O
-17 RegistrationDate(Dated'enregistrement) O
-00:00:00 RegistrationDate(Dated'enregistrement) O
-None FederalRegistration(Enregistrementfédéral) O
-
-Algonquin Company O
-Power Company O
-Venture Company O
-Fund Company O
-Inc. Company O
-
-None Website(Siteweb) O
-
-2845 Street B-ADDRESS
-Bristol Street I-ADDRESS
-Circle Street E-ADDRESS
-
-Oakville City(Ville) O
-
-ON Province O
-
-L6H PostalCode O
-7H7 PostalCode O
-
-Jeff FundContact O
-Norman FundContact O
-
 

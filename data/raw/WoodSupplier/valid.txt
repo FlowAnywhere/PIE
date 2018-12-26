@@ -1,213 +1,456 @@
-Wabigoon ManagementUnit O
+Crossroute ManagementUnit O
 Forest ManagementUnit O
+
+Tom ContactName B-PERSON
+Ratz ContactName E-PERSON
+
+Resolute Company B-ORG
+FP Company I-ORG
+Canada Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+
+Forestry Title O
+Manager Title O
+Ontario Title O
+ Phone O
+807 Phone O
+475 Phone O
+7706 Phone O
+
+tom Email O
+ratz Email O
+resolutefp Email O
+com Email O
+
+Dog ManagementUnit O
+River ManagementUnit O
+Matawin ManagementUnit O
+Forest ManagementUnit O
+
+Tom ContactName B-PERSON
+Ratz ContactName E-PERSON
+Resolute Company B-ORG
+FP Company I-ORG
+Canada Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+
+Forestry Title O
+Manager Title O
+Ontario Title O
+ Phone O
+807 Phone O
+475 Phone O
+7706 Phone O
+
+tom Email O
+ratz Email O
+resolutefp Email O
+com Email O
+
+
+Dryden ManagementUnit O
+Forest ManagementUnit O
+David ContactName B-PERSON
+Legg ContactName E-PERSON
+Dryden Company B-ORG
+Forest Company I-ORG
+Management Company I-ORG
+Company Company I-ORG
+Ltd Company I-ORG
+ Company E-ORG
+General Title O
+Manager Title O
+ Phone O
+807 Phone O
+223 Phone O
+7216 Phone O
+dfmc Email O
+shaw Email O
+ca Email O
+
+English ManagementUnit O
+River ManagementUnit O
+Forest ManagementUnit O
+Tom ContactName B-PERSON
+Ratz ContactName E-PERSON
+Resolute Company B-ORG
+FP Company I-ORG
+Canada Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+Forestry Title O
+Manager Title O
+Ontario Title O
+
+ Phone O
+807 Phone O
+475 Phone O
+7706 Phone O
+tom Email O
+ratz Email O
+resolutefp Email O
+com Email O
+
+
+Kenogami ManagementUnit O
+Forest ManagementUnit O
+
+Scott ContactName B-PERSON
+Boone ContactName E-PERSON
+Ne Company B-ORG
+Daa Company I-ORG
+Kii Company I-ORG
+Me Company I-ORG
+Naan Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+General Title O
+Manager Title O
+ Phone O
+807 Phone O
+629 Phone O
+9096 Phone O
+
+sdboone Email O
+hmeenterprises Email O
+ca Email O
+
+
+Kenora ManagementUnit O
+Forest ManagementUnit O
+Shannon ContactName B-PERSON
+Rawn ContactName E-PERSON
+
+Miisun Company B-ORG
+Forest Company I-ORG
+Management Company E-ORG
+SFL Title O
+Forester Title O
+ Phone O
+807 Phone O
+467 Phone O
+3351 Phone O
+
+shannon Email O
+rawn Email O
+miisun Email O
+ca Email O
+
+
+Lac ManagementUnit O
+Seul ManagementUnit O
+Forest ManagementUnit O
+
+Bert ContactName B-PERSON
+Hennessey ContactName E-PERSON
+Obishikokang Company B-ORG
+Resources Company I-ORG
+Corporation Company E-ORG
+General Title O
+Manager Title O
+ Phone O
+807 Phone O
+632 Phone O
+1732 Phone O
+bthennessey Email O
+tbaytel Email O
+net Email O
+
+Lake ManagementUnit O
+Nipigon ManagementUnit O
+Forest ManagementUnit O
+
+Scot ContactName B-PERSON
+Rubin ContactName E-PERSON
+
+Lake Company B-ORG
+Nipigon Company I-ORG
+Forest Company I-ORG
+Management Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+General Title O
+Manager Title O
+ Phone O
+807 Phone O
+621 Phone O
+7835 Phone O
+hsrforestry Email O
+gmail Email O
+com Email O
+
+
+Lakehead ManagementUnit O
+Forest ManagementUnit O
+
+Joe ContactName B-PERSON
+Ladouceur ContactName E-PERSON
+
+Greenmantle Company B-ORG
+Forest Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+General Title O
+Manager Title O
+
+ Phone O
+807 Phone O
+939 Phone O
+3130 Phone O
+
+jladouceur Email O
+greenmantle Email O
+ca Email O
+
+Ogoki ManagementUnit O
+Forest ManagementUnit O
+Chris ContactName B-PERSON
+Magee ContactName E-PERSON
+Nipigon Company B-ORG
+District Company E-ORG
+
+MNRF Title O
+District Title O
+Manager Title O
+
+ Phone O
+807 Phone O
+887 Phone O
+5013 Phone O
+chris Email O
+magee Email O
+ontario Email O
+ca Email O
+
+
+Red ManagementUnit O
+Lake ManagementUnit O
+Forest ManagementUnit O
+Robert ContactName B-PERSON
+Partridge ContactName E-PERSON
+Red Company B-ORG
+Lake Company I-ORG
+Forest Company I-ORG
+Management Company I-ORG
+Company Company I-ORG
+Ltd Company I-ORG
+ Company E-ORG
+General Title O
+Manager Title O
+ Phone O
+807 Phone O
+727 Phone O
+3320 Phone O
+robert Email O
+partridge Email O
+whitefeatherforest Email O
+com Email O
+
+Sapawe ManagementUnit O
+Forest ManagementUnit O
+
+Gary ContactName B-PERSON
+Both ContactName E-PERSON
+Rainy Company B-ORG
+Lake Company I-ORG
+Tribal Company I-ORG
+Resources Company I-ORG
+Management Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
+General Title O
+Manager Title O
+
+ Phone O
+807 Phone O
+274 Phone O
+8531 Phone O
+ext Phone O
+230 Phone O
+gboth Email O
+advisoryservices Email O
+ca Email O
+
+
+Trout ManagementUnit O
+Lake ManagementUnit O
+Forest ManagementUnit O
+
 Jack ContactName B-PERSON
 Harrison ContactName E-PERSON
-
-Domtar Company O
-Inc. Company O
+Domtar Company B-ORG
+Inc Company I-ORG
+ Company E-ORG
 
 Forestlands Title O
 Manager Title O
+ Phone O
+807 Phone O
+223 Phone O
+9257 Phone O
+jack Email O
+harrison Email O
+domtar Email O
+ca Email O
 
-( Phone B-PHONE
-807 Phone I-PHONE
-) Phone I-PHONE
-223 Phone I-PHONE
-- Phone I-PHONE
-9257 Phone E-PHONE
-jack Email B-EMAIL
-. Email I-EMAIL
-harrison Email I-EMAIL
-@ Email I-EMAIL
-domtar Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+Wabigoon ManagementUnit O
+Forest ManagementUnit O
+
+Jack ContactName B-PERSON
+Harrison ContactName E-PERSON
+Domtar Company B-ORG
+Inc Company I-ORG
+ Company E-ORG
+Forestlands Title O
+Manager Title O
+ Phone O
+807 Phone O
+223 Phone O
+9257 Phone O
+
+jack Email O
+harrison Email O
+domtar Email O
+ca Email O
 
 
 Whiskey ManagementUnit O
 Jack ManagementUnit O
 Forest ManagementUnit O
-
 Shawn ContactName B-PERSON
 Stevenson ContactName E-PERSON
 
-Kenora Company O
-District Company O
-
+Kenora Company B-ORG
+District Company E-ORG
 MNRF Title O
 A Title O
-/ Title O
 District Title O
 Manager Title O
-
-( Phone B-PHONE
-807 Phone I-PHONE
-) Phone I-PHONE
-468 Phone I-PHONE
-- Phone I-PHONE
-2579 Phone E-PHONE
-shawn Email B-EMAIL
-. Email I-EMAIL
-stevenson Email I-EMAIL
-@ Email I-EMAIL
-ontario Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+ Phone O
+807 Phone O
+468 Phone O
+2579 Phone O
+shawn Email O
+stevenson Email O
+ontario Email O
+ca Email O
 
 
 Whitefeather ManagementUnit O
 Forest ManagementUnit O
-
 Robert ContactName B-PERSON
 Partridge ContactName E-PERSON
 
-Whitefeather Company O
-Forest Company O
-Community Company O
-Resource Company O
-Management Company O
-Authority Company O
+Whitefeather Company B-ORG
+Forest Company I-ORG
+Community Company I-ORG
+Resource Company I-ORG
+Management Company I-ORG
+Authority Company E-ORG
 
 Woodlands Title O
 Manager Title O
+ Phone O
+807 Phone O
+727 Phone O
+3320 Phone O
 
-( Phone B-PHONE
-807 Phone I-PHONE
-) Phone I-PHONE
-727 Phone I-PHONE
-- Phone I-PHONE
-3320 Phone E-PHONE
-robert Email B-EMAIL
-. Email I-EMAIL
-partridge Email I-EMAIL
-@ Email I-EMAIL
-whitefeatherforest Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
+robert Email O
+partridge Email O
+whitefeatherforest Email O
+com Email O
 
 Algonquin ManagementUnit O
 Park ManagementUnit O
 Forest ManagementUnit O
-
 Jeff ContactName B-PERSON
 Leavey ContactName E-PERSON
-
-Algonquin Company O
-Forestry Company O
-Authority Company O
+Algonquin Company B-ORG
+Forestry Company I-ORG
+Authority Company E-ORG
 
 General Title O
 Manager Title O
-
-( Phone B-PHONE
-613 Phone I-PHONE
-) Phone I-PHONE
-735 Phone I-PHONE
-- Phone I-PHONE
-0173 Phone E-PHONE
-
-jeff Email B-EMAIL
-. Email I-EMAIL
-leavey Email I-EMAIL
-@ Email I-EMAIL
-algonquinforestry Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+ Phone O
+613 Phone O
+735 Phone O
+0173 Phone O
+jeff Email O
+leavey Email O
+algonquinforestry Email O
+on Email O
+ca Email O
 
 Bancroft ManagementUnit O
-- ManagementUnit O
 Minden ManagementUnit O
 Forest ManagementUnit O
-
 Peter ContactName B-PERSON
 Nitschke ContactName E-PERSON
-
-Bancroft Company O
-Minden Company O
-Forest Company O
-Company Company O
-Inc. Company O
+Bancroft Company B-ORG
+Minden Company I-ORG
+Forest Company I-ORG
+Company Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
 General Title O
 Manager Title O
 
-( Phone B-PHONE
-613 Phone I-PHONE
-) Phone I-PHONE
-332 Phone I-PHONE
-- Phone I-PHONE
-6890 Phone E-PHONE
+ Phone O
+613 Phone O
+332 Phone O
+6890 Phone O
 
-peter Email B-EMAIL
-@ Email I-EMAIL
-bmfci Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+peter Email O
+bmfci Email O
+ca Email O
 
 
 French ManagementUnit O
-- ManagementUnit O
 Severn ManagementUnit O
 Forest ManagementUnit O
-
 Barry ContactName B-PERSON
 Davidson ContactName E-PERSON
 
-Westwind Company O
-Forest Company O
-Stewardship Company O
-Inc. Company O
-
+Westwind Company B-ORG
+Forest Company I-ORG
+Stewardship Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 Forest Title O
 Manager Title O
 
-( Phone B-PHONE
-705 Phone I-PHONE
-) Phone I-PHONE
-746 Phone I-PHONE
-- Phone I-PHONE
-6832 Phone E-PHONE
-
-barrydavidson Email B-EMAIL
-@ Email I-EMAIL
-westwindforest Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+ Phone O
+705 Phone O
+746 Phone O
+6832 Phone O
+barrydavidson Email O
+westwindforest Email O
+ca Email O
 
 
 Mazinaw ManagementUnit O
-- ManagementUnit O
 Lanark ManagementUnit O
 Forest ManagementUnit O
-
 Matt ContactName B-PERSON
 Mertins ContactName E-PERSON
-
-Mazinaw Company O
-- Company O
-Lanark Company O
-Forest Company O
-Inc. Company O
+Mazinaw Company B-ORG
+Lanark Company I-ORG
+Forest Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
 General Title O
 Manager Title O
-
-( Phone B-PHONE
-613 Phone I-PHONE
-) Phone I-PHONE
-336 Phone I-PHONE
-- Phone I-PHONE
-0816 Phone E-PHONE
-
-mmertins Email B-EMAIL
-@ Email I-EMAIL
-mlfi Email I-EMAIL
-. Email I-EMAIL
-org Email E-EMAIL
+ Phone O
+613 Phone O
+336 Phone O
+0816 Phone O
+mmertins Email O
+mlfi Email O
+org Email O
 
 
 Ottawa ManagementUnit O
@@ -215,27 +458,23 @@ Valley ManagementUnit O
 Forest ManagementUnit O
 Nick ContactName B-PERSON
 Gooderham ContactName E-PERSON
-
-Ottawa Company O
-Valley Company O
-Forest Company O
-Inc. Company O
+Ottawa Company B-ORG
+Valley Company I-ORG
+Forest Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 
 General Title O
 Manager Title O
 
-( Phone B-PHONE
-613 Phone I-PHONE
-) Phone I-PHONE
-735 Phone I-PHONE
-- Phone I-PHONE
-1888 Phone E-PHONE
+ Phone O
+613 Phone O
+735 Phone O
+1888 Phone O
 
-ngooderham Email B-EMAIL
-@ Email I-EMAIL
-ovfi Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+ngooderham Email O
+ovfi Email O
+ca Email O
 
 
 MNRF ManagementUnit O
@@ -243,25 +482,17 @@ MNRF ManagementUnit O
 Chris ContactName B-PERSON
 Clowater ContactName E-PERSON
 
-Forest Company O
-Industry Company O
-Unit Company O
+Forest Company B-ORG
+Industry Company I-ORG
+Unit Company E-ORG
 
 Supervisor Title O
-
-( Phone B-PHONE
-705 Phone I-PHONE
-) Phone I-PHONE
-541 Phone I-PHONE
-- Phone I-PHONE
-2149 Phone E-PHONE
-
-christopher Email B-EMAIL
-. Email I-EMAIL
-clowater Email I-EMAIL
-@ Email I-EMAIL
-ontario Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+ Phone O
+705 Phone O
+541 Phone O
+2149 Phone O
+christopher Email O
+clowater Email O
+ontario Email O
+ca Email O
 

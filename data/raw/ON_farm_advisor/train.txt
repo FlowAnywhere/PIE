@@ -1,13 +1,11 @@
 CGA Designation O
-
 None Company O
+
 287 StreetAddress B-ADDRESS
 Tiffin StreetAddress I-ADDRESS
 Street StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 Unit StreetAddress I-ADDRESS
 12 StreetAddress E-ADDRESS
-
 Barrie City O
 
 ON Province O
@@ -15,92 +13,67 @@ ON Province O
 L4N PostalCode O
 7R8 PostalCode O
 
-carl Email B-EMAIL
-@ Email I-EMAIL
-carleadams Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+carl Email O
+carleadams Email O
+com Email O
 
 None Website O
 
 30 YearsofAgriculturalExperience O
 
 23 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
 
 MBA Designation O
 DMS Designation O
 CAFA Designation O
-
-HISGRAIIN Company O
-Commodities Company O
-Inc. Company O
-
+HISGRAIIN Company B-ORG
+Commodities Company I-ORG
+Inc Company I-ORG
+ Company E-ORG
 18 StreetAddress B-ADDRESS
 Aldersbrook StreetAddress I-ADDRESS
 Crescent StreetAddress E-ADDRESS
 
 London City O
-
 ON Province O
-
-N6 PostalCode O
-G PostalCode O
+N6G PostalCode O
 3R3 PostalCode O
-victor Email B-EMAIL
-. Email I-EMAIL
-aideyen Email I-EMAIL
-@ Email I-EMAIL
-yahoo Email I-EMAIL
-. Email I-EMAIL
-com Email I-EMAIL
-, Email I-EMAIL
-victor Email I-EMAIL
-. Email I-EMAIL
-aideyan Email I-EMAIL
-@ Email I-EMAIL
-hisgraiincommodities Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
+victor Email O
+aideyen Email O
+yahoo Email O
+com Email O
+victor Email O
+aideyan Email O
+hisgraiincommodities Email O
+com Email O
 None Website O
-
 20 YearsofAgriculturalExperience O
-
 20 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 None Designation O
-Collins Company O
-Barrow Company O
-CK Company O
-, Company O
-LLP Company O
+
+Collins Company B-ORG
+Barrow Company I-ORG
+CK Company I-ORG
+LLP Company E-ORG
 62 StreetAddress B-ADDRESS
 Keil StreetAddress I-ADDRESS
 Drive StreetAddress I-ADDRESS
 South StreetAddress E-ADDRESS
 
 Chatham City O
-
 ON Province O
-
 None PostalCode O
 
-jaitken Email B-EMAIL
-@ Email I-EMAIL
-collinsbarrow Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+jaitken Email O
+collinsbarrow Email O
+com Email O
 
 www Website O
-. Website O
 collinsbarrow Website O
-. Website O
 com Website O
 
 30 YearsofAgriculturalExperience O
@@ -109,89 +82,62 @@ com Website O
 
 English OfficialLanguage O
 
-
 B Designation O
-. Designation O
 A Designation O
-. Designation O
-( Designation O
 Hons Designation O
-) Designation O
-, Designation O
 LL Designation O
-. Designation O
 B Designation O
-. Designation O
-
-ALLEN Company O
-Trusts Company O
-& Company O
-Estates Company O
+ Designation O
+ALLEN Company B-ORG
+Trusts Company I-ORG
+Estates Company E-ORG
 
 None StreetAddress O
-
 Moose City O
 Creek City O
+
 ON Province O
-
 None PostalCode O
-
-Nicole Email B-EMAIL
-@ Email I-EMAIL
-AllenTrustsandEstates Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+Nicole Email O
+AllenTrustsandEstates Email O
+com Email O
 
 None Website O
-
 7 YearsofAgriculturalExperience O
-
 7 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
 
 
 None Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Professional Company I-ORG
+Accountants Company E-ORG
 
 1490 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
 Street StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 Suite StreetAddress I-ADDRESS
 200 StreetAddress I-ADDRESS
-, StreetAddress E-ADDRESS
+ StreetAddress E-ADDRESS
 
 London City O
 
 ON Province O
-
-N6 PostalCode O
-G PostalCode O
+N6G PostalCode O
 0J4 PostalCode O
-
-danderson Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+danderson Email O
+alliedtax Email O
+ca Email O
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
-
 21 YearsofAgriculturalExperience O
 
 6 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
 
@@ -205,64 +151,44 @@ Drive StreetAddress E-ADDRESS
 Kingston City O
 
 ON Province O
-
 K7P PostalCode O
 1C9 PostalCode O
 
-janderson150 Email B-EMAIL
-@ Email I-EMAIL
-cogeco Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+janderson150 Email O
+cogeco Email O
+ca Email O
 www Website O
-. Website O
 collinsbarrow Website O
-. Website O
 com Website O
-
 40 YearsofAgriculturalExperience O
-
 38 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
 
 CGA Designation O
-, Designation O
 CFP Designation O
-, Designation O
 BA Designation O
 Econ Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Accountants Company E-ORG
 1871 StreetAddress B-ADDRESS
 Cuddy StreetAddress I-ADDRESS
 Drive StreetAddress E-ADDRESS
-
 Kenwood City O
 
 ON Province O
 
-N0 PostalCode O
-M PostalCode O
+N0M PostalCode O
 2B0 PostalCode O
 
-janderson Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+janderson Email O
+alliedtax Email O
+ca Email O
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
 
 18 YearsofAgriculturalExperience O
@@ -270,7 +196,6 @@ ca Website O
 11 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
-
 
 None Designation O
 
@@ -283,165 +208,122 @@ Avenue StreetAddress E-ADDRESS
 London City O
 
 ON Province O
-
 N6B PostalCode O
 1Z5 PostalCode O
 
-mandrews Email B-EMAIL
-@ Email I-EMAIL
-assante Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
+mandrews Email O
+assante Email O
+com Email O
 www Website O
-. Website O
 farmfitness Website O
-. Website O
 ca Website O
-
 22 YearsofAgriculturalExperience O
 
 22 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
-
 
 None Designation O
 
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Professional Company I-ORG
+Accountants Company E-ORG
 
 2122 StreetAddress B-ADDRESS
 Blackwater StreetAddress I-ADDRESS
 Rd StreetAddress E-ADDRESS
-
 London City O
 ON Province O
 
 N5X PostalCode O
 4J9 PostalCode O
 
-cannis Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+cannis Email O
+alliedtax Email O
+ca Email O
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
 
 20 YearsofAgriculturalExperience O
-
 15 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
-
 
 None Designation O
 
-Famme Company O
-& Company O
-Co. Company O
-Professional Company O
-Corporation Company O
-Chartered Company O
-Accounts Company O
+Famme Company B-ORG
+Co Company I-ORG
+Professional Company I-ORG
+Corporation Company I-ORG
+Chartered Company I-ORG
+Accounts Company E-ORG
 125 StreetAddress B-ADDRESS
 Ontario StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 Stratford City O
-
 ON Province O
 
 N5A PostalCode O
 3H1 PostalCode O
-tanstett Email B-EMAIL
-@ Email I-EMAIL
-fammeandco Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-www Website O
-. Website O
-fammeandco Website O
-. Website O
-on Website O
-. Website O
-ca Website O
 
+tanstett Email O
+fammeandco Email O
+on Email O
+ca Email O
+
+www Website O
+fammeandco Website O
+on Website O
+ca Website O
 20 YearsofAgriculturalExperience O
 
 20 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 BSc Designation O
-( Designation O
 Agr Designation O
-) Designation O
-, Designation O
 DVM Designation O
-, Designation O
 MBA Designation O
-
 None Company O
+
 1507 StreetAddress B-ADDRESS
 Highpoint StreetAddress I-ADDRESS
 Sideroad StreetAddress E-ADDRESS
 
 Caledon City O
-
 ON Province O
-
-L7 PostalCode O
-K PostalCode O
+L7K PostalCode O
 0J8 PostalCode O
-
-tomarmstrong Email B-EMAIL
-@ Email I-EMAIL
-rogers Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
+tomarmstrong Email O
+rogers Email O
+com Email O
 None Website O
 
 25 YearsofAgriculturalExperience O
+
 10 YearsofFarmFinancialExperience O
+
 English OfficialLanguage O
 
+
 None Designation O
-
 None Company O
-
 4421 StreetAddress B-ADDRESS
 Lincoln StreetAddress I-ADDRESS
 Avenue StreetAddress E-ADDRESS
-
 Beamsville City O
 
 ON Province O
 
 L0R PostalCode O
 1B3 PostalCode O
+artbailey Email O
+sympatico Email O
+ca Email O
 
-artbailey Email B-EMAIL
-@ Email I-EMAIL
-sympatico Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
 None Website O
-
 27 YearsofAgriculturalExperience O
 
 27 YearsofFarmFinancialExperience O
@@ -450,90 +332,62 @@ English OfficialLanguage O
 
 
 None Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Charted Company O
-Professional Company O
-Accountants Company O
-
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Charted Company I-ORG
+Professional Company I-ORG
+Accountants Company E-ORG
 1490 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
+St StreetAddress I-ADDRESS
 Suite StreetAddress I-ADDRESS
 200 StreetAddress E-ADDRESS
-
 London City O
 
 ON Province O
 
-N6 PostalCode O
-G PostalCode O
+N6G PostalCode O
 0J4 PostalCode O
-
-lbenson Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+lbenson Email O
+alliedtax Email O
+ca Email O
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
-
 24 YearsofAgriculturalExperience O
-
 24 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
 
 
 CPA Designation O
-, Designation O
 CGA Designation O
-, Designation O
 CFP Designation O
 
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Charted Company O
-Professional Company O
-Accountants Company O
-
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Charted Company I-ORG
+Professional Company I-ORG
+Accountants Company E-ORG
 1490 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
+St StreetAddress I-ADDRESS
 Suite StreetAddress I-ADDRESS
 200 StreetAddress E-ADDRESS
 
 London City O
-
 ON Province O
-
-N6 PostalCode O
-G PostalCode O
+N6G PostalCode O
 0J4 PostalCode O
-
-mbenson Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+mbenson Email O
+alliedtax Email O
+ca Email O
 
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
-
 28 YearsofAgriculturalExperience O
 
 28 YearsofFarmFinancialExperience O
@@ -547,41 +401,30 @@ None Company O
 7631 StreetAddress B-ADDRESS
 County StreetAddress I-ADDRESS
 Road StreetAddress I-ADDRESS
-# StreetAddress I-ADDRESS
 17 StreetAddress E-ADDRESS
-
 Rockland City O
-
 ON Province O
 
-K4 PostalCode O
-K PostalCode O
+K4K PostalCode O
 1W5 PostalCode O
 
-bichon Email B-EMAIL
-@ Email I-EMAIL
-nbnet Email I-EMAIL
-. Email I-EMAIL
-nb Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+bichon Email O
+nbnet Email O
+nb Email O
+ca Email O
 None Website O
-
 28 YearsofAgriculturalExperience O
-
 28 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
-& OfficialLanguage O
 French OfficialLanguage O
 
-
 None Designation O
+
 None Company O
+
 RR StreetAddress B-ADDRESS
 2 StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 135046 StreetAddress I-ADDRESS
 9th StreetAddress I-ADDRESS
 Line StreetAddress E-ADDRESS
@@ -589,108 +432,77 @@ Line StreetAddress E-ADDRESS
 Markdale City O
 
 ON Province O
-
 N0C PostalCode O
 1H0 PostalCode O
 
-dbierworth Email B-EMAIL
-@ Email I-EMAIL
-hotmail Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+dbierworth Email O
+hotmail Email O
+com Email O
 
 None Website O
-
 27 YearsofAgriculturalExperience O
 
 25 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 C Designation O
-. Designation O
 A Designation O
-. Designation O
+ Designation O
+
 None Company O
 
 PO StreetAddress B-ADDRESS
 Box StreetAddress I-ADDRESS
 580 StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 0342 StreetAddress I-ADDRESS
 Gerrie StreetAddress I-ADDRESS
 Road StreetAddress E-ADDRESS
-
 Elora City O
-
 ON Province O
-
 N0B PostalCode O
 1S0 PostalCode O
 
-tblonde Email B-EMAIL
-@ Email I-EMAIL
-cbelora Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+tblonde Email O
+cbelora Email O
+com Email O
 
 www Website O
-. Website O
 collinsbarrow Website O
-. Website O
 com Website O
-
 11 YearsofAgriculturalExperience O
 11 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 C Designation O
-. Designation O
 A Designation O
-. Designation O
+ Designation O
 
-c Company O
-/ Company O
-o Company O
-Pinder Company O
-, Company O
-Taylor Company O
-, Company O
-McNeilly Company O
-, Company O
-Godkin Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-& Company O
-Business Company O
-Advisors Company O
-
+c Company B-ORG
+o Company I-ORG
+Pinder Company I-ORG
+Taylor Company I-ORG
+McNeilly Company I-ORG
+Godkin Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Accountants Company I-ORG
+Business Company I-ORG
+Advisors Company E-ORG
 71 StreetAddress B-ADDRESS
 Main StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 North City O
 Exeter City O
 
 ON Province O
-
-N0 PostalCode O
-M PostalCode O
+N0M PostalCode O
 1S3 PostalCode O
 
-ken Email B-EMAIL
-. Email I-EMAIL
-boersma Email I-EMAIL
-@ Email I-EMAIL
-ptmg Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+ken Email O
+boersma Email O
+ptmg Email O
+on Email O
+ca Email O
 
 None Website O
 
@@ -703,37 +515,29 @@ English OfficialLanguage O
 
 None Designation O
 
-Collins Company O
-Barrow Company O
+Collins Company B-ORG
+Barrow Company E-ORG
 
 495 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
 Street StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 Suite StreetAddress I-ADDRESS
 700 StreetAddress I-ADDRESS
 PO StreetAddress I-ADDRESS
 Box StreetAddress I-ADDRESS
 5005 StreetAddress E-ADDRESS
+
 London City O
 
 ON Province O
-
 N6A PostalCode O
 5G4 PostalCode O
-
-mbondy Email B-EMAIL
-@ Email I-EMAIL
-collinsbarrow Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
+mbondy Email O
+collinsbarrow Email O
+com Email O
 www Website O
-. Website O
 collinsbarrow Website O
-. Website O
 com Website O
-
 25 YearsofAgriculturalExperience O
 
 25 YearsofFarmFinancialExperience O
@@ -742,53 +546,39 @@ English OfficialLanguage O
 
 
 BSc Designation O
-( Designation O
 Agr Designation O
-) Designation O
 M Designation O
 Sc Designation O
 P Designation O
 Ag Designation O
-. Designation O
-
+ Designation O
 None Company O
-
 8763 StreetAddress B-ADDRESS
 Springfield StreetAddress I-ADDRESS
 Rd StreetAddress I-ADDRESS
-. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 RR StreetAddress I-ADDRESS
 1 StreetAddress E-ADDRESS
-
 Aylmer City O
 
 ON Province O
-
 N5H PostalCode O
 2R1 PostalCode O
 
-eboss Email B-EMAIL
-@ Email I-EMAIL
-amtelcom Email I-EMAIL
-. Email I-EMAIL
-net Email E-EMAIL
-
+eboss Email O
+amtelcom Email O
+net Email O
 None Website O
 
 23 YearsofAgriculturalExperience O
-
 10 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
 
 
 None Designation O
-
-Bossy Company O
-Nagy Company O
-Geoffrey Company O
-
+Bossy Company B-ORG
+Nagy Company I-ORG
+Geoffrey Company E-ORG
 52 StreetAddress B-ADDRESS
 Ridout StreetAddress I-ADDRESS
 Street StreetAddress I-ADDRESS
@@ -798,59 +588,38 @@ Tillsonburg City O
 
 ON Province O
 
-N4 PostalCode O
-G PostalCode O
+N4G PostalCode O
 2E3 PostalCode O
-
-mrbossy Email B-EMAIL
-@ Email I-EMAIL
-bnggroup Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+mrbossy Email O
+bnggroup Email O
+ca Email O
 
 www Website O
-. Website O
 bnggroup Website O
-. Website O
 ca Website O
-
 25 YearsofAgriculturalExperience O
-
 25 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 M Designation O
-. Designation O
 Sc Designation O
-. Designation O
-, Designation O
 MBA Designation O
-. Designation O
 A Designation O
-. Designation O
 Ag Designation O
-. Designation O
-
+ Designation O
 None Company O
 4473 StreetAddress B-ADDRESS
-, StreetAddress I-ADDRESS
 Rue StreetAddress I-ADDRESS
 Barrière StreetAddress E-ADDRESS
-
 Laval City O
 
 QC Province O
 
 H7W PostalCode O
 0E2 PostalCode O
-
-jbouananeca Email B-EMAIL
-@ Email I-EMAIL
-yahoo Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+jbouananeca Email O
+yahoo Email O
+ca Email O
 
 None Website O
 
@@ -858,123 +627,89 @@ None Website O
 20 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
-& OfficialLanguage O
 French OfficialLanguage O
-
 
 None Designation O
 
-Collins Company O
-Barrow Company O
-KMD Company O
-LLP Company O
-
+Collins Company B-ORG
+Barrow Company I-ORG
+KMD Company I-ORG
+LLP Company E-ORG
 413 StreetAddress B-ADDRESS
 Hibernia StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 Stratford City O
-
 ON Province O
 
 N5A PostalCode O
 5W2 PostalCode O
-
-jrbowles Email B-EMAIL
-@ Email I-EMAIL
-collinsbarrow Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
+jrbowles Email O
+collinsbarrow Email O
+com Email O
 www Website O
-. Website O
 collinsbarrow Website O
-. Website O
 com Website O
-
 11 YearsofAgriculturalExperience O
-
 11 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 None Designation O
-
-Famme Company O
-& Company O
-Co. Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-
+Famme Company B-ORG
+Co Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Accountants Company E-ORG
 125 StreetAddress B-ADDRESS
 Ontario StreetAddress I-ADDRESS
 St StreetAddress E-ADDRESS
 
 Stratford City O
-
 ON Province O
+
 N5A PostalCode O
 3H1 PostalCode O
 
-pbrickman Email B-EMAIL
-@ Email I-EMAIL
-fammeandco Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+pbrickman Email O
+fammeandco Email O
+on Email O
+ca Email O
 
 www Website O
-. Website O
 fammeandco Website O
-. Website O
 on Website O
-. Website O
 ca Website O
-
 10 YearsofAgriculturalExperience O
-
 4 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
-
 
 None Designation O
 
-Van Company O
-Pary Company O
-’s Company O
-Micacchi Company O
-Shippey Company O
-& Company O
-Warnick Company O
-LLP Company O
-
+Van Company B-ORG
+Pary Company I-ORG
+s Company I-ORG
+Micacchi Company I-ORG
+Shippey Company I-ORG
+Warnick Company I-ORG
+LLP Company E-ORG
 432 StreetAddress B-ADDRESS
 Simcoe StreetAddress I-ADDRESS
 Street StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 PO StreetAddress I-ADDRESS
 Box StreetAddress I-ADDRESS
 20059 StreetAddress E-ADDRESS
-
 Woodstock City O
 
 ON Province O
-
 N4S PostalCode O
 8X8 PostalCode O
 
-greg Email B-EMAIL
-@ Email I-EMAIL
-vmswca Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-None Website O
+greg Email O
+vmswca Email O
+com Email O
 
+None Website O
 12 YearsofAgriculturalExperience O
+
 12 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
@@ -982,14 +717,12 @@ English OfficialLanguage O
 
 None Designation O
 
-Famme Company O
-& Company O
-Co. Company O
-Professional Company O
-Corporation Company O
-Chartered Company O
-Accounts Company O
-
+Famme Company B-ORG
+Co Company I-ORG
+Professional Company I-ORG
+Corporation Company I-ORG
+Chartered Company I-ORG
+Accounts Company E-ORG
 125 StreetAddress B-ADDRESS
 Ontario StreetAddress I-ADDRESS
 St StreetAddress E-ADDRESS
@@ -999,21 +732,13 @@ ON Province O
 
 N5A PostalCode O
 3H1 PostalCode O
-
-scampbell Email B-EMAIL
-@ Email I-EMAIL
-fammeandco Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+scampbell Email O
+fammeandco Email O
+on Email O
+ca Email O
 www Website O
-. Website O
 fammeandco Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 5 YearsofAgriculturalExperience O
@@ -1025,55 +750,39 @@ English OfficialLanguage O
 
 None Designation O
 
-Milt Company O
-Carr Company O
-& Company O
-Associates Company O
-
+Milt Company B-ORG
+Carr Company I-ORG
+Associates Company E-ORG
 48 StreetAddress B-ADDRESS
 Alliance StreetAddress I-ADDRESS
 Blvd StreetAddress I-ADDRESS
-. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 Unit StreetAddress I-ADDRESS
 205 StreetAddress E-ADDRESS
-
 Barrie City O
-
 ON Province O
 
-L4 PostalCode O
-M PostalCode O
+L4M PostalCode O
 5K3 PostalCode O
 
 None Email O
-
 None Website O
 
 22 YearsofAgriculturalExperience O
-None YearsofFarmFinancialExperience O
 
+None YearsofFarmFinancialExperience O
 English OfficialLanguage O
 
-
 None Designation O
-
 None Company O
 
 None StreetAddress O
-
 Stratford City O
 
 ON Province O
-
 None PostalCode O
-
-CgCauchi Email B-EMAIL
-@ Email I-EMAIL
-ZeroResearch Email I-EMAIL
-. Email I-EMAIL
-net Email E-EMAIL
-
+CgCauchi Email O
+ZeroResearch Email O
+net Email O
 None Website O
 
 36 YearsofAgriculturalExperience O
@@ -1084,115 +793,85 @@ English OfficialLanguage O
 
 
 None Designation O
-
-Milt Company O
-Carr Company O
-& Company O
-Associates Company O
-
+Milt Company B-ORG
+Carr Company I-ORG
+Associates Company E-ORG
 None StreetAddress O
 
 Cookstown City O
 
 ON Province O
-
 None PostalCode O
 
-dave Email B-EMAIL
-@ Email I-EMAIL
-davidcohlmeyer Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+dave Email O
+davidcohlmeyer Email O
+ca Email O
 www Website O
-. Website O
 davidcohlmeyer Website O
-. Website O
 ca Website O
 
 24 YearsofAgriculturalExperience O
-
 4 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
-& OfficialLanguage O
 Farm OfficialLanguage O
 Spanish OfficialLanguage O
 
 
 P Designation O
-. Designation O
 Ag Designation O
 
 None Company O
+
 None StreetAddress O
 
-St. City O
+St City O
 Catharines City O
 
 ON Province O
 
 None PostalCode O
 
-mjcombe Email B-EMAIL
-@ Email I-EMAIL
-sympatico Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+mjcombe Email O
+sympatico Email O
+ca Email O
 None Website O
-
 25 YearsofAgriculturalExperience O
-
 20 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
 
-
 B Designation O
-. Designation O
 Sc Designation O
-; Designation O
 P Designation O
-. Designation O
 Ag Designation O
-
 None Company O
+
 23 StreetAddress B-ADDRESS
 Clapperton StreetAddress I-ADDRESS
 Ave StreetAddress E-ADDRESS
 
 Toronto City O
 ON Province O
-
-L4 PostalCode O
-K PostalCode O
+L4K PostalCode O
 5T9 PostalCode O
 
-Samuel Email B-EMAIL
-. Email I-EMAIL
-cuevas Email I-EMAIL
-@ Email I-EMAIL
-henryschein Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+Samuel Email O
+cuevas Email O
+henryschein Email O
+ca Email O
 None Website O
-
 20 YearsofAgriculturalExperience O
 
 7 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 None Designation O
-
 None Company O
 
 181 StreetAddress B-ADDRESS
 Groh StreetAddress I-ADDRESS
 Ave StreetAddress I-ADDRESS
-. StreetAddress I-ADDRESS
 Unit StreetAddress I-ADDRESS
 4 StreetAddress E-ADDRESS
 
@@ -1201,131 +880,97 @@ Cambridge City O
 ON Province O
 N3C PostalCode O
 1Y8 PostalCode O
-
-pauldahmeris Email B-EMAIL
-@ Email I-EMAIL
-rogers Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+pauldahmeris Email O
+rogers Email O
+com Email O
 
 None Website O
+
 30 YearsofAgriculturalExperience O
 
 30 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
-
 
 None Designation O
 
 None Company O
-
 15564 StreetAddress B-ADDRESS
 Muirkirk StreetAddress I-ADDRESS
 Line StreetAddress E-ADDRESS
-
 Muirkirk City O
 
 ON Province O
-
 N0L PostalCode O
 1X0 PostalCode O
 
-len Email B-EMAIL
-@ Email I-EMAIL
-davieslegacy Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+len Email O
+davieslegacy Email O
+ca Email O
+
 www Website O
-. Website O
 davieslegacy Website O
-. Website O
 ca Website O
 
 39 YearsofAgriculturalExperience O
-
 10 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
 
 
 BA Designation O
-, Designation O
 Principal Designation O
-
-Millard Company O
-, Company O
-Rouse Company O
-& Company O
-Roseburgh Company O
-LLP Company O
+Millard Company B-ORG
+Rouse Company I-ORG
+Roseburgh Company I-ORG
+LLP Company E-ORG
 
 148 StreetAddress B-ADDRESS
 Church StreetAddress I-ADDRESS
 St StreetAddress I-ADDRESS
 W StreetAddress E-ADDRESS
-
 Delhi City O
-
 ON Province O
+
 N4B PostalCode O
 1W1 PostalCode O
-chrisdebackere Email B-EMAIL
-@ Email I-EMAIL
-mrrca Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+chrisdebackere Email O
+mrrca Email O
+com Email O
+
 www Website O
-. Website O
 millards Website O
-. Website O
 com Website O
 32 YearsofAgriculturalExperience O
-
 30 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
 
 
 CPA Designation O
-, Designation O
 CGA Designation O
-, Designation O
 CFP Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Accountants Company O
-
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Accountants Company E-ORG
 1490 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
+St StreetAddress I-ADDRESS
 Suite StreetAddress I-ADDRESS
 200 StreetAddress E-ADDRESS
-
 London City O
 ON Province O
-
-N6 PostalCode O
-G PostalCode O
+N6G PostalCode O
 0J4 PostalCode O
 
-ldick Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+ldick Email O
+alliedtax Email O
+ca Email O
 
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
-
 15 YearsofAgriculturalExperience O
 
 15 YearsofFarmFinancialExperience O
@@ -1334,63 +979,49 @@ English OfficialLanguage O
 
 
 CPA Designation O
-, Designation O
 CGA Designation O
 
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Professional Company I-ORG
+Accountants Company E-ORG
 1490 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
+St StreetAddress I-ADDRESS
 Suite StreetAddress I-ADDRESS
 200 StreetAddress E-ADDRESS
-
 London City O
 
 ON Province O
 
-N6 PostalCode O
-G PostalCode O
+N6G PostalCode O
 0J4 PostalCode O
+jdomm Email O
+alliedtax Email O
+ca Email O
 
-jdomm Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
-
 8 YearsofAgriculturalExperience O
 
 8 YearsofFarmFinancialExperience O
+
 English OfficialLanguage O
 
-
 None Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Professional Company I-ORG
+Accountants Company E-ORG
 
 1490 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
+St StreetAddress I-ADDRESS
 Suite StreetAddress I-ADDRESS
 200 StreetAddress E-ADDRESS
 
@@ -1398,81 +1029,57 @@ London City O
 
 ON Province O
 
-N6 PostalCode O
-G PostalCode O
+N6G PostalCode O
 0J4 PostalCode O
-
-vdoupe Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+vdoupe Email O
+alliedtax Email O
+ca Email O
 
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
 
 28 YearsofAgriculturalExperience O
 
 28 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 FCA Designation O
-, Designation O
 CFP Designation O
-, Designation O
 CFE Designation O
-
-J Company O
-. Company O
-P Company O
-. Company O
-Duffy Company O
-, Company O
-Chartered Company O
-Accountant Company O
+J Company B-ORG
+P Company I-ORG
+Duffy Company I-ORG
+Chartered Company I-ORG
+Accountant Company E-ORG
 
 395 StreetAddress B-ADDRESS
 Northlake StreetAddress I-ADDRESS
 Dr StreetAddress E-ADDRESS
-Waterloo City O
 
+Waterloo City O
 ON Province O
 
 N2V PostalCode O
 1W8 PostalCode O
-
-jpd Email B-EMAIL
-@ Email I-EMAIL
-duffy Email I-EMAIL
-. Email I-EMAIL
-net Email E-EMAIL
-
+jpd Email O
+duffy Email O
+net Email O
 None Website O
-
 30 YearsofAgriculturalExperience O
 
 30 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
 
-
 P Designation O
-. Designation O
 Ag Designation O
-. Designation O
-,CAC Designation O
-
+CAC Designation O
 None Company O
 
 69436 StreetAddress B-ADDRESS
 Mollard StreetAddress I-ADDRESS
 Line StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 RR StreetAddress I-ADDRESS
 3 StreetAddress E-ADDRESS
 
@@ -1482,44 +1089,31 @@ ON Province O
 
 NOM PostalCode O
 2K0 PostalCode O
-
-eagleson Email B-EMAIL
-@ Email I-EMAIL
-hay Email I-EMAIL
-. Email I-EMAIL
-net Email E-EMAIL
+eagleson Email O
+hay Email O
+net Email O
 
 None Website O
 
 40 YearsofAgriculturalExperience O
-
 25 YearsofFarmFinancialExperience O
+
 English OfficialLanguage O
 
-
 None Designation O
-
 None Company O
 132 StreetAddress B-ADDRESS
 Queen StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 Chatham City O
 
 ON Province O
-
-N7 PostalCode O
-M PostalCode O
+N7M PostalCode O
 2G6 PostalCode O
-
-bradeaster Email B-EMAIL
-@ Email I-EMAIL
-sympatico Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+bradeaster Email O
+sympatico Email O
+ca Email O
 None Website O
-
 None YearsofAgriculturalExperience O
 
 25 YearsofFarmFinancialExperience O
@@ -1529,60 +1123,46 @@ English OfficialLanguage O
 
 None Designation O
 
-Famme Company O
-& Company O
-Co Company O
-Professional Company O
-Corporation Company O
+Famme Company B-ORG
+Co Company I-ORG
+Professional Company I-ORG
+Corporation Company E-ORG
 
 None StreetAddress O
-
 Stratford City O
 
 ON Province O
 None PostalCode O
 
-jferguson Email B-EMAIL
-@ Email I-EMAIL
-fammeandco Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+jferguson Email O
+fammeandco Email O
+on Email O
+ca Email O
 
 www Website O
-. Website O
 fammeandco Website O
-. Website O
 on Website O
-. Website O
 ca Website O
-
 32 YearsofAgriculturalExperience O
+
 30 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
 
-
 None Designation O
 None Company O
-
 237 StreetAddress B-ADDRESS
 Mapleview StreetAddress I-ADDRESS
-Dr. StreetAddress I-ADDRESS
+Dr StreetAddress I-ADDRESS
 E StreetAddress E-ADDRESS
-
 Barrie City O
 
 ON Province O
 
 L4N PostalCode O
 7G3 PostalCode O
-
 None Email O
-
 None Website O
-
 20 YearsofAgriculturalExperience O
 8 YearsofFarmFinancialExperience O
 
@@ -1591,31 +1171,25 @@ English OfficialLanguage O
 
 None Designation O
 
-The Company O
-Fisher Company O
-Corporation Company O
-
+The Company B-ORG
+Fisher Company I-ORG
+Corporation Company E-ORG
 93 StreetAddress B-ADDRESS
 Dufferin StreetAddress I-ADDRESS
 Avenue StreetAddress E-ADDRESS
-
 London City O
 
 ON Province O
-
 N6A PostalCode O
 1K3 PostalCode O
 
-sfisher Email B-EMAIL
-@ Email I-EMAIL
-fishercorp Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+sfisher Email O
+fishercorp Email O
+ca Email O
 
 None Website O
 
 30 YearsofAgriculturalExperience O
-
 30 YearsofFarmFinancialExperience O
 
 English OfficialLanguage O
@@ -1623,185 +1197,140 @@ English OfficialLanguage O
 
 None Designation O
 
-Sheri Company O
-Flater Company O
-CGA Company O
-Professional Company O
-Corporation Company O
-
+Sheri Company B-ORG
+Flater Company I-ORG
+CGA Company I-ORG
+Professional Company I-ORG
+Corporation Company E-ORG
 93 StreetAddress B-ADDRESS
 Main StreetAddress I-ADDRESS
 St StreetAddress I-ADDRESS
 S StreetAddress I-ADDRESS
-. StreetAddress E-ADDRESS
-
+ StreetAddress E-ADDRESS
 Forest City O
 
 ON Province O
 
 N0N PostalCode O
 1J0 PostalCode O
-
-sheriflater Email B-EMAIL
-@ Email I-EMAIL
-gmail Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+sheriflater Email O
+gmail Email O
+com Email O
 
 None Website O
-
 25 YearsofAgriculturalExperience O
 
 17 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 C Designation O
-. Designation O
 A Designation O
-. Designation O
+ Designation O
 
 None Company O
 
 14 StreetAddress B-ADDRESS
 Victoria StreetAddress I-ADDRESS
 Ave StreetAddress E-ADDRESS
-
 Essex City O
-
 ON Province O
-
-N8 PostalCode O
-M PostalCode O
+N8M PostalCode O
 1M3 PostalCode O
 
-paul Email B-EMAIL
-@ Email I-EMAIL
-thebusinesstherapist Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+paul Email O
+thebusinesstherapist Email O
+com Email O
 www Website O
-. Website O
 thebusinesstherapist Website O
-. Website O
 com Website O
-
 0 YearsofAgriculturalExperience O
-28 YearsofFarmFinancialExperience O
 
+28 YearsofFarmFinancialExperience O
 English OfficialLanguage O
 
 
 None Designation O
-
 None Company O
 
 450 StreetAddress B-ADDRESS
 Sunset StreetAddress I-ADDRESS
 Drive StreetAddress E-ADDRESS
-
 St City O
 Thomas City O
 
 ON Province O
+
 N5R PostalCode O
 5V1 PostalCode O
-
-rfoster Email B-EMAIL
-@ Email I-EMAIL
-grahamscottenns Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+rfoster Email O
+grahamscottenns Email O
+com Email O
 
 www Website O
-. Website O
 grahamscottenns Website O
-. Website O
 com Website O
 
 36 YearsofAgriculturalExperience O
-
 12 YearsofFarmFinancialExperience O
 English OfficialLanguage O
 
 
 None Designation O
 
-G Company O
-. Company O
-Barry Company O
-Fraser Company O
-& Company O
-Associates Company O
+G Company B-ORG
+Barry Company I-ORG
+Fraser Company I-ORG
+Associates Company E-ORG
 
 RR StreetAddress B-ADDRESS
 3 StreetAddress E-ADDRESS
+
 Chatham City O
 
 ON Province O
 
-N7 PostalCode O
-M PostalCode O
+N7M PostalCode O
 5J3 PostalCode O
 
-bfraser1 Email B-EMAIL
-@ Email I-EMAIL
-ciaccess Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
+bfraser1 Email O
+ciaccess Email O
+com Email O
 None Website O
-
 40 YearsofAgriculturalExperience O
-
 35 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
 
 None Designation O
-
-Groupement Company O
-de Company O
-gestion Company O
-agricole Company O
-de Company O
-l’Ontario Company O
-
+Groupement Company B-ORG
+de Company I-ORG
+gestion Company I-ORG
+agricole Company I-ORG
+de Company I-ORG
+l Company I-ORG
+Ontario Company E-ORG
 1305 StreetAddress B-ADDRESS
 Place StreetAddress I-ADDRESS
 de StreetAddress I-ADDRESS
 Réveillon StreetAddress E-ADDRESS
-
 St City O
-- City O
 Lazare City O
+
 QC Province O
-
-J7 PostalCode O
-T PostalCode O
+J7T PostalCode O
 2K6 PostalCode O
-
-Luc Email B-EMAIL
-. Email I-EMAIL
-gagne Email I-EMAIL
-@ Email I-EMAIL
-gcaq Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+Luc Email O
+gagne Email O
+gcaq Email O
+ca Email O
 www Website O
-. Website O
 gcaq Website O
-. Website O
 ca Website O
 
 18 YearsofAgriculturalExperience O
 
 18 YearsofFarmFinancialExperience O
 French OfficialLanguage O
-
 
 None Designation O
 
@@ -1814,45 +1343,33 @@ Street StreetAddress E-ADDRESS
 Kingston City O
 
 ON Province O
+
 K7L PostalCode O
 3A9 PostalCode O
 
-pgilmour Email B-EMAIL
-@ Email I-EMAIL
-assante Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
+pgilmour Email O
+assante Email O
+com Email O
 None Website O
-
 19 YearsofAgriculturalExperience O
-19 YearsofFarmFinancialExperience O
 
+19 YearsofFarmFinancialExperience O
 English OfficialLanguage O
 
-
 C Designation O
-. Designation O
 A Designation O
-. Designation O
-
-c Company O
-/ Company O
-o Company O
-Pinder Company O
-, Company O
-Taylor Company O
-, Company O
-McNeilly Company O
-, Company O
-Godkin Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-& Company O
-Business Company O
-Advisors Company O
-
+ Designation O
+c Company B-ORG
+o Company I-ORG
+Pinder Company I-ORG
+Taylor Company I-ORG
+McNeilly Company I-ORG
+Godkin Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Accountants Company I-ORG
+Business Company I-ORG
+Advisors Company E-ORG
 71 StreetAddress B-ADDRESS
 Main StreetAddress I-ADDRESS
 Street StreetAddress I-ADDRESS
@@ -1862,1466 +1379,126 @@ Exeter City O
 
 ON Province O
 
-N0 PostalCode O
-M PostalCode O
+N0M PostalCode O
 1S3 PostalCode O
-
-ron Email B-EMAIL
-. Email I-EMAIL
-godkin Email I-EMAIL
-@ Email I-EMAIL
-ptmg Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+ron Email O
+godkin Email O
+ptmg Email O
+on Email O
+ca Email O
 
 None Website O
-
 17 YearsofAgriculturalExperience O
 
 17 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
-
 
 None Designation O
-
-Synthesis Company O
-Agri Company O
-- Company O
-Food Company O
-Network Company O
-
+Synthesis Company B-ORG
+Agri Company I-ORG
+Food Company I-ORG
+Network Company E-ORG
 None StreetAddress O
-
 None City O
 ON Province O
-
 None PostalCode O
-
-rob Email B-EMAIL
-. Email I-EMAIL
-hannam Email I-EMAIL
-@ Email I-EMAIL
-synthesis Email I-EMAIL
-- Email I-EMAIL
-network Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+rob Email O
+hannam Email O
+synthesis Email O
+network Email O
+com Email O
 
 www Website O
-. Website O
 synthesis Website O
-- Website O
 network Website O
-. Website O
 com Website O
-
 20 YearsofAgriculturalExperience O
 4 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 CPA Designation O
-, Designation O
 CMA Designation O
 
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Professional Company I-ORG
+Accountants Company E-ORG
 765 StreetAddress B-ADDRESS
 I StreetAddress I-ADDRESS
 Cedar StreetAddress I-ADDRESS
 Creek StreetAddress I-ADDRESS
 Drive StreetAddress E-ADDRESS
-
 Ottawa City O
-
 ON Province O
 
-K1 PostalCode O
-T PostalCode O
+K1T PostalCode O
 0B3 PostalCode O
-chart Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
 
+chart Email O
+alliedtax Email O
+ca Email O
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
-
 0 YearsofAgriculturalExperience O
-
 14 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
-
 CPA Designation O
-, Designation O
 CGA Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
+Allied Company B-ORG
+Associates Company I-ORG
+LLP Company I-ORG
+Chartered Company I-ORG
+Professional Company I-ORG
+Accountants Company E-ORG
 1490 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
+St StreetAddress I-ADDRESS
 Suite StreetAddress I-ADDRESS
 200 StreetAddress E-ADDRESS
 London City O
 
 ON Province O
-
-N6 PostalCode O
-G PostalCode O
+N6G PostalCode O
 0J4 PostalCode O
-
-rharvey Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
+rharvey Email O
+alliedtax Email O
+ca Email O
 www Website O
-. Website O
 alliedassociates Website O
-. Website O
 ca Website O
-
 20 YearsofAgriculturalExperience O
 
 20 YearsofFarmFinancialExperience O
-
 English OfficialLanguage O
 
 
 None Designation O
-
 None Company O
-
 155 StreetAddress B-ADDRESS
 Thames StreetAddress I-ADDRESS
 Street StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
 PO StreetAddress I-ADDRESS
 Box StreetAddress I-ADDRESS
 1195 StreetAddress E-ADDRESS
 Chatham City O
-
 ON Province O
 
-N7 PostalCode O
-M PostalCode O
+N7M PostalCode O
 5L8 PostalCode O
 
-jhenshall Email B-EMAIL
-@ Email I-EMAIL
-bdo Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+jhenshall Email O
+bdo Email O
+ca Email O
 
 www Website O
-. Website O
 bdo Website O
-. Website O
 ca Website O
 
 8 YearsofAgriculturalExperience O
-
 8 YearsofFarmFinancialExperience O
 English OfficialLanguage O
-
-
-None Designation O
-
-None Company O
-
-5322 StreetAddress B-ADDRESS
-Bethesda StreetAddress I-ADDRESS
-Road StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-RR StreetAddress I-ADDRESS
-5 StreetAddress E-ADDRESS
-
-Watford City O
-
-ON Province O
-
-N0 PostalCode O
-M PostalCode O
-2S0 PostalCode O
-
-ahiemstra Email B-EMAIL
-@ Email I-EMAIL
-brktel Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-None Website O
-
-22 YearsofAgriculturalExperience O
-
-17 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-None Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
-1490 StreetAddress B-ADDRESS
-Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-200 StreetAddress E-ADDRESS
-
-London City O
-
-ON Province O
-
-N6 PostalCode O
-G PostalCode O
-0J4 PostalCode O
-
-jhrick Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-alliedassociates Website O
-. Website O
-ca Website O
-30 YearsofAgriculturalExperience O
-
-30 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-None Company O
-
-None StreetAddress O
-
-Oxford City O
-Mills City O
-
-ON Province O
-
-None PostalCode O
-wendell_hemlock Email B-EMAIL
-. Email I-EMAIL
-group Email I-EMAIL
-@ Email I-EMAIL
-ripnet Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-groupehemlockgroup Website O
-. Website O
-com Website O
-
-35 YearsofAgriculturalExperience O
-
-10 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-& OfficialLanguage O
-French OfficialLanguage O
-
-
-None Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
-1490 StreetAddress B-ADDRESS
-Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-200 StreetAddress E-ADDRESS
-London City O
-
-ON Province O
-
-N6 PostalCode O
-G PostalCode O
-0J4 PostalCode O
-
-djubenville Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-alliedassociates Website O
-. Website O
-ca Website O
-
-26 YearsofAgriculturalExperience O
-
-26 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-BDO Company O
-Canada Company O
-LLP Company O
-
-None StreetAddress O
-
-Lindsay City O
-
-ON Province O
-
-None PostalCode O
-
-lkemp Email B-EMAIL
-@ Email I-EMAIL
-bdo Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-bdo Website O
-. Website O
-ca Website O
-
-9 YearsofAgriculturalExperience O
-
-9 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-None Company O
-
-None StreetAddress O
-
-Guelph City O
-/ City O
-Dundas City O
-/ City O
-Hamilton City O
-
-ON Province O
-
-None PostalCode O
-
-ralph Email B-EMAIL
-@ Email I-EMAIL
-strive Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-strive Website O
-. Website O
-com Website O
-
-33 YearsofAgriculturalExperience O
-
-17 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-MBA Designation O
-, Designation O
-Msc Designation O
-
-None Company O
-
-None StreetAddress O
-
-Oakville City O
-
-ON Province O
-
-None PostalCode O
-
-Sharif Email B-EMAIL
-@ Email I-EMAIL
-businessmax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-None Website O
-
-7 YearsofAgriculturalExperience O
-
-6 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-CPA Designation O
-, Designation O
-CGA Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
-383 StreetAddress B-ADDRESS
-Honey StreetAddress I-ADDRESS
-Road StreetAddress E-ADDRESS
-Colborne City O
-ON Province O
-
-K0 PostalCode O
-K PostalCode O
-1S0 PostalCode O
-nleach Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-alliedassociates Website O
-. Website O
-ca Website O
-
-2 YearsofAgriculturalExperience O
-
-2 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-CFP Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
-1490 StreetAddress B-ADDRESS
-Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-200 StreetAddress E-ADDRESS
-
-London City O
-
-ON Province O
-
-N6 PostalCode O
-G PostalCode O
-0J4 PostalCode O
-
-dloiselle Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-alliedassociates Website O
-. Website O
-ca Website O
-
-21 YearsofAgriculturalExperience O
-
-21 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-B Designation O
-. Designation O
-Sc Designation O
-. Designation O
-, Designation O
-( Designation O
-AGR Designation O
-. Designation O
-) Designation O
-, Designation O
-P Designation O
-. Designation O
-AGR Designation O
-. Designation O
-, Designation O
-CA Designation O
-, Designation O
-CFP Designation O
-
-Collins Company O
-Barrow Company O
-Chartered Company O
-Accountants Company O
-62 StreetAddress B-ADDRESS
-Keil StreetAddress I-ADDRESS
-Drive StreetAddress I-ADDRESS
-South StreetAddress E-ADDRESS
-Chatham City O
-ON Province O
-
-N7 PostalCode O
-M PostalCode O
-3G8 PostalCode O
-
-wloucks Email B-EMAIL
-@ Email I-EMAIL
-collinsbarrow Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-None Website O
-
-20 YearsofAgriculturalExperience O
-+ YearsofAgriculturalExperience O
-
-29 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-Graham Company O
-Scott Company O
-Enns Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-25 StreetAddress B-ADDRESS
-John StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-South StreetAddress E-ADDRESS
-
-Aylmer City O
-
-ON Province O
-N5H PostalCode O
-2C1 PostalCode O
-
-bluyks Email B-EMAIL
-@ Email I-EMAIL
-grahamscottenns Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-grahamscottenns Website O
-. Website O
-com Website O
-
-27 YearsofAgriculturalExperience O
-
-14 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
-1490 StreetAddress B-ADDRESS
-Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-200 StreetAddress E-ADDRESS
-
-London City O
-
-ON Province O
-
-N6 PostalCode O
-G PostalCode O
-0J4 PostalCode O
-
-Imacalpine Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-alliedassociates Website O
-. Website O
-ca Website O
-
-8 YearsofAgriculturalExperience O
-
-8 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-None Designation O
-
-Woods Company O
-Pearson Company O
-& Company O
-Associates Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-Box StreetAddress B-ADDRESS
-765 StreetAddress E-ADDRESS
-
-Forest City O
-
-ON Province O
-
-N0N PostalCode O
-1J0 PostalCode O
-
-drmallick Email B-EMAIL
-@ Email I-EMAIL
-woodspearson Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-woodspearson Website O
-. Website O
-com Website O
-
-26 YearsofAgriculturalExperience O
-
-16 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-Famme Company O
-& Company O
-Co. Company O
-LLP Company O
-C Company O
-. Company O
-A Company O
-. Company O
-’s Company O
-
-1071 StreetAddress B-ADDRESS
-Adelaide StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-N StreetAddress E-ADDRESS
-
-London City O
-
-ON Province O
-N5Y PostalCode O
-2N3 PostalCode O
-
-pmantel Email B-EMAIL
-@ Email I-EMAIL
-famme Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-fammeandco Website O
-. Website O
-on Website O
-. Website O
-ca Website O
-
-17 YearsofAgriculturalExperience O
-17 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-P Designation O
-. Designation O
-Ag Designation O
-. Designation O
-
-None Company O
-
-254 StreetAddress B-ADDRESS
-Henry StreetAddress I-ADDRESS
-St StreetAddress E-ADDRESS
-
-Stirling City O
-
-ON Province O
-
-K0 PostalCode O
-K PostalCode O
-3E0 PostalCode O
-
-TWMartin Email B-EMAIL
-@ Email I-EMAIL
-sympatico Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-None Website O
-
-45 YearsofAgriculturalExperience O
-
-42 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-None Company O
-
-615 StreetAddress B-ADDRESS
-- StreetAddress I-ADDRESS
-675 StreetAddress I-ADDRESS
-Queens StreetAddress I-ADDRESS
-St StreetAddress I-ADDRESS
-S StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-PO StreetAddress I-ADDRESS
-Box StreetAddress I-ADDRESS
-230 StreetAddress E-ADDRESS
-
-Kitchener City O
-
-ON Province O
-N2 PostalCode O
-M PostalCode O
-1A1 PostalCode O
-
-jesse Email B-EMAIL
-. Email I-EMAIL
-macdonald Email I-EMAIL
-@ Email I-EMAIL
-dfsin Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-jessemacdonaldinsurance Website O
-. Website O
-com Website O
-
-13 YearsofAgriculturalExperience O
-
-7 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-None Designation O
-
-None Company O
-
-819 StreetAddress B-ADDRESS
-St StreetAddress I-ADDRESS
-Clair StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-Chatham City O
-
-ON Province O
-
-N7 PostalCode O
-M PostalCode O
-5J7 PostalCode O
-
-don Email B-EMAIL
-. Email I-EMAIL
-mcgugan Email I-EMAIL
-@ Email I-EMAIL
-nbpcd Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-donmcgugan Website O
-. Website O
-com Website O
-
-20 YearsofAgriculturalExperience O
-10 YearsofFarmFinancialExperience O
-English OfficialLanguage O
-
-
-None Designation O
-
-None Company O
-
-125 StreetAddress B-ADDRESS
-Ontario StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-Stratford City O
-
-ON Province O
-
-N5A PostalCode O
-3H1 PostalCode O
-
-hmckercher Email B-EMAIL
-@ Email I-EMAIL
-fammeandco Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-fammeandco Website O
-. Website O
-on Website O
-. Website O
-ca Website O
-
-18 YearsofAgriculturalExperience O
-
-18 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-B Designation O
-. Designation O
-Sc Designation O
-. Designation O
-, Designation O
-M Designation O
-. Designation O
-Sc Designation O
-. Designation O
-, Designation O
-ADR Designation O
-Cert Designation O
-. Designation O
-CAFA Designation O
-, Designation O
-P Designation O
-. Designation O
-Ag Designation O
-. Designation O
-
-None Company O
-
-475282 StreetAddress B-ADDRESS
-EZT StreetAddress I-ADDRESS
-Townline StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-RR StreetAddress I-ADDRESS
-3 StreetAddress E-ADDRESS
-
-Woodstock City O
-
-ON Province O
-N4S PostalCode O
-7V7 PostalCode O
-
-hartshar Email B-EMAIL
-@ Email I-EMAIL
-execulink Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-None Website O
-43 YearsofAgriculturalExperience O
-
-35 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-The Company O
-Michael Company O
-Bossy Company O
-Group Company O
-
-None StreetAddress O
-
-Tillsonburg City O
-ON Province O
-
-N4 PostalCode O
-G PostalCode O
-2E3 PostalCode O
-
-snagy Email B-EMAIL
-@ Email I-EMAIL
-bossygroup Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-bnggroup Website O
-. Website O
-ca Website O
-
-20 YearsofAgriculturalExperience O
-
-15 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-1490 StreetAddress B-ADDRESS
-Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-200 StreetAddress E-ADDRESS
-
-London City O
-
-ON Province O
-
-N6 PostalCode O
-G PostalCode O
-0J4 PostalCode O
-
-coliver Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-alliedassociates Website O
-. Website O
-ca Website O
-
-27 YearsofAgriculturalExperience O
-
-27 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
-1490 StreetAddress B-ADDRESS
-Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-200 StreetAddress E-ADDRESS
-
-London City O
-
-ON Province O
-N6 PostalCode O
-G PostalCode O
-0J4 PostalCode O
-bostrom Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-alliedassociates Website O
-. Website O
-ca Website O
-34 YearsofAgriculturalExperience O
-
-34 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-Woods Company O
-Pearson Company O
-& Company O
-Associates Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-
-Box StreetAddress B-ADDRESS
-765 StreetAddress E-ADDRESS
-
-Forest City O
-
-ON Province O
-
-N0N PostalCode O
-1J0 PostalCode O
-
-dpearson Email B-EMAIL
-@ Email I-EMAIL
-woodspearson Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-woodspearson Website O
-. Website O
-com Website O
-
-35 YearsofAgriculturalExperience O
-
-15 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-c Company O
-/ Company O
-o Company O
-Pinder Company O
-, Company O
-Taylor Company O
-, Company O
-McNeilly Company O
-, Company O
-Godkin Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-& Company O
-Business Company O
-Advisors Company O
-
-71 StreetAddress B-ADDRESS
-Main StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-North StreetAddress E-ADDRESS
-
-Exeter City O
-
-ON Province O
-
-N0 PostalCode O
-M PostalCode O
-1S3 PostalCode O
-
-None Email O
-
-None Website O
-
-None YearsofAgriculturalExperience O
-None YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-BBA Designation O
-, Designation O
-CA Designation O
-
-Craig Company O
-Keen Company O
-Despatie Company O
-Markell Company O
-LLP Company O
-Chartered Company O
-Accountants Company O
-
-709 StreetAddress B-ADDRESS
-Cotton StreetAddress I-ADDRESS
-Mill StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-Cornwall City O
-
-ON Province O
-K6H PostalCode O
-7K7 PostalCode O
-
-jpollock Email B-EMAIL
-@ Email I-EMAIL
-yourca Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-ckdm Website O
-. Website O
-ca Website O
-
-11 YearsofAgriculturalExperience O
-
-11 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-CPA Designation O
-, Designation O
-CA Designation O
-
-Allied Company O
-Associates Company O
-LLP Company O
-, Company O
-Chartered Company O
-Professional Company O
-Accountants Company O
-
-1490 StreetAddress B-ADDRESS
-Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-200 StreetAddress E-ADDRESS
-
-London City O
-
-ON Province O
-N6 PostalCode O
-G PostalCode O
-0J4 PostalCode O
-
-jradler Email B-EMAIL
-@ Email I-EMAIL
-alliedtax Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-alliedassociates Website O
-. Website O
-ca Website O
-
-10 YearsofAgriculturalExperience O
-
-10 YearsofFarmFinancialExperience O
-English OfficialLanguage O
-
-
-CMA Designation O
-
-BDO Company O
-Canada Company O
-LLP Company O
-485 StreetAddress B-ADDRESS
-10th StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-Hanover City O
-ON Province O
-
-N4N PostalCode O
-1R2 PostalCode O
-
-cread Email B-EMAIL
-@ Email I-EMAIL
-bdo Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-bdo Website O
-. Website O
-ca Website O
-
-28 YearsofAgriculturalExperience O
-28 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-None Company O
-
-25 StreetAddress B-ADDRESS
-John StreetAddress I-ADDRESS
-St StreetAddress I-ADDRESS
-S StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-208 StreetAddress E-ADDRESS
-Aylmer City O
-
-ON Province O
-
-N5H PostalCode O
-2C1 PostalCode O
-
-greid Email B-EMAIL
-@ Email I-EMAIL
-grahamscottenns Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-grahamscottenns Website O
-. Website O
-com Website O
-
-33 YearsofAgriculturalExperience O
-
-33 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-BDO Company O
-Canada Company O
-LLP Company O
-
-165 StreetAddress B-ADDRESS
-Kent StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-W StreetAddress E-ADDRESS
-Lindsay City O
-
-ON Province O
-
-K9V PostalCode O
-2Y7 PostalCode O
-
-arichardson Email B-EMAIL
-@ Email I-EMAIL
-bdo Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-www Website O
-. Website O
-bdo Website O
-. Website O
-ca Website O
-
-25 YearsofAgriculturalExperience O
-
-25 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-FCGA Designation O
-, Designation O
-LPA Designation O
-
-EPR Company O
-Rieger Company O
-Bray Company O
-Hohl Company O
-Licensed Company O
-Public Company O
-Accountants Company O
-
-None StreetAddress O
-
-None City O
-
-ON Province O
-
-None PostalCode O
-
-Lance Email B-EMAIL
-@ Email I-EMAIL
-EPRChatham Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-EPR Website O
-. Website O
-ca Website O
-
-20 YearsofAgriculturalExperience O
-
-30 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-None Company O
-
-172 StreetAddress B-ADDRESS
-Ballantyne StreetAddress I-ADDRESS
-Ave StreetAddress E-ADDRESS
-
-Stratford City O
-
-ON Province O
-
-N5A PostalCode O
-3A7 PostalCode O
-
-rrobinson Email B-EMAIL
-@ Email I-EMAIL
-cyg Email I-EMAIL
-. Email I-EMAIL
-net Email E-EMAIL
-
-None Website O
-15 YearsofAgriculturalExperience O
-15 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-Rosborough Company O
-Accounting Company O
-and Company O
-Consulting Company O
-
-35 StreetAddress B-ADDRESS
-Queen StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-Lakefield City O
-
-ON Province O
-
-K0L PostalCode O
-2H0 PostalCode O
-
-drosborough Email B-EMAIL
-@ Email I-EMAIL
-porterhetu Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-porterhetu Website O
-. Website O
-com Website O
-
-30 YearsofAgriculturalExperience O
-
-20 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
-
-None Designation O
-
-The Company O
-Equine Company O
-Tax Company O
-Group Company O
-
-2865 StreetAddress B-ADDRESS
-South StreetAddress I-ADDRESS
-Eagle StreetAddress I-ADDRESS
-Rd StreetAddress I-ADDRESS
-, StreetAddress I-ADDRESS
-Suite StreetAddress I-ADDRESS
-319 StreetAddress E-ADDRESS
-
-Newtown City O
-
-PA Province O
-18940 PostalCode O
-
-larry Email B-EMAIL
-@ Email I-EMAIL
-equinetaxgroup Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-www Website O
-. Website O
-equinetaxgroup Website O
-. Website O
-com Website O
-
-17 YearsofAgriculturalExperience O
-4 YearsofFarmFinancialExperience O
-
-English OfficialLanguage O
-
 

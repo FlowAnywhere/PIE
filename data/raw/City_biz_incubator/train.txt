@@ -1,21 +1,16 @@
-Artscape Organization O
-
+Artscape Organization S-ORG
 Creative TargetIndustry O
 
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
-
 Incubator BusinessSupportType O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 torontoartscape Website O
-. Website O
 org Website O
-. Website O
+ Website O
 
 171 StreetAddress B-ADDRESS
 East StreetAddress I-ADDRESS
@@ -26,12 +21,10 @@ Suite Unit O
 224 Unit O
 
 Toronto City O
-
 Ontario Province O
-
-M6 PostalCode O
-K PostalCode O
+M6K PostalCode O
 3P6 PostalCode O
+
 Executive Title O
 Assistant Title O
 to Title O
@@ -39,28 +32,19 @@ the Title O
 President Title O
 and Title O
 CEO Title O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-392 Telephone I-PHONE
-- Telephone I-PHONE
-1038 Telephone E-PHONE
-
-erin Email B-EMAIL
-@ Email I-EMAIL
-torontoartscape Email I-EMAIL
-. Email I-EMAIL
-on Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+416 Telephone O
+392 Telephone O
+1038 Telephone O
+erin Email O
+torontoartscape Email O
+on Email O
+ca Email O
 
 
-Bitcoin Organization O
-Decentral Organization O
-Accelerate Organization O
-
+Bitcoin Organization B-ORG
+Decentral Organization I-ORG
+Accelerate Organization E-ORG
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
@@ -68,11 +52,9 @@ Technology TargetIndustry O
 Private Governance O
 
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 bdaccelerate Website O
-. Website O
 com Website O
 
 64 StreetAddress B-ADDRESS
@@ -80,276 +62,208 @@ Spadina StreetAddress I-ADDRESS
 Ave StreetAddress E-ADDRESS
 
 None Unit O
-
 Toronto City O
-
 Ontario Province O
 
 M5V PostalCode O
 2H8 PostalCode O
-â€Ž PostalCode O
-
+â PostalCode O
+Ž PostalCode O
 Managing Title O
 Director Title O
 and Title O
 partner Title O
-
 None Telephone O
-
-info Email B-EMAIL
-@ Email I-EMAIL
-BDAccelerate Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+info Email O
+BDAccelerate Email O
+com Email O
 
 
-BrightSpark Organization O
-Ventures Organization O
-
+BrightSpark Organization B-ORG
+Ventures Organization E-ORG
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
-
 Private Governance O
-
 Accelerator BusinessSupportType O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 brightspark Website O
-. Website O
 com Website O
 2323 StreetAddress B-ADDRESS
 Yonge StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 Suite Unit O
 502 Unit O
-
 Toronto City O
-
 Ontario Province O
 
 M4P PostalCode O
 2C9 PostalCode O
-
 None Title O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-488 Telephone I-PHONE
-- Telephone I-PHONE
-1999 Telephone E-PHONE
-
-info Email B-EMAIL
-@ Email I-EMAIL
-brightspark Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+416 Telephone O
+488 Telephone O
+1999 Telephone O
+info Email O
+brightspark Email O
+com Email O
 
 
-CEO Organization O
-Fusion Organization O
+CEO Organization B-ORG
+Fusion Organization E-ORG
 
 Mixed TargetIndustry O
-
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
 
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 ceofusion Website O
-. Website O
-org/ Website O
-
+org Website O
+ Website O
 70 StreetAddress B-ADDRESS
 Peter StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 None Unit O
-
 Toronto City O
-
 Ontario Province O
-
 M5V PostalCode O
 1J9 PostalCode O
-
 Executive Title O
 Director Title O
 
 None Telephone O
 
-bwatson Email B-EMAIL
-@ Email I-EMAIL
-ep Email I-EMAIL
-- Email I-EMAIL
-enterprises Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+bwatson Email O
+ep Email O
+enterprises Email O
+com Email O
 
 
-Cleantech Organization O
-North Organization O
+Cleantech Organization B-ORG
+North Organization E-ORG
 
 Environment TargetIndustry O
 
 Private Governance O
-
 Accelerator BusinessSupportType O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 cleantechnorth Website O
-. Website O
 com Website O
 
 None StreetAddress O
-
 None Unit O
-
 Toronto City O
-
 Ontario Province O
 
 None PostalCode O
 
 None Title O
+647 Telephone O
+668 Telephone O
+1594 Telephone O
+bwatson Email O
+cleantechnorth Email O
+com Email O
 
-647 Telephone B-PHONE
-- Telephone I-PHONE
-668 Telephone I-PHONE
-- Telephone I-PHONE
-1594 Telephone E-PHONE
-
-bwatson Email B-EMAIL
-@ Email I-EMAIL
-cleantechnorth Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-Coalition Organization O
-Music Organization O
+Coalition Organization B-ORG
+Music Organization E-ORG
 Creative TargetIndustry O
+
 Private Governance O
 
 Incubator BusinessSupportType O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 coalitionent Website O
-. Website O
 com Website O
 
 1731 StreetAddress B-ADDRESS
 Lawrence StreetAddress I-ADDRESS
 Ave StreetAddress I-ADDRESS
 East StreetAddress E-ADDRESS
-
 None Unit O
 
 Toronto City O
-
 Ontario Province O
-
 M1R PostalCode O
 2X7 PostalCode O
+
 Co Title O
-- Title O
 Founder Title O
-
 None Telephone O
-eric Email B-EMAIL
-. Email I-EMAIL
-lawrence Email I-EMAIL
-@ Email I-EMAIL
-coalitionent Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+eric Email O
+lawrence Email O
+coalitionent Email O
+com Email O
 
-
-Cossette Organization O
+Cossette Organization S-ORG
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
+
 Private Governance O
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 cossette Website O
-. Website O
 com Website O
-
 32 StreetAddress B-ADDRESS
 Atlantic StreetAddress I-ADDRESS
 Avenue StreetAddress E-ADDRESS
-
 None Unit O
 
 Toronto City O
 Ontario Province O
 
-M6 PostalCode O
-K PostalCode O
+M6K PostalCode O
 1X8 PostalCode O
 
 Vice Title O
 President Title O
-, Title O
 Product Title O
 and Title O
 Technology Title O
 Strategy Title O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-725 Telephone I-PHONE
-- Telephone I-PHONE
-7389 Telephone E-PHONE
-joe Email B-EMAIL
-. Email I-EMAIL
-dee Email I-EMAIL
-@ Email I-EMAIL
-cossette Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+416 Telephone O
+725 Telephone O
+7389 Telephone O
+
+joe Email O
+dee Email O
+cossette Email O
+com Email O
 
 
-Driven Organization O
-Accelerator Organization O
-Group Organization O
+Driven Organization B-ORG
+Accelerator Organization I-ORG
+Group Organization E-ORG
 
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
 
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
-
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-http://drivenaccelerator Website O
-. Website O
-com/ Website O
-
+http Website O
+www Website O
+http Website O
+drivenaccelerator Website O
+com Website O
+ Website O
 376 StreetAddress B-ADDRESS
 Bathurst StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
@@ -360,40 +274,31 @@ Toronto City O
 
 Ontario Province O
 
-M5 PostalCode O
-T PostalCode O
+M5T PostalCode O
 2S6 PostalCode O
-
 CEO Title O
 
 None Telephone O
-
-drivenaccelerator Email B-EMAIL
-@ Email I-EMAIL
-gmail Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+drivenaccelerator Email O
+gmail Email O
+com Email O
 
 
-Ember Organization O
-Business Organization O
-Exchange Organization O
+Ember Organization B-ORG
+Business Organization I-ORG
+Exchange Organization E-ORG
 
 Mixed TargetIndustry O
 Private Governance O
 
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 emberbx Website O
-. Website O
 com Website O
-
 1 StreetAddress B-ADDRESS
 Yonge StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 Suite Unit O
 2002 Unit O
 
@@ -403,134 +308,99 @@ Ontario Province O
 
 M5E PostalCode O
 1E5 PostalCode O
-
 Vice Title O
 President Title O
-, Title O
 Operations Title O
 
 None Telephone O
 
-ggillian Email B-EMAIL
-@ Email I-EMAIL
-tbdc Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+ggillian Email O
+tbdc Email O
+com Email O
 
 
-Fasken Organization O
-Martineau Organization O
-LLPâ€ Organization O
-™ Organization O
-s Organization O
-Start Organization O
-- Organization O
-up Organization O
-and Organization O
-Entrepreneurial Organization O
-Development Organization O
-Program Organization O
-
+Fasken Organization B-ORG
+Martineau Organization I-ORG
+LLPâ Organization I-ORG
+s Organization I-ORG
+Start Organization I-ORG
+up Organization I-ORG
+and Organization I-ORG
+Entrepreneurial Organization I-ORG
+Development Organization I-ORG
+Program Organization E-ORG
 Mixed TargetIndustry O
-
 Private Governance O
 
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 faskenstartup Website O
-. Website O
 com Website O
-
 333 StreetAddress B-ADDRESS
 Bay StreetAddress I-ADDRESS
-St. StreetAddress E-ADDRESS
-
+St StreetAddress I-ADDRESS
+ StreetAddress E-ADDRESS
 Suite Unit O
 2400 Unit O
-, Unit O
 Box Unit O
 20 Unit O
 
 Toronto City O
 
 Ontario Province O
-
 M5H PostalCode O
 2T6 PostalCode O
-
 None Title O
+416 Telephone O
+366 Telephone O
+8381 Telephone O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-366 Telephone I-PHONE
-- Telephone I-PHONE
-8381 Telephone E-PHONE
+toronto Email O
+fasken Email O
+com Email O
 
-toronto Email B-EMAIL
-@ Email I-EMAIL
-fasken Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-Futurpreneur Organization O
-
+Futurpreneur Organization S-ORG
 Mixed TargetIndustry O
+
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
 
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 futurpreneur Website O
-. Website O
 ca Website O
-
 133 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
+St StreetAddress I-ADDRESS
 W StreetAddress I-ADDRESS
-. StreetAddress E-ADDRESS
-
+ StreetAddress E-ADDRESS
 Suite Unit O
 700 Unit O
-
 Toronto City O
 
 Ontario Province O
-
 M5H PostalCode O
 2L3 PostalCode O
-
 CEO Title O
 
 None Telephone O
 
-jdeans Email B-EMAIL
-@ Email I-EMAIL
-futurpreneur Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+jdeans Email O
+futurpreneur Email O
+ca Email O
 
-
-George Organization O
-Brown Organization O
-College Organization O
-- Organization O
-Digital Organization O
-Media Organization O
-and Organization O
-Gaming Organization O
-Incubator Organization O
-
+George Organization B-ORG
+Brown Organization I-ORG
+College Organization I-ORG
+Digital Organization I-ORG
+Media Organization I-ORG
+and Organization I-ORG
+Gaming Organization I-ORG
+Incubator Organization E-ORG
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
@@ -539,194 +409,142 @@ Academia Governance O
 
 Incubator BusinessSupportType O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 gaminginc Website O
-. Website O
 ca Website O
 333 StreetAddress B-ADDRESS
 King StreetAddress I-ADDRESS
 Street StreetAddress I-ADDRESS
 East StreetAddress E-ADDRESS
-
 None Unit O
-
 Toronto City O
-
 Ontario Province O
-
 M5A PostalCode O
 1K3 PostalCode O
 
 Director Title O
-, Title O
 School Title O
 of Title O
 Design Title O
 
 None Telephone O
+lferrara Email O
+georgebrown Email O
+ca Email O
 
-lferrara Email B-EMAIL
-@ Email I-EMAIL
-georgebrown Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-Gizmo Organization O
-Labs Organization O
-
+Gizmo Organization B-ORG
+Labs Organization E-ORG
 Mixed TargetIndustry O
-
 Private Governance O
-
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 gizmolabs Website O
-. Website O
 ca Website O
-
 298 StreetAddress B-ADDRESS
 Dundas StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
+St StreetAddress I-ADDRESS
 W StreetAddress E-ADDRESS
-
 Level3 Unit O
 
 Toronto City O
 
 Ontario Province O
 
-M5 PostalCode O
-T PostalCode O
+M5T PostalCode O
 1G2 PostalCode O
-
 None Title O
-( Telephone B-PHONE
-416 Telephone I-PHONE
-) Telephone I-PHONE
--887 Telephone I-PHONE
-- Telephone I-PHONE
-6683 Telephone E-PHONE
 
-info Email B-EMAIL
-@ Email I-EMAIL
-gizmolabs Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+ Telephone O
+416 Telephone O
+887 Telephone O
+6683 Telephone O
 
+info Email O
+gizmolabs Email O
+ca Email O
 
-HIGHLINE Organization O
+HIGHLINE Organization S-ORG
 
 Mixed TargetIndustry O
-
 Information Governance O
-, Governance O
 Communications Governance O
 and Governance O
 Technology Governance O
+
 Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 HIGHLINE Website O
-. Website O
 vc Website O
-
 639 StreetAddress B-ADDRESS
 Queen StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 None Unit O
-
 Toronto City O
-
 Ontario Province O
 
 M5V PostalCode O
 2B7 PostalCode O
-
 Managing Title O
 Director Title O
-
 None Telephone O
+speedtoseed Email O
+HIGHLINE Email O
+vc Email O
 
-speedtoseed Email B-EMAIL
-@ Email I-EMAIL
-HIGHLINE Email I-EMAIL
-. Email I-EMAIL
-vc Email E-EMAIL
-
-
-Humber Organization O
-College Organization O
-- Organization O
-HumberLaunch Organization O
+Humber Organization B-ORG
+College Organization I-ORG
+HumberLaunch Organization E-ORG
 
 Mixed TargetIndustry O
-
 Academia Governance O
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 humber Website O
-. Website O
 ca Website O
-/ Website O
-humberlaunch/ Website O
-
+humberlaunch Website O
+ Website O
 3180 StreetAddress B-ADDRESS
 Lake StreetAddress I-ADDRESS
 Shore StreetAddress I-ADDRESS
 Blvd StreetAddress I-ADDRESS
 W StreetAddress I-ADDRESS
-. StreetAddress E-ADDRESS
+ StreetAddress E-ADDRESS
 
 None Unit O
-
 Toronto City O
-
 Ontario Province O
-
 M8V PostalCode O
 1L7 PostalCode O
-
 Program Title O
 Manager Title O
-
 None Telephone O
 
-cheryl Email B-EMAIL
-. Email I-EMAIL
-mitchell Email I-EMAIL
-@ Email I-EMAIL
-humber Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+cheryl Email O
+mitchell Email O
+humber Email O
+ca Email O
 
 
-ideaBOOST Organization O
-Canadian Organization O
-Film Organization O
-Centre Organization O
+ideaBOOST Organization B-ORG
+Canadian Organization I-ORG
+Film Organization I-ORG
+Centre Organization E-ORG
+
 Creative TargetIndustry O
-
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
 
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 ideaboost Website O
-. Website O
-ca/ Website O
+ca Website O
+ Website O
 
 101 StreetAddress B-ADDRESS
 College StreetAddress I-ADDRESS
@@ -734,13 +552,11 @@ Street StreetAddress E-ADDRESS
 
 Suite Unit O
 245 Unit O
-
 Toronto City O
 
 Ontario Province O
 
-M5 PostalCode O
-G PostalCode O
+M5G PostalCode O
 1L7 PostalCode O
 
 Chief Title O
@@ -748,36 +564,25 @@ Digital Title O
 Officer Title O
 
 None Telephone O
-aserrano Email B-EMAIL
-@ Email I-EMAIL
-cfccreates Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+aserrano Email O
+cfccreates Email O
+com Email O
 
-
-Imagination Organization O
-Catalyst Organization O
-OCADU Organization O
+Imagination Organization B-ORG
+Catalyst Organization I-ORG
+OCADU Organization E-ORG
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
-
 Academia Governance O
-
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 ocadu Website O
-. Website O
 ca Website O
-/ Website O
 research Website O
-/ Website O
 imaginationcatalyst Website O
-. Website O
 htm Website O
 
 100 StreetAddress B-ADDRESS
@@ -787,33 +592,25 @@ Street StreetAddress E-ADDRESS
 None Unit O
 
 Toronto City O
-
 Ontario Province O
-
-M5 PostalCode O
-T PostalCode O
+M5T PostalCode O
 1W1 PostalCode O
 
 Director Title O
-, Title O
 Digital Title O
 Futures Title O
 Implementation Title O
 
 None Telephone O
 
-mcontreras Email B-EMAIL
-@ Email I-EMAIL
-ocadu Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+mcontreras Email O
+ocadu Email O
+ca Email O
 
-
-Incubes Organization O
-Accelerator Organization O
+Incubes Organization B-ORG
+Accelerator Organization E-ORG
 
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
@@ -821,11 +618,9 @@ Technology TargetIndustry O
 Private Governance O
 
 Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 incubes Website O
-. Website O
 ca Website O
 
 70 StreetAddress B-ADDRESS
@@ -833,39 +628,31 @@ Peter StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
 
 None Unit O
+
 Toronto City O
 
 Ontario Province O
-
 M5V PostalCode O
 1J9 PostalCode O
-
 CEO Title O
 
 None Telephone O
-
-ben Email B-EMAIL
-@ Email I-EMAIL
-incubes Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+ben Email O
+incubes Email O
+ca Email O
 
 
-Innovation Organization O
-York Organization O
-- Organization O
-York Organization O
-University Organization O
+Innovation Organization B-ORG
+York Organization I-ORG
+York Organization I-ORG
+University Organization E-ORG
 
 Mixed TargetIndustry O
-
 Academia Governance O
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 innovationyork Website O
-. Website O
 ca Website O
 4700 StreetAddress B-ADDRESS
 Keele StreetAddress I-ADDRESS
@@ -873,10 +660,8 @@ Street StreetAddress E-ADDRESS
 
 Kaneff Unit O
 Tower Unit O
-, Unit O
 Fifth Unit O
 Floor Unit O
-
 Toronto City O
 
 Ontario Province O
@@ -884,55 +669,41 @@ M3J PostalCode O
 1P3 PostalCode O
 
 Director Title O
+ Telephone O
+416 Telephone O
+736 Telephone O
+2100 Telephone O
 
-( Telephone B-PHONE
-416 Telephone I-PHONE
-) Telephone I-PHONE
-736 Telephone I-PHONE
-2100 Telephone E-PHONE
-
-showe Email B-EMAIL
-@ Email I-EMAIL
-yorku Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+showe Email O
+yorku Email O
+ca Email O
 
 
-Italian Organization O
-Chamber Organization O
-of Organization O
-Commerce Organization O
-( Organization O
-ICCO Organization O
-) Organization O
-
+Italian Organization B-ORG
+Chamber Organization I-ORG
+of Organization I-ORG
+Commerce Organization I-ORG
+ICCO Organization I-ORG
+ Organization E-ORG
 Mixed TargetIndustry O
 
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
 
 Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 italchambers Website O
-. Website O
 ca Website O
-
 622 StreetAddress B-ADDRESS
 College StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 None Unit O
-
 Toronto City O
-Ontario Province O
 
-M6 PostalCode O
-G PostalCode O
+Ontario Province O
+M6G PostalCode O
 1B6 PostalCode O
 Executive Title O
 Director Title O
@@ -940,123 +711,95 @@ Italian Title O
 Chamber Title O
 of Title O
 Commerce Title O
-
 None Telephone O
-
-paina Email B-EMAIL
-@ Email I-EMAIL
-italchambers Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
+paina Email O
+italchambers Email O
+ca Email O
 
 
-Kinetic Organization O
-CafÃ Organization O
-© Organization O
+Kinetic Organization B-ORG
+CafÃ Organization I-ORG
+ Organization E-ORG
 
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
-
 Private Governance O
 
 Incubator BusinessSupportType O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 kineticcafe Website O
-. Website O
 com Website O
-
 1 StreetAddress B-ADDRESS
 Yonge StreetAddress I-ADDRESS
 St StreetAddress E-ADDRESS
-
 Suite Unit O
 934 Unit O
 
 Toronto City O
 
 Ontario Province O
-
 M5E PostalCode O
 1E5 PostalCode O
 
 Co Title O
-- Title O
 Founder Title O
+
 None Telephone O
+info Email O
+kineticcafe Email O
+com Email O
 
-info Email B-EMAIL
-@ Email I-EMAIL
-kineticcafe Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-Launch Organization O
-180 Organization O
-Accelerator Organization O
-
+Launch Organization B-ORG
+180 Organization I-ORG
+Accelerator Organization E-ORG
 Mixed TargetIndustry O
 
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
 
 Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 launch180 Website O
-. Website O
 com Website O
-
 51 StreetAddress B-ADDRESS
 Wolseley StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
-
 None Unit O
 
 Toronto City O
 Ontario Province O
-
-M5 PostalCode O
-T PostalCode O
+M5T PostalCode O
 1S1 PostalCode O
+
 None Title O
-+ Telephone B-PHONE
-1 Telephone I-PHONE
-888 Telephone I-PHONE
-840 Telephone I-PHONE
-- Telephone I-PHONE
-6668 Telephone E-PHONE
+
+ Telephone O
+1 Telephone O
+888 Telephone O
+840 Telephone O
+6668 Telephone O
 
 None Email O
 
-
-Mantella Organization O
-Venture Organization O
-Partners Organization O
-
+Mantella Organization B-ORG
+Venture Organization I-ORG
+Partners Organization E-ORG
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
 
 Private Governance O
-
 Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 mantellavp Website O
-. Website O
 com Website O
 488 StreetAddress B-ADDRESS
 Wellington StreetAddress I-ADDRESS
@@ -1066,114 +809,88 @@ West StreetAddress E-ADDRESS
 None Unit O
 
 Toronto City O
-
 Ontario Province O
 
 M5V PostalCode O
 1E3 PostalCode O
+
 None Title O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-479 Telephone I-PHONE
-- Telephone I-PHONE
-0779 Telephone E-PHONE
+416 Telephone O
+479 Telephone O
+0779 Telephone O
+info Email O
+mantellavp Email O
+com Email O
 
-info Email B-EMAIL
-@ Email I-EMAIL
-mantellavp Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-MaRS Organization O
-Discovery Organization O
-District Organization O
+MaRS Organization B-ORG
+Discovery Organization I-ORG
+District Organization E-ORG
 
 Mixed TargetIndustry O
 Bio TargetIndustry O
-- TargetIndustry O
 Medical TargetIndustry O
 
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
 
 Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 marsdd Website O
-. Website O
 com Website O
-
 101 StreetAddress B-ADDRESS
 College StreetAddress I-ADDRESS
 Street StreetAddress E-ADDRESS
 
 Suite Unit O
 100 Unit O
-- Unit O
 South Unit O
 Tower Unit O
 
 Toronto City O
 
 Ontario Province O
-M5 PostalCode O
-G PostalCode O
+M5G PostalCode O
 1L7 PostalCode O
-
 Director Title O
-, Title O
 Strategic Title O
 Partnerships Title O
 
 None Telephone O
-
-emiller Email B-EMAIL
-@ Email I-EMAIL
-marsdd Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+emiller Email O
+marsdd Email O
+com Email O
 
 
-Mobile Organization O
-Experience Organization O
-Innovation Organization O
-Centre Organization O
-( Organization O
-MEIC Organization O
-) Organization O
+Mobile Organization B-ORG
+Experience Organization I-ORG
+Innovation Organization I-ORG
+Centre Organization I-ORG
+MEIC Organization I-ORG
+ Organization E-ORG
 
 Information TargetIndustry O
-, TargetIndustry O
 Communications TargetIndustry O
 and TargetIndustry O
 Technology TargetIndustry O
 
 Not Governance O
-- Governance O
 for Governance O
-- Governance O
 profit Governance O
-
 Incubator BusinessSupportType O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 meic Website O
-. Website O
 ca Website O
 205 StreetAddress B-ADDRESS
 Richmond StreetAddress I-ADDRESS
 St StreetAddress I-ADDRESS
 West StreetAddress E-ADDRESS
-
 2nd Unit O
 Floor Unit O
-, Unit O
 Room Unit O
 7211 Unit O
 
@@ -1184,794 +901,11 @@ Ontario Province O
 M5V PostalCode O
 1V3 PostalCode O
 Director Title O
-None Telephone O
-
-patricia Email B-EMAIL
-@ Email I-EMAIL
-meic Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-MultiplicityTO Organization O
-
-Information TargetIndustry O
-, TargetIndustry O
-Communications TargetIndustry O
-and TargetIndustry O
-Technology TargetIndustry O
-Not Governance O
-- Governance O
-for Governance O
-- Governance O
-profit Governance O
-
-Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
-multiplicityaccelerator Website O
-. Website O
-com/ Website O
-
-105 StreetAddress B-ADDRESS
-Victoria StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-Suite Unit O
-909 Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5C PostalCode O
-3B4 PostalCode O
-Co Title O
-- Title O
-founder Title O
-None Telephone O
-
-rlehal Email B-EMAIL
-@ Email I-EMAIL
-multiplicityaccelerator Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-oneeleven Organization O
-
-Information TargetIndustry O
-, TargetIndustry O
-Communications TargetIndustry O
-and TargetIndustry O
-Technology TargetIndustry O
-Not Governance O
-- Governance O
-for Governance O
-- Governance O
-profit Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-oneeleven Website O
-. Website O
-com Website O
-111 StreetAddress B-ADDRESS
-Richmond StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-West StreetAddress E-ADDRESS
-
-None Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5H PostalCode O
-3K6 PostalCode O
-
-Managing Title O
-Director Title O
 
 None Telephone O
 
-Bilal Email B-EMAIL
-@ Email I-EMAIL
-oneeleven Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-Ontario Organization O
-Centre Organization O
-of Organization O
-Excellence Organization O
-( Organization O
-OCE Organization O
-) Organization O
-
-Information TargetIndustry O
-, TargetIndustry O
-Communications TargetIndustry O
-and TargetIndustry O
-Technology TargetIndustry O
-
-Public Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-oce Website O
-- Website O
-ontario Website O
-. Website O
-org Website O
-
-156 StreetAddress B-ADDRESS
-Front StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-West StreetAddress E-ADDRESS
-
-Suite Unit O
-200 Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5J PostalCode O
-2L6 PostalCode O
-
-Business Title O
-Development Title O
-Manager Title O
-
-None Telephone O
-
-martin Email B-EMAIL
-. Email I-EMAIL
-lord Email I-EMAIL
-@ Email I-EMAIL
-oce Email I-EMAIL
-- Email I-EMAIL
-ontario Email I-EMAIL
-. Email I-EMAIL
-org Email I-EMAIL
-" Email I-EMAIL
-" Email E-EMAIL
-
-
-Rogers Organization O
-Ventures Organization O
-
-Mixed TargetIndustry O
-
-Private Governance O
-
-Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
-rogersvp Website O
-. Website O
-com/ Website O
-
-350 StreetAddress B-ADDRESS
-Bloor StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-East StreetAddress E-ADDRESS
-
-None Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M4W PostalCode O
-0A1 PostalCode O
-
-Vice Title O
-President Title O
-
-None Telephone O
-
-contact Email B-EMAIL
-@ Email I-EMAIL
-rogersventures Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-Round Organization O
-13 Organization O
-Capital Organization O
-
-Information TargetIndustry O
-, TargetIndustry O
-Communications TargetIndustry O
-and TargetIndustry O
-Technology TargetIndustry O
-
-Private Governance O
-
-Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
-round13capital Website O
-. Website O
-com Website O
-
-51 StreetAddress B-ADDRESS
-Mill StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-Suite Unit O
-301 Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5A PostalCode O
-3C4 PostalCode O
-
-Entrepreneur Title O
-
-None Telephone O
-contact Email B-EMAIL
-@ Email I-EMAIL
-round13capital Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-Ryerson Organization O
-University Organization O
-- Organization O
-Centre Organization O
-for Organization O
-Urban Organization O
-Energy Organization O
-
-Environment TargetIndustry O
-Academia Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-cue Website O
-. Website O
-ryerson Website O
-. Website O
-ca Website O
-
-147 StreetAddress B-ADDRESS
-Dalhousie StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-None Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5B PostalCode O
-2M7 PostalCode O
-
-Director Title O
-
-None Telephone O
-
-bala Email B-EMAIL
-@ Email I-EMAIL
-ryerson Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-Ryerson Organization O
-University Organization O
-- Organization O
-Design Organization O
-Fabrication Organization O
-Zone Organization O
-
-Information TargetIndustry O
-, TargetIndustry O
-Communications TargetIndustry O
-and TargetIndustry O
-Technology TargetIndustry O
-
-Academia Governance O
-
-Incubator BusinessSupportType O
-
-http://dfz Website O
-. Website O
-ryerson Website O
-. Website O
-ca/ Website O
-
-350 StreetAddress B-ADDRESS
-Victoria StreetAddress I-ADDRESS
-St StreetAddress E-ADDRESS
-
-None Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5B PostalCode O
-2K3 PostalCode O
-
-None Title O
-
-None Telephone O
-
-johanna Email B-EMAIL
-. Email I-EMAIL
-vandermaas Email I-EMAIL
-@ Email I-EMAIL
-ryerson Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-Ryerson Organization O
-University Organization O
-- Organization O
-Digital Organization O
-Media Organization O
-Zone Organization O
-
-Information TargetIndustry O
-, TargetIndustry O
-Communications TargetIndustry O
-and TargetIndustry O
-Technology TargetIndustry O
-Academia Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-digitalmediazone Website O
-. Website O
-ryerson Website O
-. Website O
-ca Website O
-10 StreetAddress B-ADDRESS
-Dundas StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-East StreetAddress I-ADDRESS
-Ontario StreetAddress E-ADDRESS
-
-Suite Unit O
-600 Unit O
-
-Toronto City O
-
-Ontario Province O
-M5B PostalCode O
-2G9 PostalCode O
-
-Director Title O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-979 Telephone I-PHONE
-- Telephone I-PHONE
-5000 Telephone E-PHONE
-
-vfox Email B-EMAIL
-@ Email I-EMAIL
-ryerson Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-Ryerson Organization O
-University Organization O
-- Organization O
-Fashion Organization O
-Zone Organization O
-
-Fashion TargetIndustry O
-
-Academia Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-fashionzone Website O
-. Website O
-ca/ Website O
-
-10 StreetAddress B-ADDRESS
-Dundas StreetAddress I-ADDRESS
-St. StreetAddress I-ADDRESS
-E StreetAddress I-ADDRESS
-. StreetAddress E-ADDRESS
-
-B2 Unit O
-Floor Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5B PostalCode O
-2G9 PostalCode O
-
-Managing Title O
-Director Title O
-
-None Telephone O
-
-olga Email B-EMAIL
-@ Email I-EMAIL
-fashionzone Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-Ryerson Organization O
-University Organization O
-- Organization O
-Startmeup Organization O
-Ryerson Organization O
-
-Information TargetIndustry O
-, TargetIndustry O
-Communications TargetIndustry O
-and TargetIndustry O
-Technology TargetIndustry O
-
-Academia Governance O
-
-Incubator BusinessSupportType O
-http://www Website O
-. Website O
-ryerson Website O
-. Website O
-ca Website O
-/ Website O
-rei Website O
-/ Website O
-startmeup_process/ Website O
-
-575 StreetAddress B-ADDRESS
-Bay StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-Ryerson Unit O
-University Unit O
-Ted Unit O
-Rogers Unit O
-School Unit O
-of Unit O
-Management Unit O
-TRS Unit O
-3 Unit O
-- Unit O
-139 Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5 PostalCode O
-G PostalCode O
-2C5 PostalCode O
-
-Director Title O
-
-None Telephone O
-
-vfox Email B-EMAIL
-@ Email I-EMAIL
-ryerson Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-Ryerson Organization O
-University Organization O
-- Organization O
-Transmedia Organization O
-Zone Organization O
-
-Mixed TargetIndustry O
-
-Academia Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-rtatransmediacentre Website O
-. Website O
-com/ Website O
-
-350 StreetAddress B-ADDRESS
-Victoria StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-None Unit O
-
-Toronto City O
-Ontario Province O
-
-M5B PostalCode O
-2K3 PostalCode O
-
-Director Title O
-of Title O
-Development Title O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-878 Telephone I-PHONE
-- Telephone I-PHONE
-8876 Telephone E-PHONE
-
-kathleen Email B-EMAIL
-. Email I-EMAIL
-webb Email I-EMAIL
-@ Email I-EMAIL
-me Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-School Organization O
-for Organization O
-Social Organization O
-Entrepreneurs Organization O
-Ontario Organization O
-( Organization O
-SSE- Organization O
-O Organization O
-) Organization O
-
-Social TargetIndustry O
-Innovation TargetIndustry O
-
-Not Governance O
-- Governance O
-for Governance O
-- Governance O
-profit Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-sseontario Website O
-. Website O
-org Website O
-
-540 StreetAddress B-ADDRESS
-Dundas StreetAddress I-ADDRESS
-St StreetAddress I-ADDRESS
-East StreetAddress E-ADDRESS
-
-None Unit O
-
-Toronto City O
-Ontario Province O
-
-M5A PostalCode O
-3B7 PostalCode O
-Interim Title O
-Director Title O
-
-None Telephone O
-
-mdepaul Email B-EMAIL
-@ Email I-EMAIL
-sseontario Email I-EMAIL
-. Email I-EMAIL
-org Email I-EMAIL
-" Email I-EMAIL
-" Email E-EMAIL
-
-SheEO Organization O
-
-Mixed TargetIndustry O
-
-Not Governance O
-- Governance O
-for Governance O
-- Governance O
-profit Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-iamasheeo Website O
-. Website O
-com/ Website O
-
-10 StreetAddress B-ADDRESS
-Dundas StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-East StreetAddress E-ADDRESS
-
-# Unit O
-502 Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5B PostalCode O
-2G9 PostalCode O
-
-Co Title O
-- Title O
-Founder Title O
-
-None Telephone O
-
-vicki Email B-EMAIL
-@ Email I-EMAIL
-iamasheeo Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
-
-
-Social Organization O
-Titan Organization O
-Labs Organization O
-Accelerator Organization O
-
-Mixed TargetIndustry O
-
-Private Governance O
-
-Accelerator BusinessSupportType O
-
-http://www Website O
-. Website O
-socialtitanlabs Website O
-. Website O
-com Website O
-20 StreetAddress B-ADDRESS
-Bay StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-None Unit O
-
-Toronto City O
-Ontario Province O
-
-M5J PostalCode O
-2N8 PostalCode O
-None Title O
-
-1 Telephone B-PHONE
-- Telephone I-PHONE
-888 Telephone I-PHONE
-- Telephone I-PHONE
-483 Telephone I-PHONE
-- Telephone I-PHONE
-3331 Telephone E-PHONE
-
-info Email B-EMAIL
-@ Email I-EMAIL
-majesticmedia Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-The Organization O
-Next Organization O
-36 Organization O
-Information TargetIndustry O
-, TargetIndustry O
-Communications TargetIndustry O
-and TargetIndustry O
-Technology TargetIndustry O
-
-Academia Governance O
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-thenext36 Website O
-. Website O
-ca Website O
-
-130 StreetAddress B-ADDRESS
-Bloor StreetAddress I-ADDRESS
-Street StreetAddress I-ADDRESS
-West StreetAddress E-ADDRESS
-
-Suite Unit O
-702 Unit O
-Toronto City O
-
-Ontario Province O
-
-M5S PostalCode O
-1N5 PostalCode O
-
-Jon Title O
-French Title O
-, Title O
-Director Title O
-of Title O
-Marketing Title O
-& Title O
-Events Title O
-
-None Telephone O
-
-jon Email B-EMAIL
-@ Email I-EMAIL
-thenext36 Email I-EMAIL
-. Email I-EMAIL
-ca Email E-EMAIL
-
-
-Toronto Organization O
-Business Organization O
-Development Organization O
-Centre Organization O
-( Organization O
-TBDC Organization O
-) Organization O
-Mixed TargetIndustry O
-Not Governance O
-- Governance O
-for Governance O
-- Governance O
-profit Governance O
-
-Incubator BusinessSupportType O
-
-http://www Website O
-. Website O
-tbdc Website O
-. Website O
-com Website O
-
-900 StreetAddress B-ADDRESS
-- StreetAddress I-ADDRESS
-1 StreetAddress I-ADDRESS
-Yonge StreetAddress I-ADDRESS
-Street StreetAddress E-ADDRESS
-
-None Unit O
-
-Toronto City O
-
-Ontario Province O
-
-M5E PostalCode O
-1E5 PostalCode O
-None Title O
-
-416 Telephone B-PHONE
-. Telephone I-PHONE
-345 Telephone I-PHONE
-. Telephone I-PHONE
-8621 Telephone E-PHONE
-
-mdonahue Email B-EMAIL
-@ Email I-EMAIL
-tbdc Email I-EMAIL
-. Email I-EMAIL
-com Email E-EMAIL
+patricia Email O
+meic Email O
+ca Email O
 
 

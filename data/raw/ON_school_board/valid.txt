@@ -1,3 +1,963 @@
+Thunder Region O
+Bay Region O
+Regional Region O
+Office Region O
+
+B28061 BoardNumber O
+
+Lakehead BoardName O
+DSB BoardName O
+
+English BoardLanguage O
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+Jim Suite O
+McCuaig Suite O
+Education Suite O
+Centre Suite O
+
+None POBox O
+
+2135 Street B-ADDRESS
+Sills Street I-ADDRESS
+St Street E-ADDRESS
+Thunder City O
+Bay City O
+
+Ontario Province O
+
+P7E5T2 PostalCode O
+
+807 PhoneNumber O
+625 PhoneNumber O
+5100 PhoneNumber O
+
+http Website O
+www Website O
+lakeheadschools Website O
+ca Website O
+
+London Region O
+Regional Region O
+Office Region O
+B66036 BoardNumber O
+
+Lambton BoardName O
+Kent BoardName O
+DSB BoardName O
+
+English BoardLanguage O
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+
+Box POBox O
+2091 POBox O
+
+200 Street B-ADDRESS
+Wellington Street I-ADDRESS
+St Street E-ADDRESS
+Sarnia City O
+Ontario Province O
+
+N7T7L2 PostalCode O
+
+519 PhoneNumber O
+336 PhoneNumber O
+1500 PhoneNumber O
+
+http Website O
+www Website O
+lkdsb Website O
+net Website O
+
+Ottawa Region O
+Regional Region O
+Office Region O
+
+B66206 BoardNumber O
+
+Limestone BoardName O
+DSB BoardName O
+English BoardLanguage O
+
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+
+Postal POBox O
+Bag POBox O
+610 POBox O
+
+220 Street B-ADDRESS
+Portsmouth Street I-ADDRESS
+Ave Street E-ADDRESS
+
+Kingston City O
+
+Ontario Province O
+K7L4X4 PostalCode O
+
+613 PhoneNumber O
+544 PhoneNumber O
+6920 PhoneNumber O
+
+http Website O
+www Website O
+limestone Website O
+on Website O
+ca Website O
+
+London Region O
+Regional Region O
+Office Region O
+
+B67032 BoardNumber O
+London BoardName O
+District BoardName O
+Catholic BoardName O
+School BoardName O
+Board BoardName O
+
+English BoardLanguage O
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+London Suite O
+DCSB Suite O
+5474 POBox O
+None Street O
+London City O
+
+Ontario Province O
+
+N6A4X5 PostalCode O
+519 PhoneNumber O
+663 PhoneNumber O
+2088 PhoneNumber O
+http Website O
+ldcsb Website O
+on Website O
+ca Website O
+
+
+Sudbury Region O
+North Region O
+Bay Region O
+Regional Region O
+Office Region O
+
+B15199 BoardNumber O
+
+Moose BoardName O
+Factory BoardName O
+Island BoardName O
+DSAB BoardName O
+
+English BoardLanguage O
+
+Public BoardType O
+School BoardType O
+Board BoardType O
+
+None Suite O
+Box POBox O
+160 POBox O
+None Street O
+
+Moose City O
+Factory City O
+Ontario Province O
+
+P0L1W0 PostalCode O
+
+705 PhoneNumber O
+658 PhoneNumber O
+4571 PhoneNumber O
+None Website O
+
+
+Sudbury Region O
+North Region O
+Bay Region O
+Regional Region O
+Office Region O
+B15202 BoardNumber O
+Moosonee BoardName O
+DSAB BoardName O
+
+English BoardLanguage O
+Public BoardType O
+School BoardType O
+Board BoardType O
+
+None Suite O
+
+Box POBox O
+250 POBox O
+
+None Street O
+
+Moosonee City O
+Ontario Province O
+
+P0L1Y0 PostalCode O
+
+705 PhoneNumber O
+336 PhoneNumber O
+2300 PhoneNumber O
+
+None Website O
+
+Sudbury Region O
+North Region O
+Bay Region O
+Regional Region O
+Office Region O
+
+B28037 BoardNumber O
+Near BoardName O
+North BoardName O
+DSB BoardName O
+English BoardLanguage O
+
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+
+Box POBox O
+3110 POBox O
+
+963 Street B-ADDRESS
+Airport Street I-ADDRESS
+Rd Street E-ADDRESS
+
+North City O
+Bay City O
+
+Ontario Province O
+P1B8H1 PostalCode O
+
+705 PhoneNumber O
+472 PhoneNumber O
+8170 PhoneNumber O
+http Website O
+www Website O
+nearnorthschools Website O
+ca Website O
+
+
+London Region O
+Regional Region O
+Office Region O
+B67156 BoardNumber O
+Niagara BoardName O
+CDSB BoardName O
+
+English BoardLanguage O
+
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+None Suite O
+None POBox O
+
+427 Street B-ADDRESS
+Rice Street I-ADDRESS
+Rd Street E-ADDRESS
+Welland City O
+Ontario Province O
+
+L3C7C1 PostalCode O
+
+905 PhoneNumber O
+735 PhoneNumber O
+0240 PhoneNumber O
+
+http Website O
+www Website O
+niagaracatholic Website O
+ca Website O
+
+London Region O
+Regional Region O
+Office Region O
+B80004 BoardNumber O
+
+Niagara BoardName O
+Peninsula BoardName O
+Children BoardName O
+s BoardName O
+Centre BoardName O
+SA BoardName O
+English BoardLanguage O
+Provincial BoardType O
+Hospital BoardType O
+
+None Suite O
+None POBox O
+
+567 Street B-ADDRESS
+Glenridge Street I-ADDRESS
+Ave Street E-ADDRESS
+
+St City O
+Catharines City O
+Ontario Province O
+L2T4C2 PostalCode O
+
+905 PhoneNumber O
+688 PhoneNumber O
+3550 PhoneNumber O
+www Website O
+npcc Website O
+on Website O
+ca Website O
+
+
+Sudbury Region O
+North Region O
+Bay Region O
+Regional Region O
+Office Region O
+
+B29017 BoardNumber O
+Nipissing BoardName O
+Parry BoardName O
+Sound BoardName O
+CDSB BoardName O
+English BoardLanguage O
+
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+
+None POBox O
+
+1000 Street B-ADDRESS
+High Street I-ADDRESS
+St Street E-ADDRESS
+North City O
+Bay City O
+Ontario Province O
+P1B6S6 PostalCode O
+
+705 PhoneNumber O
+472 PhoneNumber O
+1201 PhoneNumber O
+www Website O
+npsc Website O
+ca Website O
+
+
+Sudbury Region O
+North Region O
+Bay Region O
+Regional Region O
+Office Region O
+B29009 BoardNumber O
+
+Northeastern BoardName O
+CDSB BoardName O
+
+English BoardLanguage O
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+None POBox O
+
+383 Street B-ADDRESS
+Birch Street I-ADDRESS
+St Street I-ADDRESS
+N Street E-ADDRESS
+Timmins City O
+
+Ontario Province O
+
+P4N6E8 PostalCode O
+705 PhoneNumber O
+268 PhoneNumber O
+7443 PhoneNumber O
+None Website O
+
+Thunder Region O
+Bay Region O
+Regional Region O
+Office Region O
+B29041 BoardNumber O
+Northwest BoardName O
+CDSB BoardName O
+English BoardLanguage O
+
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+None Suite O
+None POBox O
+
+555 Street B-ADDRESS
+Flinders Street I-ADDRESS
+Ave Street E-ADDRESS
+Fort City O
+Frances City O
+Ontario Province O
+P9A3L2 PostalCode O
+
+807 PhoneNumber O
+274 PhoneNumber O
+2931 PhoneNumber O
+http Website O
+www Website O
+tncdsb Website O
+on Website O
+ca Website O
+
+
+Ottawa Region O
+Regional Region O
+Office Region O
+
+B67180 BoardNumber O
+Ottawa BoardName O
+CDSB BoardName O
+English BoardLanguage O
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+
+None POBox O
+
+570 Street B-ADDRESS
+West Street I-ADDRESS
+Hunt Street I-ADDRESS
+Club Street I-ADDRESS
+Rd Street E-ADDRESS
+Nepean City O
+
+Ontario Province O
+
+K2G3R4 PostalCode O
+
+613 PhoneNumber O
+224 PhoneNumber O
+2222 PhoneNumber O
+http Website O
+www Website O
+ottawacatholicschools Website O
+ca Website O
+
+Ottawa Region O
+Regional Region O
+Office Region O
+B80055 BoardNumber O
+Ottawa BoardName O
+Children BoardName O
+s BoardName O
+Treatment BoardName O
+Centre BoardName O
+SA BoardName O
+
+English BoardLanguage O
+
+Provincial BoardType O
+Hospital BoardType O
+
+None Suite O
+None POBox O
+
+395 Street B-ADDRESS
+Smyth Street I-ADDRESS
+Rd Street E-ADDRESS
+
+Ottawa City O
+Ontario Province O
+
+K2H8L2 PostalCode O
+
+613 PhoneNumber O
+737 PhoneNumber O
+0871 PhoneNumber O
+
+None Website O
+
+Ottawa Region O
+Regional Region O
+Office Region O
+
+B66184 BoardNumber O
+
+Ottawa BoardName O
+Carleton BoardName O
+DSB BoardName O
+English BoardLanguage O
+
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+None Suite O
+
+None POBox O
+133 Street B-ADDRESS
+Greenbank Street I-ADDRESS
+Rd Street E-ADDRESS
+Nepean City O
+
+Ontario Province O
+
+K2H6L3 PostalCode O
+
+613 PhoneNumber O
+721 PhoneNumber O
+1820 PhoneNumber O
+http Website O
+www Website O
+ocdsb Website O
+ca Website O
+
+
+Toronto Region O
+and Region O
+Area Region O
+Regional Region O
+Office Region O
+
+B66125 BoardNumber O
+Peel BoardName O
+DSB BoardName O
+English BoardLanguage O
+
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+None POBox O
+5650 Street B-ADDRESS
+Hurontario Street I-ADDRESS
+St Street E-ADDRESS
+Mississauga City O
+
+Ontario Province O
+
+L5R1C6 PostalCode O
+
+905 PhoneNumber O
+890 PhoneNumber O
+1099 PhoneNumber O
+http Website O
+www Website O
+peelschools Website O
+org Website O
+
+Barrie Region O
+Regional Region O
+Office Region O
+B79910 BoardNumber O
+Penetanguishene BoardName O
+PSSB BoardName O
+
+English BoardLanguage O
+Prot BoardType O
+Sep BoardType O
+Sch BoardType O
+Brd BoardType O
+Sch BoardType O
+Auth BoardType O
+ BoardType O
+
+Unit Suite O
+49 Suite O
+Box POBox O
+107 POBox O
+
+2 Street B-ADDRESS
+Poyntz Street I-ADDRESS
+St Street I-ADDRESS
+ Street E-ADDRESS
+Penetanguishene City O
+
+Ontario Province O
+L9M1M2 PostalCode O
+705 PhoneNumber O
+549 PhoneNumber O
+6422 PhoneNumber O
+
+None Website O
+
+
+Barrie Region O
+Regional Region O
+Office Region O
+B67067 BoardNumber O
+Peterborough BoardName O
+Victoria BoardName O
+Northum BoardName O
+Clarington BoardName O
+CDSB BoardName O
+
+English BoardLanguage O
+
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+None Suite O
+
+None POBox O
+1355 Street B-ADDRESS
+Lansdowne Street I-ADDRESS
+St Street I-ADDRESS
+W Street E-ADDRESS
+
+Peterborough City O
+Ontario Province O
+K9J7M3 PostalCode O
+705 PhoneNumber O
+748 PhoneNumber O
+4861 PhoneNumber O
+
+http Website O
+www Website O
+pvnccdsb Website O
+on Website O
+ca Website O
+
+Toronto Region O
+and Region O
+Area Region O
+Regional Region O
+Office Region O
+B76686 BoardNumber O
+Provincial BoardName O
+Schools BoardName O
+
+English BoardLanguage O
+
+Provincial BoardType O
+Hospital BoardType O
+Ministry Suite O
+of Suite O
+Education Suite O
+
+None POBox O
+
+255 Street B-ADDRESS
+Ontario Street I-ADDRESS
+St Street I-ADDRESS
+S Street E-ADDRESS
+
+Milton City O
+
+Ontario Province O
+L9T2M5 PostalCode O
+905 PhoneNumber O
+878 PhoneNumber O
+2851 PhoneNumber O
+www Website O
+psbnet Website O
+ca Website O
+
+Sudbury Region O
+North Region O
+Bay Region O
+Regional Region O
+Office Region O
+B28029 BoardNumber O
+Rainbow BoardName O
+DSB BoardName O
+English BoardLanguage O
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+None POBox O
+69 Street B-ADDRESS
+Young Street I-ADDRESS
+St Street E-ADDRESS
+Sudbury City O
+Ontario Province O
+
+P3E3G5 PostalCode O
+
+705 PhoneNumber O
+674 PhoneNumber O
+3171 PhoneNumber O
+http Website O
+www Website O
+rainbowschools Website O
+ca Website O
+
+Thunder Region O
+Bay Region O
+Regional Region O
+Office Region O
+B28053 BoardNumber O
+
+Rainy BoardName O
+River BoardName O
+DSB BoardName O
+
+English BoardLanguage O
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+None Suite O
+
+None POBox O
+522 Street B-ADDRESS
+Second Street I-ADDRESS
+St Street I-ADDRESS
+E Street E-ADDRESS
+Fort City O
+Frances City O
+Ontario Province O
+P9A1N4 PostalCode O
+807 PhoneNumber O
+274 PhoneNumber O
+9855 PhoneNumber O
+http Website O
+www Website O
+rrdsb Website O
+com Website O
+
+Ottawa Region O
+Regional Region O
+Office Region O
+
+B67199 BoardNumber O
+Renfrew BoardName O
+County BoardName O
+CDSB BoardName O
+
+English BoardLanguage O
+
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+None POBox O
+
+499 Street B-ADDRESS
+Pembroke Street I-ADDRESS
+St Street I-ADDRESS
+W Street E-ADDRESS
+
+Pembroke City O
+
+Ontario Province O
+
+K8A5P1 PostalCode O
+
+613 PhoneNumber O
+735 PhoneNumber O
+1031 PhoneNumber O
+
+http Website O
+www Website O
+rccdsb Website O
+edu Website O
+on Website O
+ca Website O
+
+
+Ottawa Region O
+Regional Region O
+Office Region O
+
+B66214 BoardNumber O
+
+Renfrew BoardName O
+County BoardName O
+DSB BoardName O
+English BoardLanguage O
+
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+None Suite O
+None POBox O
+1270 Street B-ADDRESS
+Pembroke Street I-ADDRESS
+St Street I-ADDRESS
+W Street E-ADDRESS
+Pembroke City O
+Ontario Province O
+
+K8A4G4 PostalCode O
+613 PhoneNumber O
+735 PhoneNumber O
+0151 PhoneNumber O
+
+http Website O
+www Website O
+renfrew Website O
+edu Website O
+on Website O
+ca Website O
+
+
+Barrie Region O
+Regional Region O
+Office Region O
+
+B66109 BoardNumber O
+
+Simcoe BoardName O
+County BoardName O
+DSB BoardName O
+
+English BoardLanguage O
+
+Pub BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+
+None Suite O
+None POBox O
+
+1170 Street B-ADDRESS
+26 Street I-ADDRESS
+Highway Street E-ADDRESS
+
+Midhurst City O
+
+Ontario Province O
+L0L1X0 PostalCode O
+705 PhoneNumber O
+728 PhoneNumber O
+7570 PhoneNumber O
+
+http Website O
+www Website O
+scdsb Website O
+on Website O
+ca Website O
+
+Barrie Region O
+Regional Region O
+Office Region O
+
+B67091 BoardNumber O
+Simcoe BoardName O
+Muskoka BoardName O
+CDSB BoardName O
+
+English BoardLanguage O
+
+Cath BoardType O
+Dist BoardType O
+Sch BoardType O
+Brd BoardType O
+E BoardType O
+F BoardType O
+ BoardType O
+None Suite O
+
+None POBox O
+46 Street B-ADDRESS
+Alliance Street I-ADDRESS
+Blvd Street E-ADDRESS
+
+Barrie City O
+Ontario Province O
+
+L4M5K3 PostalCode O
+705 PhoneNumber O
+722 PhoneNumber O
+3555 PhoneNumber O
+
+http Website O
+www Website O
+smcdsb Website O
+on Website O
+ca Website O
+
 London Region O
 Regional Region O
 Office Region O
@@ -7,50 +967,37 @@ B67040 BoardNumber O
 St BoardName O
 Clair BoardName O
 CDSB BoardName O
-
 English BoardLanguage O
-
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
+ BoardType O
 
 None Suite O
-
 None POBox O
-
 420 Street B-ADDRESS
 Creek Street I-ADDRESS
 St Street E-ADDRESS
-
 Wallaceburg City O
 
 Ontario Province O
-
 N8A4C4 PostalCode O
 
-519 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-627 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-6762 PhoneNumber E-PHONE
+519 PhoneNumber O
+627 PhoneNumber O
+6762 PhoneNumber O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 st Website O
-- Website O
 clair Website O
-. Website O
 net Website O
 
 
 Sudbury Region O
-- Region O
 North Region O
 Bay Region O
 Regional Region O
@@ -60,82 +1007,64 @@ B29033 BoardNumber O
 
 Sudbury BoardName O
 CDSB BoardName O
-
 English BoardLanguage O
-
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 165 Suite O
 
 None POBox O
-
 A Street B-ADDRESS
 A Street I-ADDRESS
-D'Youville Street I-ADDRESS
+D Street I-ADDRESS
+Youville Street I-ADDRESS
 St Street E-ADDRESS
+
 Sudbury City O
 
 Ontario Province O
-
 P3C5E7 PostalCode O
+705 PhoneNumber O
+673 PhoneNumber O
+5620 PhoneNumber O
 
-705 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-673 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-5620 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 scdsb Website O
-. Website O
 edu Website O
-. Website O
 on Website O
-. Website O
 ca Website O
-
 
 Thunder Region O
 Bay Region O
 Regional Region O
 Office Region O
-
 B29076 BoardNumber O
 
 Superior BoardName O
 North BoardName O
 CDSB BoardName O
-
 English BoardLanguage O
 
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
+ BoardType O
 
 None Suite O
-
 Box POBox O
 610 POBox O
 
 21 Street B-ADDRESS
 Simcoe Street I-ADDRESS
 Plaza Street E-ADDRESS
-
 Terrace City O
 Bay City O
 
@@ -143,20 +1072,14 @@ Ontario Province O
 
 P0T2W0 PostalCode O
 
-807 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-825 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-3209 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+807 PhoneNumber O
+825 PhoneNumber O
+3209 PhoneNumber O
+http Website O
+www Website O
 sncdsb Website O
-. Website O
 on Website O
-. Website O
 ca Website O
-
 
 Thunder Region O
 Bay Region O
@@ -166,49 +1089,37 @@ Office Region O
 B28070 BoardNumber O
 
 Superior BoardName O
-- BoardName O
 Greenstone BoardName O
 DSB BoardName O
-
 English BoardLanguage O
 
 Pub BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
+ BoardType O
 
 None Suite O
-
 Postal POBox O
 Bag POBox O
 A POBox O
 12 Street B-ADDRESS
 Hemlo Street I-ADDRESS
 Dr Street E-ADDRESS
-
 Marathon City O
 
 Ontario Province O
-
 P0T2E0 PostalCode O
+807 PhoneNumber O
+229 PhoneNumber O
+0436 PhoneNumber O
 
-807 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-229 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-0436 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 sgdsb Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 
@@ -221,100 +1132,76 @@ B66044 BoardNumber O
 Thames BoardName O
 Valley BoardName O
 DSB BoardName O
-
 English BoardLanguage O
-
 Pub BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 None Suite O
 
 Box POBox O
 5888 POBox O
-
 1250 Street B-ADDRESS
 Dundas Street I-ADDRESS
 St Street I-ADDRESS
 E Street E-ADDRESS
 London City O
-
 Ontario Province O
-
 N6A5L1 PostalCode O
 
-519 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-452 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-2000 PhoneNumber E-PHONE
-http://www Website O
-. Website O
-tvdsb Website O
-. Website O
-on Website O
-. Website O
-ca Website O
+519 PhoneNumber O
+452 PhoneNumber O
+2000 PhoneNumber O
 
+http Website O
+www Website O
+tvdsb Website O
+on Website O
+ca Website O
 
 Thunder Region O
 Bay Region O
 Regional Region O
 Office Region O
-
 B29068 BoardNumber O
 
 Thunder BoardName O
 Bay BoardName O
 CDSB BoardName O
-
 English BoardLanguage O
 
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 None Suite O
-
 None POBox O
 
 459 Street B-ADDRESS
 Victoria Street I-ADDRESS
 Ave Street I-ADDRESS
-. Street I-ADDRESS
 West Street E-ADDRESS
 
 Thunder City O
 Bay City O
 
 Ontario Province O
-
 P7C0A4 PostalCode O
 
-807 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-625 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-1555 PhoneNumber E-PHONE
+807 PhoneNumber O
+625 PhoneNumber O
+1555 PhoneNumber O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 tbcdsb Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 
@@ -323,61 +1210,48 @@ and Region O
 Area Region O
 Regional Region O
 Office Region O
-
 B67059 BoardNumber O
-
 Toronto BoardName O
 CDSB BoardName O
 
 English BoardLanguage O
-
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 Catholic Suite O
 Education Suite O
 Centre Suite O
-
 None POBox O
+
 80 Street B-ADDRESS
 Sheppard Street I-ADDRESS
 Ave Street I-ADDRESS
 E Street E-ADDRESS
-
 Toronto City O
 
 Ontario Province O
 
 M2N6E8 PostalCode O
 
-416 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-222 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-8282 PhoneNumber E-PHONE
+416 PhoneNumber O
+222 PhoneNumber O
+8282 PhoneNumber O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 tcdsb Website O
-. Website O
 org Website O
-
 
 Toronto Region O
 and Region O
 Area Region O
 Regional Region O
 Office Region O
-
 B66052 BoardNumber O
-
 Toronto BoardName O
 DSB BoardName O
 
@@ -387,44 +1261,32 @@ Pub BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 None Suite O
-
 None POBox O
 5050 Street B-ADDRESS
 Yonge Street I-ADDRESS
 St Street E-ADDRESS
-
 Toronto City O
 
 Ontario Province O
-
 M2N5N8 PostalCode O
+416 PhoneNumber O
+397 PhoneNumber O
+3000 PhoneNumber O
 
-416 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-397 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-3000 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 tdsb Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 
 Barrie Region O
 Regional Region O
 Office Region O
-
 B66087 BoardNumber O
 
 Trillium BoardName O
@@ -437,39 +1299,31 @@ Pub BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
+ BoardType O
 
 Education Suite O
 Centre Suite O
-
 Box POBox O
 420 POBox O
+
 300 Street B-ADDRESS
 County Street I-ADDRESS
 Rd Street I-ADDRESS
 36 Street E-ADDRESS
-
 Lindsay City O
+
 Ontario Province O
-
 K9V4S4 PostalCode O
+705 PhoneNumber O
+324 PhoneNumber O
+6776 PhoneNumber O
 
-705 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-324 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-6776 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 tldsb Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 
@@ -481,21 +1335,16 @@ B66192 BoardNumber O
 Upper BoardName O
 Canada BoardName O
 DSB BoardName O
-
 English BoardLanguage O
 
 Pub BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 None Suite O
-
 None POBox O
 
 225 Street B-ADDRESS
@@ -506,14 +1355,10 @@ W Street E-ADDRESS
 Brockville City O
 
 Ontario Province O
-
 K6V5X1 PostalCode O
-
-613 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-342 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-0371 PhoneNumber E-PHONE
+613 PhoneNumber O
+342 PhoneNumber O
+0371 PhoneNumber O
 
 None Website O
 
@@ -529,18 +1374,15 @@ B66117 BoardNumber O
 Upper BoardName O
 Grand BoardName O
 DSB BoardName O
-
 English BoardLanguage O
 
 Pub BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
+ BoardType O
 
 None Suite O
 None POBox O
@@ -550,46 +1392,34 @@ Victoria Street I-ADDRESS
 Rd Street I-ADDRESS
 N Street E-ADDRESS
 Guelph City O
-
 Ontario Province O
-
 N1E6K2 PostalCode O
-
-519 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-822 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-4420 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+519 PhoneNumber O
+822 PhoneNumber O
+4420 PhoneNumber O
+http Website O
+www Website O
 ugdsb Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 
 London Region O
 Regional Region O
 Office Region O
-
 B67148 BoardNumber O
+
 Waterloo BoardName O
 CDSB BoardName O
-
 English BoardLanguage O
 
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 A Suite O
 
 Box POBox O
@@ -600,22 +1430,16 @@ Weber Street I-ADDRESS
 Street Street E-ADDRESS
 
 Kitchener City O
-
 Ontario Province O
 N2G4G2 PostalCode O
+519 PhoneNumber O
+578 PhoneNumber O
+3660 PhoneNumber O
 
-519 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-578 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-3660 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 wcdsb Website O
-. Website O
 ca Website O
-
 
 London Region O
 Regional Region O
@@ -626,44 +1450,33 @@ B66176 BoardNumber O
 Waterloo BoardName O
 Region BoardName O
 DSB BoardName O
-
 English BoardLanguage O
-
 Pub BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 None Suite O
 
 None POBox O
+
 51 Street B-ADDRESS
 Ardelt Street I-ADDRESS
 Ave Street E-ADDRESS
 
 Kitchener City O
-
 Ontario Province O
 
 N2C2R5 PostalCode O
-
-519 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-570 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-0300 PhoneNumber E-PHONE
+519 PhoneNumber O
+570 PhoneNumber O
+0300 PhoneNumber O
 
 www Website O
-. Website O
 wrdsb Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 
@@ -672,23 +1485,18 @@ and Region O
 Area Region O
 Regional Region O
 Office Region O
-
 B67130 BoardNumber O
 
 Wellington BoardName O
 CDSB BoardName O
-
 English BoardLanguage O
-
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
+ BoardType O
 
 None Suite O
 None POBox O
@@ -700,50 +1508,37 @@ St Street E-ADDRESS
 Guelph City O
 
 Ontario Province O
-
 N1H6N6 PostalCode O
 
-519 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-821 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-4600 PhoneNumber E-PHONE
+519 PhoneNumber O
+821 PhoneNumber O
+4600 PhoneNumber O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 wellingtoncssb Website O
-. Website O
 edu Website O
-. Website O
 on Website O
-. Website O
 ca Website O
 
 London Region O
 Regional Region O
 Office Region O
-
 B67024 BoardNumber O
 
 Windsor BoardName O
-- BoardName O
 Essex BoardName O
 CDSB BoardName O
 
 English BoardLanguage O
-
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 None Suite O
-
 None POBox O
 
 1325 Street B-ADDRESS
@@ -751,118 +1546,89 @@ California Street I-ADDRESS
 Ave Street E-ADDRESS
 
 Windsor City O
+
 Ontario Province O
-
 N9B3Y6 PostalCode O
-
-519 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-253 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-2481 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+519 PhoneNumber O
+253 PhoneNumber O
+2481 PhoneNumber O
+http Website O
+www Website O
 wecdsb Website O
-. Website O
 on Website O
-. Website O
 ca Website O
+
 
 Barrie Region O
 Regional Region O
 Office Region O
 
 B67075 BoardNumber O
-
 York BoardName O
 CDSB BoardName O
-
 English BoardLanguage O
 Cath BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 None Suite O
-
 None POBox O
-
 320 Street B-ADDRESS
 Bloomington Street I-ADDRESS
 Rd Street I-ADDRESS
 W Street E-ADDRESS
-
 Aurora City O
-
 Ontario Province O
 
 L4G0M1 PostalCode O
+905 PhoneNumber O
+713 PhoneNumber O
+2711 PhoneNumber O
 
-905 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-713 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-2711 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 ycdsb Website O
-. Website O
 ca Website O
 
 
 Barrie Region O
 Regional Region O
 Office Region O
-
 B66095 BoardNumber O
 
 York BoardName O
 Region BoardName O
 DSB BoardName O
-
 English BoardLanguage O
 
 Pub BoardType O
 Dist BoardType O
 Sch BoardType O
 Brd BoardType O
-( BoardType O
 E BoardType O
-/ BoardType O
 F BoardType O
-) BoardType O
-
+ BoardType O
 None Suite O
-
 None POBox O
 
 60 Street B-ADDRESS
 Wellington Street I-ADDRESS
 St Street I-ADDRESS
 W Street E-ADDRESS
-
 Aurora City O
-Ontario Province O
 
+Ontario Province O
 L4G3H2 PostalCode O
 
-416 PhoneNumber B-PHONE
-- PhoneNumber I-PHONE
-969 PhoneNumber I-PHONE
-- PhoneNumber I-PHONE
-7170 PhoneNumber E-PHONE
-
-http://www Website O
-. Website O
+416 PhoneNumber O
+969 PhoneNumber O
+7170 PhoneNumber O
+http Website O
+www Website O
 yrdsb Website O
-. Website O
 ca Website O
 
 

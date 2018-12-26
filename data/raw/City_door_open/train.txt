@@ -4,136 +4,114 @@ Manning BuildingName O
 159 BuildingAddress B-ADDRESS
 Manning BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M6J PostalCode O
 2K6 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 65024485 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 41028636 Longitude O
+416 Telephone O
+523 Telephone O
+7223 Telephone O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-523 Telephone I-PHONE
-- Telephone I-PHONE
-7223 Telephone E-PHONE
 None Extension O
-
-http://159manning Website O
-. Website O
+http Website O
+159manning Website O
 com Website O
-
-http://twitter Twitter O
-. Twitter O
-com/159manning Twitter O
-
-https://www Facebook O
-. Facebook O
+http Twitter O
+twitter Twitter O
+com Twitter O
+159manning Twitter O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
-com/159manning/ Facebook O
-https://www Instagram O
-. Instagram O
+com Facebook O
+159manning Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-timmccready/ Instagram O
-
+timmccready Instagram O
+ Instagram O
 None YouTube O
-
 None Flickr O
 
 
 401 BuildingName O
 Richmond BuildingName O
-
 401 BuildingAddress B-ADDRESS
 Richmond BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 111 Suite/Floor O
 
 M5V PostalCode O
 3A8 PostalCode O
 
 None LocationInstructions O
+
 43 Latitude O
-. Latitude O
 64775543 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 39474843 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-595 Telephone I-PHONE
-- Telephone I-PHONE
-5900 Telephone E-PHONE
-
+416 Telephone O
+595 Telephone O
+5900 Telephone O
 4014 Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 urbanspace Website O
-. Website O
 org Website O
-http://twitter Twitter O
-. Twitter O
-com/401richmond Twitter O
+http Twitter O
+twitter Twitter O
+com Twitter O
+401richmond Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
-com/401richmond Facebook O
+com Facebook O
+401richmond Facebook O
 
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
-com/401richmond Instagram O
+com Instagram O
+401richmond Instagram O
 
 None YouTube O
 
-http://www Flickr O
-. Flickr O
+http Flickr O
+www Flickr O
 flickr Flickr O
-. Flickr O
 com Flickr O
-/ Flickr O
-photos/401richmond Flickr O
+photos Flickr O
+401richmond Flickr O
 
 433 BuildingName O
 Eastern BuildingName O
 Avenue BuildingName O
 Building BuildingName O
 A BuildingName O
-& BuildingName O
 B BuildingName O
 
 433 BuildingAddress B-ADDRESS
 Eastern BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
 M4B PostalCode O
 1B7 PostalCode O
-
 Access LocationInstructions O
 to LocationInstructions O
 the LocationInstructions O
@@ -150,43 +128,36 @@ side LocationInstructions O
 of LocationInstructions O
 the LocationInstructions O
 building LocationInstructions O
-. LocationInstructions O
+ LocationInstructions O
 43 Latitude O
-. Latitude O
 65708179 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 3436271 Longitude O
-
 None Telephone O
-
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 toronto Website O
-. Website O
 ca Website O
-/ Website O
 transportation Website O
-
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
-to_transport?lang Twitter O
-= Twitter O
+to_transport Twitter O
+lang Twitter O
 en Twitter O
-None Facebook O
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-cityofto/ Instagram O
 
+None Facebook O
+
+https Instagram O
+www Instagram O
+instagram Instagram O
+com Instagram O
+cityofto Instagram O
+ Instagram O
 None YouTube O
 
 None Flickr O
@@ -195,177 +166,134 @@ None Flickr O
 Aga BuildingName O
 Khan BuildingName O
 Museum BuildingName O
-
 77 BuildingAddress B-ADDRESS
 Wynford BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
-
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
 M3C PostalCode O
 1K1 PostalCode O
-
 None LocationInstructions O
 43 Latitude O
-. Latitude O
 7253857 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 33233114 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-646 Telephone I-PHONE
-- Telephone I-PHONE
-4677 Telephone E-PHONE
+416 Telephone O
+646 Telephone O
+4677 Telephone O
 
 None Extension O
-
-http://agakhanmuseum Website O
-. Website O
+http Website O
+agakhanmuseum Website O
 org Website O
-http://twitter Twitter O
-. Twitter O
+http Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 agakhanmuseum Twitter O
-
-http://facebook Facebook O
-. Facebook O
+http Facebook O
+facebook Facebook O
 com Facebook O
-/ Facebook O
 agakhanmuseumtoronto Facebook O
 
-http://instagram Instagram O
-. Instagram O
+http Instagram O
+instagram Instagram O
 com Instagram O
-/ Instagram O
 agakhanmuseum Instagram O
-
-http://youtube YouTube O
-. YouTube O
+http YouTube O
+youtube YouTube O
 com YouTube O
-/ YouTube O
 agakhanmuseumtoronto YouTube O
-
 None Flickr O
 
 
 Altius BuildingName O
 Architecture BuildingName O
-
 109 BuildingAddress B-ADDRESS
 Atlantic BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 201 Suite/Floor O
-
-M6 PostalCode O
-K PostalCode O
+M6K PostalCode O
 1X4 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 63982014 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 42046281 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-516 Telephone I-PHONE
-- Telephone I-PHONE
-7772 Telephone E-PHONE
+416 Telephone O
+516 Telephone O
+7772 Telephone O
 
 229 Extension O
 
-http://altius Website O
-. Website O
+http Website O
+altius Website O
 net Website O
 
 None Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-altiusinc/ Facebook O
-
+altiusinc Facebook O
+ Facebook O
 None Instagram O
-
 None YouTube O
 
 None Flickr O
 
-
 Alumnae BuildingName O
 Theatre BuildingName O
-
 70 BuildingAddress B-ADDRESS
 Berkeley BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M5A PostalCode O
 2W6 PostalCode O
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 65275069 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 36495421 Longitude O
-
 None Telephone O
+
 None Extension O
-http://www Website O
-. Website O
+http Website O
+www Website O
 alumnaetheatre Website O
-. Website O
 com Website O
-http://twitter Twitter O
-. Twitter O
+
+http Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 alumnaetheatre Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-alumnaetheatre/ Facebook O
-
-http://www Instagram O
-. Instagram O
+alumnaetheatre Facebook O
+ Facebook O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-alumnaetheatre/ Instagram O
+alumnaetheatre Instagram O
+ Instagram O
 
 None YouTube O
 
 None Flickr O
 
-
 Applewood BuildingName O
-, BuildingName O
 The BuildingName O
 Shaver BuildingName O
 Homestead BuildingName O
-
 450 BuildingAddress B-ADDRESS
 The BuildingAddress I-ADDRESS
 West BuildingAddress I-ADDRESS
@@ -375,47 +303,33 @@ None Suite/Floor O
 
 M9C PostalCode O
 1E9 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 64807 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 568752 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-622 Telephone I-PHONE
-- Telephone I-PHONE
-4124 Telephone E-PHONE
-
+416 Telephone O
+622 Telephone O
+4124 Telephone O
 None Extension O
-
-https://www Website O
-. Website O
+https Website O
+www Website O
 applewoodshaverhouse Website O
-. Website O
 ca Website O
-
 None Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 applewoodshaverhouse Facebook O
-
 None Instagram O
-
 None YouTube O
 
 None Flickr O
-
 
 Archives BuildingName O
 of BuildingName O
@@ -425,18 +339,15 @@ Ontario BuildingName O
 Ian BuildingAddress I-ADDRESS
 Macdonald BuildingAddress I-ADDRESS
 Blvd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M3J PostalCode O
 1P3 PostalCode O
-
 The LocationInstructions O
 TTC LocationInstructions O
-'s LocationInstructions O
+s LocationInstructions O
 Toronto LocationInstructions O
-- LocationInstructions O
 York LocationInstructions O
 Spadina LocationInstructions O
 Subway LocationInstructions O
@@ -445,91 +356,70 @@ is LocationInstructions O
 now LocationInstructions O
 in LocationInstructions O
 operation LocationInstructions O
-, LocationInstructions O
 including LocationInstructions O
 York LocationInstructions O
 University LocationInstructions O
 Station LocationInstructions O
-, LocationInstructions O
 beside LocationInstructions O
 the LocationInstructions O
 Archives LocationInstructions O
 of LocationInstructions O
 Ontario LocationInstructions O
-. LocationInstructions O
+ LocationInstructions O
 
 43 Latitude O
-. Latitude O
 77486168 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 50059461 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-327 Telephone I-PHONE
-- Telephone I-PHONE
-1601 Telephone E-PHONE
-
+416 Telephone O
+327 Telephone O
+1601 Telephone O
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 ontario Website O
-. Website O
 ca Website O
-/ Website O
 archives Website O
 
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 ArchivesOntario Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 archivesontario Facebook O
-
 None Instagram O
-
-http://www YouTube O
-. YouTube O
+http YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
 archivesofontario YouTube O
 
-http://www Flickr O
-. Flickr O
+http Flickr O
+www Flickr O
 flickr Flickr O
-. Flickr O
 com Flickr O
-/ Flickr O
 photos Flickr O
-/ Flickr O
 archivesofontario Flickr O
 
 
 Assembly BuildingName O
 Hall BuildingName O
-
 1 BuildingAddress B-ADDRESS
 Colonel BuildingAddress I-ADDRESS
 Samuel BuildingAddress I-ADDRESS
 Smith BuildingAddress I-ADDRESS
 Park BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
@@ -537,44 +427,35 @@ M8V PostalCode O
 4B6 PostalCode O
 
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 59766901 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 51582783 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-338 Telephone I-PHONE
-- Telephone I-PHONE
-7255 Telephone E-PHONE
+416 Telephone O
+338 Telephone O
+7255 Telephone O
 
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 assemblyhall Website O
-. Website O
 ca Website O
-
 None Twitter O
-http://www Facebook O
-. Facebook O
+
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-theassemblyhall/ Facebook O
+theassemblyhall Facebook O
+ Facebook O
 
 None Instagram O
-
 None YouTube O
 
 None Flickr O
-
 
 Atelier BuildingName O
 Kastelic BuildingName O
@@ -583,68 +464,59 @@ Buffey BuildingName O
 25a BuildingAddress B-ADDRESS
 Morrow BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 202 Suite/Floor O
-
 M6R PostalCode O
 2H9 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 65290471 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 44651762 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-204 Telephone I-PHONE
-- Telephone I-PHONE
-1331 Telephone E-PHONE
-1,2,3,4 Extension O
+416 Telephone O
+204 Telephone O
+1331 Telephone O
+1 Extension O
+2 Extension O
+3 Extension O
+4 Extension O
 or Extension O
 5 Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 akb Website O
-. Website O
 ca Website O
 
 None Twitter O
-http://www Facebook O
-. Facebook O
+
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-atelierkastelicbuffey/ Facebook O
-
-https://instagram Instagram O
-. Instagram O
+atelierkastelicbuffey Facebook O
+ Facebook O
+https Instagram O
+instagram Instagram O
 com Instagram O
-/ Instagram O
 atelier Instagram O
-. Instagram O
-kastelicbuffey/ Instagram O
+kastelicbuffey Instagram O
+ Instagram O
+
 None YouTube O
-
 None Flickr O
-
 
 Bata BuildingName O
 Shoe BuildingName O
 Museum BuildingName O
-
 327 BuildingAddress B-ADDRESS
 Bloor BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
@@ -653,60 +525,44 @@ M5S PostalCode O
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 6672408 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 40015162 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-979 Telephone I-PHONE
-- Telephone I-PHONE
-7799 Telephone E-PHONE
+416 Telephone O
+979 Telephone O
+7799 Telephone O
 
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 batashoemuseum Website O
-. Website O
 ca Website O
-http://www Twitter O
-. Twitter O
+
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 batashoemuseum Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 batashoemuseum Facebook O
-
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
 batashoemuseum Instagram O
 
-http://www YouTube O
-. YouTube O
+http YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
 batashoemuseum YouTube O
-
 None Flickr O
 
 
@@ -716,8 +572,8 @@ Sciences BuildingName O
 
 3560 BuildingAddress B-ADDRESS
 Bathurst BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M6A PostalCode O
@@ -726,57 +582,44 @@ M6A PostalCode O
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 7300642 Latitude O
--79 Longitude O
-. Longitude O
+
+ Longitude O
+79 Longitude O
 43414656 Longitude O
+416 Telephone O
+785 Telephone O
+2500 Telephone O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-785 Telephone I-PHONE
-- Telephone I-PHONE
-2500 Telephone E-PHONE
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 baycrest Website O
-. Website O
 org Website O
-
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 baycrest Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-baycrestcentre/ Facebook O
-
-https://www Instagram O
-. Instagram O
+baycrestcentre Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-baycrest/ Instagram O
+baycrest Instagram O
+ Instagram O
 
-https://www YouTube O
-. YouTube O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
 thebaycrestchannel YouTube O
-
 None Flickr O
 
 
@@ -794,53 +637,40 @@ None Suite/Floor O
 
 M3J PostalCode O
 1P3 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 772284 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 506673 Longitude O
-
 None Telephone O
 
 None Extension O
-
-http://lassonde Website O
-. Website O
+http Website O
+lassonde Website O
 yorku Website O
-. Website O
 ca Website O
 
-http://twitter Twitter O
-. Twitter O
+http Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 lassondeschool Twitter O
 
-http://facebook Facebook O
-. Facebook O
+http Facebook O
+facebook Facebook O
 com Facebook O
-/ Facebook O
 lassondeschool Facebook O
 
-http://instagram Instagram O
-. Instagram O
+http Instagram O
+instagram Instagram O
 com Instagram O
-/ Instagram O
 lassondeschool Instagram O
 
-http://youtube YouTube O
-. YouTube O
+http YouTube O
+youtube YouTube O
 com YouTube O
-/ YouTube O
 lassondeschool YouTube O
-
 None Flickr O
-
 
 Billy BuildingName O
 Bishop BuildingName O
@@ -853,62 +683,49 @@ Eireann BuildingAddress I-ADDRESS
 Quay BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M5V PostalCode O
 1A1 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 628482 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 395958 Longitude O
 
 None Telephone O
-
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 billybishopairport Website O
-. Website O
 com Website O
 
-http://twitter Twitter O
-. Twitter O
+http Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 bbishopairport Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-bbishopairport/ Facebook O
-
-https://www Instagram O
-. Instagram O
+bbishopairport Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-bbishopairport/ Instagram O
+bbishopairport Instagram O
+ Instagram O
 
-http://https://www YouTube O
-. YouTube O
+http YouTube O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 channel YouTube O
-/ YouTube O
 ucrg1g2iqlohymu1dbv7rfza YouTube O
-
 None Flickr O
 
 
@@ -916,81 +733,64 @@ Black BuildingName O
 Creek BuildingName O
 Pioneer BuildingName O
 Village BuildingName O
-
 1000 BuildingAddress B-ADDRESS
 Murray BuildingAddress I-ADDRESS
 Ross BuildingAddress I-ADDRESS
 Pkwy BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
 M3J PostalCode O
 2P3 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 7747704 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 51803621 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-736 Telephone I-PHONE
-- Telephone I-PHONE
-1733 Telephone E-PHONE
-
+416 Telephone O
+736 Telephone O
+1733 Telephone O
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 blackcreek Website O
-. Website O
 ca Website O
-
-https://www Twitter O
-. Twitter O
+https Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 BlackCreekNews Twitter O
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-blackcreekpioneervillage/ Facebook O
-
-https://www Instagram O
-. Instagram O
+blackcreekpioneervillage Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-blackcreekpioneervillage/ Instagram O
+blackcreekpioneervillage Instagram O
+ Instagram O
 
 None YouTube O
-
 None Flickr O
-
 
 Bloordale BuildingName O
 United BuildingName O
 Church BuildingName O
-
 4258 BuildingAddress B-ADDRESS
 Bloor BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
+
 N Suite/Floor O
-/ Suite/Floor O
 A Suite/Floor O
 
 M9C PostalCode O
@@ -998,42 +798,34 @@ M9C PostalCode O
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 63462796 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 56885561 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-621 Telephone I-PHONE
-- Telephone I-PHONE
-1710 Telephone E-PHONE
+416 Telephone O
+621 Telephone O
+1710 Telephone O
 
 None Extension O
 
-http://bloordale Website O
-. Website O
-ca/ Website O
+http Website O
+bloordale Website O
+ca Website O
+ Website O
 
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 UnitedChurchCda Twitter O
 
 None Facebook O
-
 None Instagram O
 
 None YouTube O
-
 None Flickr O
 
 
 Bonar BuildingName O
-- BuildingName O
 Parkdale BuildingName O
 Presbyterian BuildingName O
 Church BuildingName O
@@ -1041,101 +833,79 @@ Church BuildingName O
 250 BuildingAddress B-ADDRESS
 Dunn BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
-M6 PostalCode O
-K PostalCode O
+M6K PostalCode O
 2R9 PostalCode O
 
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 64014025 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 43460843 Longitude O
 
 None Telephone O
 
 None Extension O
-
-http://bonarparkdalepc Website O
-. Website O
+http Website O
+bonarparkdalepc Website O
 ca Website O
 
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 BonarParkdalePC Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 bonarparkdale Facebook O
-. Facebook O
 presbyterianchurch Facebook O
 
-https://www Instagram O
-. Instagram O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-bonarparkdalepc/ Instagram O
+bonarparkdalepc Instagram O
+ Instagram O
+
 None YouTube O
-
 None Flickr O
-
 
 Building BuildingName O
 Arts BuildingName O
 Architects BuildingName O
-
 324 BuildingAddress B-ADDRESS
 Broadview BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
-M4 PostalCode O
-M PostalCode O
+M4M PostalCode O
 2G9 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 66460211 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 3525461 Longitude O
-
 None Telephone O
-
 None Extension O
-http://www Website O
-. Website O
-buildingarts Website O
-. Website O
-ca Website O
 
+http Website O
+www Website O
+buildingarts Website O
+ca Website O
 None Twitter O
 
 None Facebook O
-
 None Instagram O
-None YouTube O
 
+None YouTube O
 None Flickr O
 
 
@@ -1144,35 +914,26 @@ Life BuildingName O
 330 BuildingAddress B-ADDRESS
 University BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
+
 None Suite/Floor O
-
-M5 PostalCode O
-G PostalCode O
+M5G PostalCode O
 1R8 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 65169661 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 38757725 Longitude O
 
 None Telephone O
-
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 canadalife Website O
-. Website O
 com Website O
-
 None Twitter O
-
 None Facebook O
 
 None Instagram O
@@ -1187,42 +948,40 @@ Macedonian BuildingName O
 Place BuildingName O
 
 850 BuildingAddress B-ADDRESS
-OConnor BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
+O BuildingAddress I-ADDRESS
+Connor BuildingAddress I-ADDRESS
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M4B PostalCode O
 3L6 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 70706077 Latitude O
--79 Longitude O
-. Longitude O
+
+ Longitude O
+79 Longitude O
 31227991 Longitude O
 None Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 canadianmacedonianplace Website O
-. Website O
-com/ Website O
+com Website O
+ Website O
 
 None Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-canadianmacedonianhistoricalsociety/ Facebook O
-None Instagram O
+canadianmacedonianhistoricalsociety Facebook O
+ Facebook O
 
+None Instagram O
 None YouTube O
 
 None Flickr O
@@ -1232,118 +991,92 @@ Canadian BuildingName O
 Stage BuildingName O
 26 BuildingAddress B-ADDRESS
 Berkeley BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
 M5A PostalCode O
 2W3 PostalCode O
-
 None LocationInstructions O
+
 43 Latitude O
-. Latitude O
 65057724 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 36426063 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-368 Telephone I-PHONE
-- Telephone I-PHONE
-3110 Telephone E-PHONE
-
+416 Telephone O
+368 Telephone O
+3110 Telephone O
 None Extension O
-http://www Website O
-. Website O
+http Website O
+www Website O
 canadianstage Website O
-. Website O
 com Website O
 
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 canadianstage Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-cdnstage/ Facebook O
-
-https://www Instagram O
-. Instagram O
+cdnstage Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-canadianstage/ Instagram O
-
-https://www YouTube O
-. YouTube O
+canadianstage Instagram O
+ Instagram O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
 canadianstage YouTube O
 
 None Flickr O
-
 
 Cedar BuildingName O
 Ridge BuildingName O
 Creative BuildingName O
 Centre BuildingName O
+
 225 BuildingAddress B-ADDRESS
 Confederation BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
-None Suite/Floor O
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
-M1 PostalCode O
-G PostalCode O
+None Suite/Floor O
+M1G PostalCode O
 1B2 PostalCode O
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 75743021 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 20713176 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-396 Telephone I-PHONE
-- Telephone I-PHONE
-4026 Telephone E-PHONE
+416 Telephone O
+396 Telephone O
+4026 Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 toronto Website O
-. Website O
 ca Website O
-/ Website O
 cedarridge Website O
 
 None Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 cedarridgecreativecentre Facebook O
-
 None Instagram O
 
 None YouTube O
@@ -1356,69 +1089,52 @@ Cinesphere BuildingName O
 Lake BuildingAddress I-ADDRESS
 Shore BuildingAddress I-ADDRESS
 Blvd BuildingAddress I-ADDRESS
-. BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-M6 PostalCode O
-K PostalCode O
+M6K PostalCode O
 3B9 PostalCode O
-
 None LocationInstructions O
 43 Latitude O
-. Latitude O
 628429 Latitude O
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 413533 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-314 Telephone I-PHONE
-- Telephone I-PHONE
-9900 Telephone E-PHONE
+416 Telephone O
+314 Telephone O
+9900 Telephone O
 
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 ontarioplace Website O
-. Website O
 com Website O
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 OntarioPlace Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 ontarioplace Facebook O
 
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
 ontarioplace Instagram O
 
-http://www YouTube O
-. YouTube O
+http YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 ontarioplacetv YouTube O
-None Flickr O
 
+None Flickr O
 
 City BuildingName O
 of BuildingName O
@@ -1428,251 +1144,198 @@ Archives BuildingName O
 255 BuildingAddress B-ADDRESS
 Spadina BuildingAddress I-ADDRESS
 Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M5R PostalCode O
 2V3 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 67689161 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 4071529 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-397 Telephone I-PHONE
-- Telephone I-PHONE
-0778 Telephone E-PHONE
-
+416 Telephone O
+397 Telephone O
+0778 Telephone O
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 toronto Website O
-. Website O
 ca Website O
-/ Website O
 archives Website O
-
 None Twitter O
-
 None Facebook O
 
-https://www Instagram O
-. Instagram O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-toronto_archives/ Instagram O
-
+toronto_archives Instagram O
+ Instagram O
 None YouTube O
 
-https://www Flickr O
-. Flickr O
+https Flickr O
+www Flickr O
 flickr Flickr O
-. Flickr O
 com Flickr O
-/ Flickr O
 photos Flickr O
-/ Flickr O
-torontohistory/ Flickr O
+torontohistory Flickr O
+ Flickr O
+
 
 Citytv BuildingName O
 Building BuildingName O
-
 33 BuildingAddress B-ADDRESS
 Dundas BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
 M5B PostalCode O
 1B8 PostalCode O
 
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 65601212 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 37910489 Longitude O
-
 None Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 citytv Website O
-. Website O
 com Website O
-/ Website O
-toronto/ Website O
+toronto Website O
+ Website O
 
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 city_tv Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-citytv/ Facebook O
-
+citytv Facebook O
+ Facebook O
 None Instagram O
 
 None YouTube O
-
 None Flickr O
 
 
 Collège BuildingName O
 Boréal BuildingName O
-
 1 BuildingAddress B-ADDRESS
 Yonge BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
+
 Floor Suite/Floor O
 3 Suite/Floor O
 
 M5E PostalCode O
 1E5 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 64275259 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 37395864 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-289 Telephone I-PHONE
-- Telephone I-PHONE
-5130 Telephone E-PHONE
+416 Telephone O
+289 Telephone O
+5130 Telephone O
 
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 collegeboreal Website O
-. Website O
-ca/ Website O
-
-http://www Twitter O
-. Twitter O
+ca Website O
+ Website O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 collegeboreal Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-collegeboreal/ Facebook O
+collegeboreal Facebook O
+ Facebook O
 
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-collegeboreal/ Instagram O
+collegeboreal Instagram O
+ Instagram O
 
-http://www YouTube O
-. YouTube O
+http YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
 collegeboreal YouTube O
-
 None Flickr O
-
 
 Community BuildingName O
 Head BuildingName O
 Injury BuildingName O
 Resource BuildingName O
-Services-- BuildingName O
+Services BuildingName O
 CHIRS BuildingName O
-
 62 BuildingAddress B-ADDRESS
 Finch BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
 M2N PostalCode O
 7G1 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 77881631 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 42089581 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-240 Telephone I-PHONE
-- Telephone I-PHONE
-8000 Telephone E-PHONE
+416 Telephone O
+240 Telephone O
+8000 Telephone O
 
 None Extension O
-http://www Website O
-. Website O
+http Website O
+www Website O
 chirs Website O
-. Website O
 com Website O
 
 None Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-chirstoronto/ Facebook O
+chirstoronto Facebook O
+ Facebook O
 
 None Instagram O
 None YouTube O
-
 None Flickr O
-
 
 Congregation BuildingName O
 Knesseth BuildingName O
@@ -1680,95 +1343,78 @@ Israel BuildingName O
 
 56 BuildingAddress B-ADDRESS
 Maria BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
 M6P PostalCode O
 1W1 PostalCode O
 
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 66651978 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 47544228 Longitude O
-
 None Telephone O
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 junctionshul Website O
-. Website O
-org/ Website O
+org Website O
+ Website O
 
 None Twitter O
 
 None Facebook O
-
 None Instagram O
-
 None YouTube O
+
 None Flickr O
 
 Deluxe BuildingName O
 Toronto BuildingName O
-
 901 BuildingAddress B-ADDRESS
 King BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 700 Suite/Floor O
-
 M5V PostalCode O
 3H5 PostalCode O
 
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 64188101 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 41125002 Longitude O
 
 None Telephone O
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 bydeluxetoronto Website O
-. Website O
 com Website O
-http://www Twitter O
-. Twitter O
+
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 DeluxeToronto Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-deluxepostproductiontoronto/ Facebook O
-
+deluxepostproductiontoronto Facebook O
+ Facebook O
 None Instagram O
-
 None YouTube O
-
 None Flickr O
-
 
 Denegri BuildingName O
 Bessai BuildingName O
@@ -1776,39 +1422,35 @@ Studio BuildingName O
 
 1088 BuildingAddress B-ADDRESS
 Bathurst BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
 M5R PostalCode O
 3G9 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 67262989 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 41442152 Longitude O
 
 None Telephone O
 
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 denegribessaistudio Website O
-. Website O
-com/ Website O
-
-https://www Twitter O
-. Twitter O
+com Website O
+ Website O
+https Twitter O
+www Twitter O
 facebook Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 denegribessaistudio Twitter O
 
 None Facebook O
@@ -1822,163 +1464,136 @@ None Flickr O
 
 Design BuildingName O
 Exchange BuildingName O
-
 234 BuildingAddress B-ADDRESS
 Bay BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
-M5 PostalCode O
-K PostalCode O
+M5K PostalCode O
 1B2 PostalCode O
+
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 64815367 Latitude O
--79 Longitude O
-. Longitude O
+
+ Longitude O
+79 Longitude O
 38048692 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-363 Telephone I-PHONE
-- Telephone I-PHONE
-6121 Telephone E-PHONE
-
+416 Telephone O
+363 Telephone O
+6121 Telephone O
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 dx Website O
-. Website O
-org/ Website O
-
-https://twitter Twitter O
-. Twitter O
+org Website O
+ Website O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 designexchange Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-designexchange/ Facebook O
-
-https://www Instagram O
-. Instagram O
+designexchange Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-designexchange/ Instagram O
+designexchange Instagram O
+ Instagram O
 None YouTube O
 
 None Flickr O
 
-
-Dr. BuildingName O
+Dr BuildingName O
 Eric BuildingName O
 Jackman BuildingName O
 Institute BuildingName O
 of BuildingName O
 Child BuildingName O
 Study BuildingName O
-
 45 BuildingAddress B-ADDRESS
 Walmer BuildingAddress I-ADDRESS
 Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M5R PostalCode O
 2X2 PostalCode O
 
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 66961307 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 40587549 Longitude O
 
 None Telephone O
+
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 oise Website O
-. Website O
 utoronto Website O
-. Website O
 ca Website O
-/ Website O
-jics/ Website O
-https://twitter Twitter O
-. Twitter O
+jics Website O
+ Website O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 JackmanICS Twitter O
 
 None Facebook O
+
 None Instagram O
 
 None YouTube O
-
 None Flickr O
 
 
 DTAH BuildingName O
-
 50 BuildingAddress B-ADDRESS
 Park BuildingAddress I-ADDRESS
 Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 M4W PostalCode O
 2N5 PostalCode O
 
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 67312333 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 38471001 Longitude O
-
 None Telephone O
-
 None Extension O
-
-http://dtah Website O
-. Website O
+http Website O
+dtah Website O
 com Website O
 
-http://twitter Twitter O
-. Twitter O
+http Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 DTAHtoronto Twitter O
+
 None Facebook O
 
-https://www Instagram O
-. Instagram O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-dtahtoronto/ Instagram O
-
+dtahtoronto Instagram O
+ Instagram O
 None YouTube O
 
 None Flickr O
@@ -1991,123 +1606,91 @@ Works BuildingName O
 550 BuildingAddress B-ADDRESS
 Bayview BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M4W PostalCode O
 3X8 PostalCode O
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 68378335 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 36562797 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-596 Telephone I-PHONE
-- Telephone I-PHONE
-1495 Telephone E-PHONE
-
+416 Telephone O
+596 Telephone O
+1495 Telephone O
 495 Extension O
-http://www Website O
-. Website O
+http Website O
+www Website O
 evergreen Website O
-. Website O
 ca Website O
-
-https://www Twitter O
-. Twitter O
+https Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 EvergreenCanada Twitter O
-
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 evergreencanada Facebook O
-
-https://www Instagram O
-. Instagram O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-evergreencanada/ Instagram O
-
-https://www YouTube O
-. YouTube O
+evergreencanada Instagram O
+ Instagram O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
 evergreencanadatv YouTube O
 None Flickr O
 
 
 Filmport BuildingName O
 Studio BuildingName O
-
 65 BuildingAddress B-ADDRESS
 Heward BuildingAddress I-ADDRESS
 Ave BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
-M4 PostalCode O
-M PostalCode O
+M4M PostalCode O
 2T5 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 65742928 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 33688538 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-645 Telephone I-PHONE
-- Telephone I-PHONE
-8300 Telephone E-PHONE
-
+416 Telephone O
+645 Telephone O
+8300 Telephone O
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 filmportstudio Website O
-. Website O
 com Website O
 
 None Twitter O
 
 None Facebook O
-
 None Instagram O
-
-https://www YouTube O
-. YouTube O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
-watch?v YouTube O
-= YouTube O
-kbdjjkkc5nohttp:// YouTube O
+watch YouTube O
+v YouTube O
+kbdjjkkc5nohttp YouTube O
+ YouTube O
 
 None Flickr O
 
@@ -2115,12 +1698,10 @@ None Flickr O
 First BuildingName O
 Narayever BuildingName O
 Congregation BuildingName O
-
 187 BuildingAddress B-ADDRESS
 Brunswick BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M5S PostalCode O
@@ -2129,116 +1710,81 @@ M5S PostalCode O
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 662876 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 406059 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-927 Telephone I-PHONE
-- Telephone I-PHONE
-0546 Telephone E-PHONE
+416 Telephone O
+927 Telephone O
+0546 Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 narayever Website O
-. Website O
 ca Website O
-
 None Twitter O
-http://facebook Facebook O
-. Facebook O
+http Facebook O
+facebook Facebook O
 com Facebook O
-/ Facebook O
 firstnarayever Facebook O
 
 None Instagram O
-
 None YouTube O
 
 None Flickr O
 
 
 Fool BuildingName O
-'s BuildingName O
+s BuildingName O
 Paradise BuildingName O
-
 1 BuildingAddress B-ADDRESS
 Meadowcliffe BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
-
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
-M1 PostalCode O
-M PostalCode O
+M1M PostalCode O
 2X8 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 72695622 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 21673229 Longitude O
 
 None Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 heritagetrust Website O
-. Website O
 on Website O
-. Website O
 ca Website O
-/ Website O
 en Website O
-/ Website O
 index Website O
-. Website O
 php Website O
-/ Website O
 properties Website O
-/ Website O
 fools Website O
-- Website O
 paradise Website O
-- Website O
 doris Website O
-- Website O
 mccarthy Website O
-- Website O
 artist Website O
-- Website O
 in Website O
-- Website O
 residence Website O
-- Website O
 centre Website O
 
 None Twitter O
-
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-ontarioheritagetrust/ Facebook O
+ontarioheritagetrust Facebook O
+ Facebook O
+
 None Instagram O
-
 None YouTube O
-
 None Flickr O
-
 
 Fort BuildingName O
 York BuildingName O
@@ -2250,8 +1796,7 @@ Site BuildingName O
 Fort BuildingAddress I-ADDRESS
 York BuildingAddress I-ADDRESS
 Blvd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M5V PostalCode O
@@ -2260,114 +1805,90 @@ M5V PostalCode O
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 6378641 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 40631489 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-392 Telephone I-PHONE
-- Telephone I-PHONE
-6907 Telephone E-PHONE
-
+416 Telephone O
+392 Telephone O
+6907 Telephone O
 None Extension O
 
-http://fortyork Website O
-. Website O
+http Website O
+fortyork Website O
 ca Website O
 
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 fortyork Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 fortyork Facebook O
 None Instagram O
-
 None YouTube O
+
 None Flickr O
 
 
 Fox BuildingName O
 Theatre BuildingName O
-
 2236 BuildingAddress B-ADDRESS
 Queen BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M4E PostalCode O
 1G2 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 67287164 Latitude O
--79 Longitude O
-. Longitude O
+
+ Longitude O
+79 Longitude O
 28732608 Longitude O
-416 Telephone B-PHONE
-- Telephone I-PHONE
-691 Telephone I-PHONE
-- Telephone I-PHONE
-7335 Telephone E-PHONE
+416 Telephone O
+691 Telephone O
+7335 Telephone O
 
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 foxtheatre Website O
-. Website O
 ca Website O
-https://www Twitter O
-. Twitter O
+https Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 Fox_Theatre Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-thefoxtheatre/ Facebook O
-
-https://www Instagram O
-. Instagram O
+thefoxtheatre Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-foxtheatre/ Instagram O
+foxtheatre Instagram O
+ Instagram O
 
 None YouTube O
 
 None Flickr O
 
-
 F BuildingName O
-. BuildingName O
 J BuildingName O
-. BuildingName O
 Horgan BuildingName O
 Water BuildingName O
 Treatment BuildingName O
@@ -2376,62 +1897,51 @@ Plant BuildingName O
 201 BuildingAddress B-ADDRESS
 Copperfield BuildingAddress I-ADDRESS
 Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
 M1E PostalCode O
 5G7 PostalCode O
 
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 75958902 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 16671578 Longitude O
 None Telephone O
+
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 toronto Website O
-. Website O
 ca Website O
-/ Website O
 water Website O
-
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 TorontoComms Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-cityofto/ Facebook O
-
-https://www Instagram O
-. Instagram O
+cityofto Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-cityofto/ Instagram O
-
-https://youtube YouTube O
-. YouTube O
+cityofto Instagram O
+ Instagram O
+https YouTube O
+youtube YouTube O
 com YouTube O
-/ YouTube O
 thecityoftoronto YouTube O
 
 None Flickr O
-
 
 George BuildingName O
 Brown BuildingName O
@@ -2439,73 +1949,54 @@ House BuildingName O
 
 186 BuildingAddress B-ADDRESS
 Beverley BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
-M5 PostalCode O
-T PostalCode O
+M5T PostalCode O
 1L4 PostalCode O
-
 None LocationInstructions O
-43 Latitude O
-. Latitude O
-65581716 Latitude O
--79 Longitude O
-. Longitude O
-39498131 Longitude O
 
+43 Latitude O
+65581716 Latitude O
+
+ Longitude O
+79 Longitude O
+39498131 Longitude O
 None Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 heritagetrust Website O
-. Website O
 on Website O
-. Website O
 ca Website O
-/ Website O
 en Website O
-/ Website O
 index Website O
-. Website O
 php Website O
-/ Website O
 properties Website O
-/ Website O
 george Website O
-- Website O
 brown Website O
-- Website O
 house Website O
-
-https://www Twitter O
-. Twitter O
+https Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 ONheritage Twitter O
-
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-ontarioheritagetrust// Facebook O
+ontarioheritagetrust Facebook O
+ Facebook O
 
-https://www Instagram O
-. Instagram O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-onheritage/ Instagram O
+onheritage Instagram O
+ Instagram O
 
 None YouTube O
-
 None Flickr O
 
 
@@ -2514,68 +2005,54 @@ House BuildingName O
 Museum BuildingName O
 5172 BuildingAddress B-ADDRESS
 Yonge BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M2N PostalCode O
 5P6 PostalCode O
 None LocationInstructions O
-43 Latitude O
-. Latitude O
-76968615 Latitude O
 
--79 Longitude O
-. Longitude O
+43 Latitude O
+76968615 Latitude O
+ Longitude O
+79 Longitude O
 41466694 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-395 Telephone I-PHONE
-- Telephone I-PHONE
-7432 Telephone E-PHONE
+416 Telephone O
+395 Telephone O
+7432 Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 toronto Website O
-. Website O
 ca Website O
-/ Website O
 gibsonhouse Website O
-
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 GibssonMuseumTO Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 gibsonmuseum Facebook O
-
 None Instagram O
-
 None YouTube O
 
 None Flickr O
 
 
 Goethe BuildingName O
-- BuildingName O
 Institut BuildingName O
 Toronto BuildingName O
+
 100 BuildingAddress B-ADDRESS
 University BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 2nd Suite/Floor O
 Floor Suite/Floor O
@@ -2585,7 +2062,6 @@ M5J PostalCode O
 
 The LocationInstructions O
 Goethe LocationInstructions O
-- LocationInstructions O
 Institut LocationInstructions O
 is LocationInstructions O
 located LocationInstructions O
@@ -2600,10 +2076,8 @@ at LocationInstructions O
 100 LocationInstructions O
 University LocationInstructions O
 Avenue LocationInstructions O
-. LocationInstructions O
 Upon LocationInstructions O
 arrival LocationInstructions O
-, LocationInstructions O
 take LocationInstructions O
 the LocationInstructions O
 elevator LocationInstructions O
@@ -2614,97 +2088,75 @@ to LocationInstructions O
 the LocationInstructions O
 second LocationInstructions O
 floor LocationInstructions O
-. LocationInstructions O
+ LocationInstructions O
 
 43 Latitude O
-. Latitude O
 64726674 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 38501633 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-593 Telephone I-PHONE
-- Telephone I-PHONE
-5257 Telephone E-PHONE
-
+416 Telephone O
+593 Telephone O
+5257 Telephone O
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 goethe Website O
-. Website O
 de Website O
-/ Website O
 toronto Website O
-
-https://www Twitter O
-. Twitter O
+https Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 GoetheToronto Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-goethetoronto/ Facebook O
-
+goethetoronto Facebook O
+ Facebook O
 None Instagram O
 
 None YouTube O
-
 None Flickr O
-
 
 Harris BuildingName O
 Institute BuildingName O
-
 118 BuildingAddress B-ADDRESS
 Sherbourne BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M5A PostalCode O
 2R2 PostalCode O
 
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 65372796 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 36956404 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-367 Telephone I-PHONE
-- Telephone I-PHONE
-0178 Telephone E-PHONE
-
+416 Telephone O
+367 Telephone O
+0178 Telephone O
 None Extension O
 
-http://harrisinstitute Website O
-. Website O
+http Website O
+harrisinstitute Website O
 com Website O
+
 None Twitter O
 
 None Facebook O
-
 None Instagram O
-
 None YouTube O
 None Flickr O
-
 
 High BuildingName O
 Level BuildingName O
@@ -2715,75 +2167,57 @@ Station BuildingName O
 Poplar BuildingAddress I-ADDRESS
 Plains BuildingAddress I-ADDRESS
 Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
 M4V PostalCode O
 1C7 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 67825556 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 40291249 Longitude O
-
 None Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 toronto Website O
-. Website O
 ca Website O
-/ Website O
 water Website O
 
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 TorontoComms Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-cityofto/ Facebook O
-
-https://www Instagram O
-. Instagram O
+cityofto Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-cityofto/ Instagram O
+cityofto Instagram O
+ Instagram O
 
-https://www YouTube O
-. YouTube O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
 thecityoftoronto YouTube O
 
 None Flickr O
 
-
 High BuildingName O
 Park BuildingName O
-- BuildingName O
 Children BuildingName O
-'s BuildingName O
+s BuildingName O
 Garden BuildingName O
 and BuildingName O
 Teaching BuildingName O
@@ -2792,8 +2226,8 @@ Kitchen BuildingName O
 105 BuildingAddress B-ADDRESS
 Colborne BuildingAddress I-ADDRESS
 Lodge BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
-
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M6R PostalCode O
@@ -2819,59 +2253,47 @@ Museum LocationInstructions O
 and LocationInstructions O
 the LocationInstructions O
 Queensway LocationInstructions O
-/ LocationInstructions O
 Colborne LocationInstructions O
 Ldoge LocationInstructions O
-Dr. LocationInstructions O
+Dr LocationInstructions O
 entrance LocationInstructions O
 to LocationInstructions O
 High LocationInstructions O
 Park LocationInstructions O
-. LocationInstructions O
+ LocationInstructions O
 
 43 Latitude O
-. Latitude O
 64199719 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 46198665 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-392 Telephone I-PHONE
-- Telephone I-PHONE
-1329 Telephone E-PHONE
+416 Telephone O
+392 Telephone O
+1329 Telephone O
 
 None Extension O
-
-http://childrensecoprograms Website O
-. Website O
+http Website O
+childrensecoprograms Website O
 ca Website O
 
-http://twitter Twitter O
-. Twitter O
+http Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 TorontoCEP Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 childrensteachingkitchen Facebook O
 
 None Instagram O
+
 None YouTube O
-
 None Flickr O
-
 
 High BuildingName O
 Park BuildingName O
-- BuildingName O
 Colborne BuildingName O
 Lodge BuildingName O
 Museum BuildingName O
@@ -2879,61 +2301,49 @@ Museum BuildingName O
 11 BuildingAddress B-ADDRESS
 Colborne BuildingAddress I-ADDRESS
 Lodge BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
-
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
-M6 PostalCode O
-K PostalCode O
+M6K PostalCode O
 1X9 PostalCode O
-
 South LocationInstructions O
 end LocationInstructions O
 of LocationInstructions O
 High LocationInstructions O
 Park LocationInstructions O
-, LocationInstructions O
 just LocationInstructions O
 north LocationInstructions O
 of LocationInstructions O
 the LocationInstructions O
 Queensway LocationInstructions O
-. LocationInstructions O
-
+ LocationInstructions O
 43 Latitude O
-. Latitude O
 640562 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 460691 Longitude O
-416 Telephone B-PHONE
-- Telephone I-PHONE
-392 Telephone I-PHONE
-- Telephone I-PHONE
-6916 Telephone E-PHONE
+416 Telephone O
+392 Telephone O
+6916 Telephone O
 
 None Extension O
 
-http://toronto Website O
-. Website O
+http Website O
+toronto Website O
 ca Website O
-/ Website O
 colbornelodge Website O
 
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 ColborneLodgeTO Twitter O
-
 None Facebook O
+
 None Instagram O
 
 None YouTube O
-
 None Flickr O
 
 
@@ -2949,58 +2359,45 @@ building BuildingName O
 
 1 BuildingAddress B-ADDRESS
 Bridgepoint BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
-M4 PostalCode O
-M PostalCode O
+M4M PostalCode O
 2B5 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 66617123 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 35521667 Longitude O
 
 None Telephone O
 
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 bridgepointhealth Website O
-. Website O
 ca Website O
-/ Website O
 en Website O
-/ Website O
 index Website O
-. Website O
 asp Website O
-
-https://www Twitter O
-. Twitter O
+https Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 BridgepointTO Twitter O
-
 None Facebook O
 
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-sinaihealthsystemto/ Instagram O
-
+sinaihealthsystemto Instagram O
+ Instagram O
 None YouTube O
 
 None Flickr O
@@ -3013,55 +2410,37 @@ Schoolhouse BuildingName O
 1091 BuildingAddress B-ADDRESS
 Finch BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress I-ADDRESS
 E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 M2J PostalCode O
 2X3 PostalCode O
 
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 79036516 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 3634074 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-395 Telephone I-PHONE
-- Telephone I-PHONE
-7435 Telephone E-PHONE
+416 Telephone O
+395 Telephone O
+7435 Telephone O
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 facebook Website O
-. Website O
 com Website O
-/ Website O
 zionschoolhouse Website O
-
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 ZionSchoolhouse Twitter O
-
 None Facebook O
 
 None Instagram O
-
 None YouTube O
-
 None Flickr O
-
 
 Hot BuildingName O
 Docs BuildingName O
@@ -3071,59 +2450,45 @@ Cinema BuildingName O
 
 506 BuildingAddress B-ADDRESS
 Bloor BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M5S PostalCode O
 1Y3 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 66549463 Latitude O
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 41053053 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-637 Telephone I-PHONE
-- Telephone I-PHONE
-3123 Telephone E-PHONE
+416 Telephone O
+637 Telephone O
+3123 Telephone O
 
 None Extension O
-
-http://hotdocscinema Website O
-. Website O
+http Website O
+hotdocscinema Website O
 ca Website O
 
-http://twitter Twitter O
-. Twitter O
+http Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 hotdocscinema Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 hotdocscinema Facebook O
-
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
 hotdocsfest Instagram O
-
 None YouTube O
+
 None Flickr O
 
 
@@ -3133,9 +2498,10 @@ VR BuildingName O
 
 639 BuildingAddress B-ADDRESS
 Queen BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
+
 1 Suite/Floor O
 
 M5V PostalCode O
@@ -3144,51 +2510,38 @@ M5V PostalCode O
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 6471553 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 40336508 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-860 Telephone I-PHONE
-- Telephone I-PHONE
-7584 Telephone E-PHONE
-
+416 Telephone O
+860 Telephone O
+7584 Telephone O
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 houseofvr Website O
-. Website O
 com Website O
-
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
-com/_houseofvr Twitter O
-
-https://www Facebook O
-. Facebook O
+com Twitter O
+_houseofvr Twitter O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-houseofvrcanada/ Facebook O
+houseofvrcanada Facebook O
+ Facebook O
 
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
-com/_houseofvr Instagram O
+com Instagram O
+_houseofvr Instagram O
 
 None YouTube O
-
 None Flickr O
-
 
 Humber BuildingName O
 Institute BuildingName O
@@ -3197,89 +2550,69 @@ Technology BuildingName O
 and BuildingName O
 Advanced BuildingName O
 Learning BuildingName O
-, BuildingName O
 Lakeshore BuildingName O
 Campus BuildingName O
-- BuildingName O
 G BuildingName O
 Cottage BuildingName O
-
 17 BuildingAddress B-ADDRESS
 Colonel BuildingAddress I-ADDRESS
 Samuel BuildingAddress I-ADDRESS
 Smith BuildingAddress I-ADDRESS
 Park BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
-
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
-
 M8V PostalCode O
 4B6 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 5962355 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 51359777 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-675 Telephone I-PHONE
-- Telephone I-PHONE
-6622 Telephone E-PHONE
+416 Telephone O
+675 Telephone O
+6622 Telephone O
 3251 Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 humber Website O
-. Website O
 ca Website O
-/ Website O
 lakeshorecampus Website O
-/ Website O
 home Website O
-. Website O
 html Website O
 
-https://www Twitter O
-. Twitter O
+https Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
-humberlakeshore?lang Twitter O
-= Twitter O
+humberlakeshore Twitter O
+lang Twitter O
 en Twitter O
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-lakeshoregrnds/ Facebook O
 
-https://www Instagram O
-. Instagram O
+https Facebook O
+www Facebook O
+facebook Facebook O
+com Facebook O
+lakeshoregrnds Facebook O
+ Facebook O
+
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-humberlakeshore/?hl Instagram O
-= Instagram O
+humberlakeshore Instagram O
+hl Instagram O
 en Instagram O
 
-https://www YouTube O
-. YouTube O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 channel YouTube O
-/ YouTube O
 uckizka4t80xfe1w1p0b3hxq YouTube O
 None Flickr O
 
@@ -3287,64 +2620,49 @@ None Flickr O
 Islington BuildingName O
 United BuildingName O
 Church BuildingName O
-
 25 BuildingAddress B-ADDRESS
 Burnhamthorpe BuildingAddress I-ADDRESS
 Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M9A PostalCode O
 1G9 PostalCode O
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 6495662 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 52993177 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-239 Telephone I-PHONE
-- Telephone I-PHONE
-1131 Telephone E-PHONE
+416 Telephone O
+239 Telephone O
+1131 Telephone O
 
 221 Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 islingtonunited Website O
-. Website O
 org Website O
 
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 IslingtonUnited Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 islingtonunited Facebook O
-
 None Instagram O
-
-https://www YouTube O
-. YouTube O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
 islingtonunitedorg YouTube O
 
 None Flickr O
@@ -3352,70 +2670,54 @@ None Flickr O
 Ismaili BuildingName O
 Centre BuildingName O
 Toronto BuildingName O
-
 49 BuildingAddress B-ADDRESS
 Wynford BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
-
+Dr BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
+
 M3C PostalCode O
 1K1 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 72444963 Latitude O
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 3334915 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-646 Telephone I-PHONE
-- Telephone I-PHONE
-6965 Telephone E-PHONE
+416 Telephone O
+646 Telephone O
+6965 Telephone O
 
 2094 Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 theismaili Website O
-. Website O
 org Website O
-/ Website O
 ismailicentres Website O
-/ Website O
 toronto Website O
-
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 theismaili Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 theismaili Facebook O
 
-https://www Instagram O
-. Instagram O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-theismaili/ Instagram O
-
-https://www YouTube O
-. YouTube O
+theismaili Instagram O
+ Instagram O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 theismaili YouTube O
 
 None Flickr O
@@ -3428,59 +2730,47 @@ Cultura BuildingName O
 
 496 BuildingAddress B-ADDRESS
 Huron BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M5R PostalCode O
 2R3 PostalCode O
 
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 66863604 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 40246551 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-921 Telephone I-PHONE
-- Telephone I-PHONE
-3802 Telephone E-PHONE
-
+416 Telephone O
+921 Telephone O
+3802 Telephone O
 None Extension O
-http://www Website O
-. Website O
+
+http Website O
+www Website O
 iictoronto Website O
-. Website O
 esteri Website O
-. Website O
 it Website O
-https://twitter Twitter O
-. Twitter O
+
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 IICToronto Twitter O
-
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-iictoronto/ Facebook O
-
-https://www Instagram O
-. Instagram O
+iictoronto Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
-iictoronto/ Instagram O
-
+iictoronto Instagram O
+ Instagram O
 None YouTube O
 
 None Flickr O
@@ -3493,62 +2783,51 @@ Church BuildingName O
 
 130 BuildingAddress B-ADDRESS
 Gerrard BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M5A PostalCode O
 3T4 PostalCode O
 
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 66083843 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 37539742 Longitude O
-
-641 Telephone B-PHONE
-- Telephone I-PHONE
-692 Telephone I-PHONE
-- Telephone I-PHONE
-5326 Telephone E-PHONE
-
+641 Telephone O
+692 Telephone O
+5326 Telephone O
 None Extension O
-http://www Website O
-. Website O
+
+http Website O
+www Website O
 jsbc Website O
-. Website O
 org Website O
 
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 JSBChurch Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 jarvis Facebook O
-- Facebook O
 street Facebook O
-- Facebook O
 baptist Facebook O
-- Facebook O
-church-1428699224030036/?rf=162248537121601 Facebook O
+church Facebook O
+1428699224030036 Facebook O
+rf Facebook O
+162248537121601 Facebook O
 
 None Instagram O
 
 None YouTube O
-
 None Flickr O
 
 
@@ -3559,85 +2838,65 @@ House BuildingName O
 34 BuildingAddress B-ADDRESS
 Parkview BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
 
 M2N PostalCode O
 3Y2 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 77159292 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 41145858 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-226 Telephone I-PHONE
-- Telephone I-PHONE
-9011 Telephone E-PHONE
+416 Telephone O
+226 Telephone O
+9011 Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 ontariohistoricalsociety Website O
-. Website O
 ca Website O
 
-http://twitter Twitter O
-. Twitter O
+http Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 ontariohistory Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 ontariohistoricalsociety Facebook O
 
 None Instagram O
 
-https://www YouTube O
-. YouTube O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 channel YouTube O
-/ YouTube O
 uc3jczdjp8aae9ns9h YouTube O
-- YouTube O
 ocnqq YouTube O
 
 None Flickr O
-
 
 Kingsway BuildingName O
 Community BuildingName O
 Life BuildingName O
 Centre BuildingName O
-@ BuildingName O
 Underground BuildingName O
 Theatre BuildingName O
-
 186 BuildingAddress B-ADDRESS
 Spadina BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 Underground Suite/Floor O
-
-M5 PostalCode O
-T PostalCode O
+M5T PostalCode O
 3B2 PostalCode O
 
 Access LocationInstructions O
@@ -3648,54 +2907,45 @@ From LocationInstructions O
 Spadina LocationInstructions O
 And LocationInstructions O
 Cameron LocationInstructions O
-St. LocationInstructions O
-
+St LocationInstructions O
+ LocationInstructions O
 43 Latitude O
-. Latitude O
 64968007 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 39702919 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-510 Telephone I-PHONE
-- Telephone I-PHONE
-0770 Telephone E-PHONE
+416 Telephone O
+510 Telephone O
+0770 Telephone O
 
 None Extension O
 
-https://www Website O
-. Website O
+https Website O
+www Website O
 kclcministries Website O
-. Website O
 org Website O
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-kclcministries Twitter O
 
-https://www Facebook O
-. Facebook O
+https Twitter O
+twitter Twitter O
+com Twitter O
+kclcministries Twitter O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-kclcministries/ Facebook O
+kclcministries Facebook O
+ Facebook O
 None Instagram O
 
-https://www YouTube O
-. YouTube O
+https YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 user YouTube O
-/ YouTube O
-thekclcministries?view_as YouTube O
-= YouTube O
+thekclcministries YouTube O
+view_as YouTube O
 public YouTube O
 
 None Flickr O
@@ -3707,111 +2957,85 @@ House BuildingName O
 4066 BuildingAddress B-ADDRESS
 Old BuildingAddress I-ADDRESS
 Dundas BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M6S PostalCode O
 2R6 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 66314139 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 50360807 Longitude O
 
 None Telephone O
 
 None Extension O
 
-http://www Website O
-. Website O
+http Website O
+www Website O
 lambtonhouse Website O
-. Website O
 org Website O
 
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 LambtonHouse Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 lambtonhouse Facebook O
-
 None Instagram O
 
-http://www YouTube O
-. YouTube O
+http YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 lambtonhouse YouTube O
-
 None Flickr O
-
 
 LAMP BuildingName O
 Community BuildingName O
 Health BuildingName O
 Centre BuildingName O
-
 185 BuildingAddress B-ADDRESS
 Fifth BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M8V PostalCode O
 2Z5 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 6035733 Latitude O
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 50343393 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-252 Telephone I-PHONE
-- Telephone I-PHONE
-6471 Telephone E-PHONE
+416 Telephone O
+252 Telephone O
+6471 Telephone O
 
 None Extension O
 
-http:/www Website O
-. Website O
+http Website O
+www Website O
 lampchc Website O
-. Website O
 org Website O
-
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 LAMPCHC_info Twitter O
-
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 lampchealthc Facebook O
 
 None Instagram O
@@ -3828,58 +3052,52 @@ Ontario BuildingName O
 
 111 BuildingAddress B-ADDRESS
 Wellesley BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M7A PostalCode O
 1A2 PostalCode O
-
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 662035 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 391412 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-325 Telephone I-PHONE
-- Telephone I-PHONE
-7500 Telephone E-PHONE
+416 Telephone O
+325 Telephone O
+7500 Telephone O
 
 None Extension O
 
-http://ontla Website O
-. Website O
+http Website O
+ontla Website O
 on Website O
-. Website O
 ca Website O
-
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
-ONPARLeducation?ref_src Twitter O
-= Twitter O
-twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor Twitter O
-https://www Facebook O
-. Facebook O
+ONPARLeducation Twitter O
+ref_src Twitter O
+twsrc Twitter O
+5Egoogle Twitter O
+7Ctwcamp Twitter O
+5Eserp Twitter O
+7Ctwgr Twitter O
+5Eauthor Twitter O
+
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
-legislativeassemblyofontario/ Facebook O
+legislativeassemblyofontario Facebook O
+ Facebook O
 
 None Instagram O
 
 None YouTube O
-
 None Flickr O
 
 
@@ -3892,61 +3110,46 @@ Toronto BuildingName O
 
 1137 BuildingAddress B-ADDRESS
 Dupont BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
-
 M6H PostalCode O
 2A3 PostalCode O
 
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 66850774 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 43792387 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-588 Telephone I-PHONE
-- Telephone I-PHONE
-6444 Telephone E-PHONE
-
+416 Telephone O
+588 Telephone O
+6444 Telephone O
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 lift Website O
-. Website O
 ca Website O
-
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 liftfilm Twitter O
 
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 lift Facebook O
-. Facebook O
-ca/ Facebook O
-
-https://www Instagram O
-. Instagram O
+ca Facebook O
+ Facebook O
+https Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
-com/_liftfilm/ Instagram O
-
+com Instagram O
+_liftfilm Instagram O
+ Instagram O
 None YouTube O
-
 None Flickr O
 
 
@@ -3955,54 +3158,41 @@ Trinity BuildingName O
 Church BuildingName O
 and BuildingName O
 Campus BuildingName O
+
 425 BuildingAddress B-ADDRESS
 King BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
 M5A PostalCode O
 1L3 PostalCode O
-
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 65317427 Latitude O
-
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 36187982 Longitude O
 
 None Telephone O
-
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 littletrinity Website O
-. Website O
 org Website O
 
-https://twitter Twitter O
-. Twitter O
+https Twitter O
+twitter Twitter O
 com Twitter O
-/ Twitter O
 LittleTrinityTO Twitter O
-
-https://www Facebook O
-. Facebook O
+https Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 littletrinitychurch Facebook O
 None Instagram O
-
 None YouTube O
-
 None Flickr O
 
 
@@ -4010,49 +3200,39 @@ Mackenzie BuildingName O
 House BuildingName O
 82 BuildingAddress B-ADDRESS
 Bond BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
+St BuildingAddress I-ADDRESS
+ BuildingAddress E-ADDRESS
 
 None Suite/Floor O
+
 M5B PostalCode O
 1X2 PostalCode O
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 65568055 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 37845439 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-392 Telephone I-PHONE
-- Telephone I-PHONE
-6915 Telephone E-PHONE
-
+416 Telephone O
+392 Telephone O
+6915 Telephone O
 None Extension O
 
-http://toronto Website O
-. Website O
+http Website O
+toronto Website O
 ca Website O
-/ Website O
 mackenziehouse Website O
-
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 MackenzieHouse Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 mackenziehouse Facebook O
 
 None Instagram O
@@ -4063,75 +3243,57 @@ None Flickr O
 
 
 Malabar BuildingName O
-Ltd. BuildingName O
+Ltd BuildingName O
 Costume BuildingName O
 Warehouse BuildingName O
 
 122 BuildingAddress B-ADDRESS
 Brock BuildingAddress I-ADDRESS
 Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
+ BuildingAddress E-ADDRESS
 None Suite/Floor O
 
-M6 PostalCode O
-K PostalCode O
+M6K PostalCode O
 2L4 PostalCode O
 
 None LocationInstructions O
 
 43 Latitude O
-. Latitude O
 6458792 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 43442694 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-534 Telephone I-PHONE
-- Telephone I-PHONE
-0466 Telephone E-PHONE
+416 Telephone O
+534 Telephone O
+0466 Telephone O
 
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 malabar Website O
-. Website O
 net Website O
 
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 malabartoronto Twitter O
-
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 malabartoronto Facebook O
-
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
 malabarproductions Instagram O
 
-http://www YouTube O
-. YouTube O
+http YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 malabarltd YouTube O
 
 None Flickr O
@@ -4140,2777 +3302,59 @@ Market BuildingName O
 Gallery BuildingName O
 95 BuildingAddress B-ADDRESS
 Front BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
+St BuildingAddress I-ADDRESS
 E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
+ BuildingAddress E-ADDRESS
 
 Floor Suite/Floor O
 2 Suite/Floor O
+
 M5E PostalCode O
 1C2 PostalCode O
 
 None LocationInstructions O
-
 43 Latitude O
-. Latitude O
 64918984 Latitude O
 
--79 Longitude O
-. Longitude O
+ Longitude O
+79 Longitude O
 37149694 Longitude O
 
-416 Telephone B-PHONE
-- Telephone I-PHONE
-392 Telephone I-PHONE
-- Telephone I-PHONE
-7604 Telephone E-PHONE
-
+416 Telephone O
+392 Telephone O
+7604 Telephone O
 None Extension O
-
-http://www Website O
-. Website O
+http Website O
+www Website O
 toronto Website O
-. Website O
 ca Website O
-/ Website O
 marketgallery Website O
 
-http://www Twitter O
-. Twitter O
+http Twitter O
+www Twitter O
 twitter Twitter O
-. Twitter O
 com Twitter O
-/ Twitter O
 marketgalleryTO Twitter O
 
-http://www Facebook O
-. Facebook O
+http Facebook O
+www Facebook O
 facebook Facebook O
-. Facebook O
 com Facebook O
-/ Facebook O
 marketgallery Facebook O
-
-http://www Instagram O
-. Instagram O
+http Instagram O
+www Instagram O
 instagram Instagram O
-. Instagram O
 com Instagram O
-/ Instagram O
 tohistoricsites Instagram O
-
-http://www YouTube O
-. YouTube O
+http YouTube O
+www YouTube O
 youtube YouTube O
-. YouTube O
 com YouTube O
-/ YouTube O
 channel YouTube O
-/ YouTube O
 ucic32fixmmbli35o2bwoilg YouTube O
-
-http://www Flickr O
-. Flickr O
+http Flickr O
+www Flickr O
 flickr Flickr O
-. Flickr O
 com Flickr O
-/ Flickr O
 tohistoricsites Flickr O
-
-
-Massey BuildingName O
-Hall BuildingName O
-
-178 BuildingAddress B-ADDRESS
-Victoria BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5B PostalCode O
-1T7 PostalCode O
-
-Please LocationInstructions O
-use LocationInstructions O
-the LocationInstructions O
-main LocationInstructions O
-, LocationInstructions O
-red LocationInstructions O
-doors LocationInstructions O
-off LocationInstructions O
-of LocationInstructions O
-Shuter LocationInstructions O
-Street LocationInstructions O
-to LocationInstructions O
-enter LocationInstructions O
-the LocationInstructions O
-building LocationInstructions O
-. LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65381688 Latitude O
-
--79 Longitude O
-. Longitude O
-37877019 Longitude O
-
-None Telephone O
-
-None Extension O
-
-http://masseyhall Website O
-. Website O
-com Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-masseyhall Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-soundboardto Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-masseyhall/ Instagram O
-
-https://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-user YouTube O
-/ YouTube O
-masseyhallroythomson YouTube O
-
-None Flickr O
-
-
-Metropolitan BuildingName O
-United BuildingName O
-Church BuildingName O
-
-56 BuildingAddress B-ADDRESS
-Queen BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5C PostalCode O
-2Z3 PostalCode O
-
-two LocationInstructions O
-blocks LocationInstructions O
-east LocationInstructions O
-of LocationInstructions O
-the LocationInstructions O
-Queen LocationInstructions O
-Subway LocationInstructions O
-station LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65385432 Latitude O
-
--79 Longitude O
-. Longitude O
-37666025 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-363 Telephone I-PHONE
-- Telephone I-PHONE
-0331 Telephone E-PHONE
-
-24 Extension O
-
-http://www Website O
-. Website O
-metunited Website O
-. Website O
-org Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-Met_United_News Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-metunited/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-johnjosephmastandrea/ Instagram O
-None YouTube O
-None Flickr O
-
-
-MOCA BuildingName O
-( BuildingName O
-Tower BuildingName O
-Automotive BuildingName O
-) BuildingName O
-
-158 BuildingAddress B-ADDRESS
-Sterling BuildingAddress I-ADDRESS
-Rd BuildingAddress E-ADDRESS
-None Suite/Floor O
-
-M6R PostalCode O
-2B2 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65459813 Latitude O
-
--79 Longitude O
-. Longitude O
-44596604 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-395 Telephone I-PHONE
-- Telephone I-PHONE
-0067 Telephone E-PHONE
-
-None Extension O
-
-http://museumofcontemporaryart Website O
-. Website O
-ca Website O
-
-http://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-moca_canada Twitter O
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-museumofcontemporaryart Facebook O
-
-http://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-moca_canada Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Montgomery BuildingName O
-'s BuildingName O
-Inn BuildingName O
-
-4709 BuildingAddress B-ADDRESS
-Dundas BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M9A PostalCode O
-1A8 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65167892 Latitude O
-
--79 Longitude O
-. Longitude O
-52565875 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-394 Telephone I-PHONE
-- Telephone I-PHONE
-8113 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-montgomerysinn Website O
-. Website O
-com Website O
-
-http://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-MontINNTO Twitter O
-
-http://www Facebook O
-. Facebook O
-facbook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-montgomerysinn/ Facebook O
-
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Moriyama BuildingName O
-& BuildingName O
-Teshima BuildingName O
-Architects BuildingName O
-
-117 BuildingAddress B-ADDRESS
-George BuildingAddress I-ADDRESS
-Street BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5A PostalCode O
-2N4 PostalCode O
-
-None LocationInstructions O
-43 Latitude O
-. Latitude O
-65249671 Latitude O
-
--79 Longitude O
-. Longitude O
-3711264 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-925 Telephone I-PHONE
-- Telephone I-PHONE
-4484 Telephone E-PHONE
-
-None Extension O
-http://www Website O
-. Website O
-mtarch Website O
-. Website O
-com Website O
-
-http://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-moriyamateshima?lang Twitter O
-= Twitter O
-en Twitter O
-
-http://https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-moriyama Facebook O
-- Facebook O
-teshima-270111239687985/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-moriyamateshima/ Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Native BuildingName O
-Child BuildingName O
-And BuildingName O
-Family BuildingName O
-Services BuildingName O
-of BuildingName O
-Toronto BuildingName O
-
-30 BuildingAddress B-ADDRESS
-College BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5 PostalCode O
-G PostalCode O
-1K2 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-66134196 Latitude O
-
--79 Longitude O
-. Longitude O
-38455761 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-969 Telephone I-PHONE
-- Telephone I-PHONE
-8510 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-nativechild Website O
-. Website O
-org Website O
-
-http://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-NCFST Twitter O
-
-None Facebook O
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Neilson BuildingName O
-Park BuildingName O
-Creative BuildingName O
-Centre BuildingName O
-
-56 BuildingAddress B-ADDRESS
-Neilson BuildingAddress I-ADDRESS
-Dr. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M9C PostalCode O
-1V7 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-63021191 Latitude O
-
--79 Longitude O
-. Longitude O
-56640783 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-622 Telephone I-PHONE
-- Telephone I-PHONE
-5294 Telephone E-PHONE
-None Extension O
-
-http://www Website O
-. Website O
-neilsonparkcreativecentre Website O
-. Website O
-com Website O
-
-http://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-npccarts Twitter O
-
-http://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-npccarts Facebook O
-
-http://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-npccarts Instagram O
-None YouTube O
-
-None Flickr O
-
-
-OCAD BuildingName O
-University BuildingName O
-
-100 BuildingAddress B-ADDRESS
-McCaul BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-None Suite/Floor O
-
-M5 PostalCode O
-T PostalCode O
-1W1 PostalCode O
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65301195 Latitude O
-
--79 Longitude O
-. Longitude O
-39120822 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-977 Telephone I-PHONE
-- Telephone I-PHONE
-6000 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-ocadu Website O
-. Website O
-ca Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-OCAD Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-ocaduniversity/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-ocaduniversity Instagram O
-
-https://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-user YouTube O
-/ YouTube O
-ocaduniversity YouTube O
-
-None Flickr O
-
-
-Old BuildingName O
-City BuildingName O
-Hall BuildingName O
-60 BuildingAddress B-ADDRESS
-Queen BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5H PostalCode O
-2N2 PostalCode O
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65210386 Latitude O
-
--79 Longitude O
-. Longitude O
-38175198 Longitude O
-None Telephone O
-
-None Extension O
-
-https://www Website O
-. Website O
-toronto Website O
-. Website O
-ca/311/knowledgebase Website O
-/ Website O
-kb Website O
-/ Website O
-docs Website O
-/ Website O
-articles Website O
-/ Website O
-facilities Website O
-- Website O
-management Website O
-/ Website O
-facilities Website O
-- Website O
-operations Website O
-/ Website O
-old Website O
-- Website O
-city Website O
-- Website O
-hall Website O
-- Website O
-toronto Website O
-- Website O
-courthouse Website O
-. Website O
-html Website O
-
-None Twitter O
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-vintagetoronto Facebook O
-/ Facebook O
-photos Facebook O
-/ Facebook O
-a Facebook O
-. Facebook O
-1200570910012891 Facebook O
-. Facebook O
-1073742227 Facebook O
-. Facebook O
-256041347799190/280478712022120/?type=3&theater Facebook O
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Osgoode BuildingName O
-Hall BuildingName O
-
-130 BuildingAddress B-ADDRESS
-Queen BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5H PostalCode O
-2N6 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65167788 Latitude O
-
--79 Longitude O
-. Longitude O
-38495108 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-947 Telephone I-PHONE
-- Telephone I-PHONE
-3315 Telephone E-PHONE
-
-None Extension O
-
-https://www Website O
-. Website O
-lsuc Website O
-. Website O
-on Website O
-. Website O
-ca/ Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-LawSocietyLSO Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-lawsocietylsuc/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-lawsocietylso/ Instagram O
-
-https://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-c YouTube O
-/ YouTube O
-lawsocietyofontario YouTube O
-
-https://www Flickr O
-. Flickr O
-flickr Flickr O
-. Flickr O
-com Flickr O
-/ Flickr O
-photos Flickr O
-/ Flickr O
-lsuc_archives/ Flickr O
-
-
-Parkdale BuildingName O
-Arts BuildingName O
-and BuildingName O
-Cultural BuildingName O
-Centre BuildingName O
-
-1313 BuildingAddress B-ADDRESS
-Queen BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-Main Suite/Floor O
-
-M6 PostalCode O
-K PostalCode O
-1L8 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-64107662 Latitude O
-
--79 Longitude O
-. Longitude O
-43336246 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-536 Telephone I-PHONE
-- Telephone I-PHONE
-6778 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-g1313 Website O
-. Website O
-org Website O
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-gallery1313 Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-gallery1313/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-gallery1313/ Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-PARTISANS BuildingName O
-
-116 BuildingAddress B-ADDRESS
-Geary BuildingAddress I-ADDRESS
-Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-204 Suite/Floor O
-
-M6H PostalCode O
-4H1 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-67052509 Latitude O
-
--79 Longitude O
-. Longitude O
-43482629 Longitude O
-
-647 Telephone B-PHONE
-- Telephone I-PHONE
-846 Telephone I-PHONE
-- Telephone I-PHONE
-3428 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-partisanprojects Website O
-. Website O
-com Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-partisansarch Twitter O
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-partisansarchitecture/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-partisansarchitecture/ Instagram O
-None YouTube O
-None Flickr O
-
-
-PIX BuildingName O
-FILM BuildingName O
-: BuildingName O
-Productions BuildingName O
-- BuildingName O
-Studio BuildingName O
-- BuildingName O
-Gallery BuildingName O
-
-1411 BuildingAddress B-ADDRESS
-Dufferin BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-Unit Suite/Floor O
-C Suite/Floor O
-
-M6H PostalCode O
-4C7 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-6710134 Latitude O
-
--79 Longitude O
-. Longitude O
-43964858 Longitude O
-
-None Telephone O
-
-None Extension O
-http://www Website O
-. Website O
-pixfilm Website O
-. Website O
-ca Website O
-
-http://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-pixfilmstudio Twitter O
-
-http://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-groups/281202361985885/ Facebook O
-
-http://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-madipiller/ Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Portlands BuildingName O
-Energy BuildingName O
-Centre BuildingName O
-
-470 BuildingAddress B-ADDRESS
-Unwin BuildingAddress I-ADDRESS
-Ave BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-M4 PostalCode O
-M PostalCode O
-3B9 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-64781718 Latitude O
-
--79 Longitude O
-. Longitude O
-33027558 Longitude O
-
-None Telephone O
-
-None Extension O
-http://www Website O
-. Website O
-portlandsenergycentre Website O
-. Website O
-com Website O
-
-http://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-portlandsenergy Twitter O
-
-None Facebook O
-
-None Instagram O
-None YouTube O
-
-None Flickr O
-
-
-Pure BuildingName O
-Spirits BuildingName O
-Still BuildingName O
-House BuildingName O
-/ BuildingName O
-Distillery BuildingName O
-District BuildingName O
-Film BuildingName O
-Locations BuildingName O
-Site BuildingName O
-Tours BuildingName O
-
-3 BuildingAddress B-ADDRESS
-Tank BuildingAddress I-ADDRESS
-House BuildingAddress I-ADDRESS
-Ln BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-None Suite/Floor O
-
-M5A PostalCode O
-3C4 PostalCode O
-
-None LocationInstructions O
-43 Latitude O
-. Latitude O
-65029505 Latitude O
-
--79 Longitude O
-. Longitude O
-35926535 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-364 Telephone I-PHONE
-- Telephone I-PHONE
-1177 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-thedistillerydistrict Website O
-. Website O
-com Website O
-
-https://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-DistilleryTO Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-distilleryto/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-distilleryto/ Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Raw BuildingName O
-Design BuildingName O
-
-317 BuildingAddress B-ADDRESS
-Adelaide BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-405 Suite/Floor O
-
-M5V PostalCode O
-1P9 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-64722564 Latitude O
-
--79 Longitude O
-. Longitude O
-39230524 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-599 Telephone I-PHONE
-- Telephone I-PHONE
-9729 Telephone E-PHONE
-
-244 Extension O
-
-http://www Website O
-. Website O
-rawdesign Website O
-. Website O
-ca Website O
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-raw_to?lang Twitter O
-= Twitter O
-en Twitter O
-
-None Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-rawdesignto/ Instagram O
-None YouTube O
-
-None Flickr O
-
-
-Regent BuildingName O
-Theatre BuildingName O
-551 BuildingAddress B-ADDRESS
-Mt. BuildingAddress I-ADDRESS
-Pleasant BuildingAddress I-ADDRESS
-Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-None Suite/Floor O
-
-M4S PostalCode O
-2M5 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-70301516 Latitude O
-
--79 Longitude O
-. Longitude O
-38757371 Longitude O
-
-( Telephone B-PHONE
-416 Telephone I-PHONE
-) Telephone I-PHONE
-480 Telephone I-PHONE
-- Telephone I-PHONE
-9884 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-regenttoronto Website O
-. Website O
-com/ Website O
-
-None Twitter O
-
-None Facebook O
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Ryerson BuildingName O
-Image BuildingName O
-Centre BuildingName O
-
-33 BuildingAddress B-ADDRESS
-Gould BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5B PostalCode O
-2K3 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65767097 Latitude O
-
--79 Longitude O
-. Longitude O
-37926552 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-979 Telephone I-PHONE
-- Telephone I-PHONE
-5164 Telephone E-PHONE
-
-None Extension O
-
-https://www Website O
-. Website O
-ryersonimagecentre Website O
-. Website O
-ca Website O
-https://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-RICgallery Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-ryersonimagecentre Facebook O
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-ricgallery/ Instagram O
-
-None YouTube O
-None Flickr O
-
-
-Ryerson BuildingName O
-School BuildingName O
-of BuildingName O
-Image BuildingName O
-Arts BuildingName O
-
-122 BuildingAddress B-ADDRESS
-Bond BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5B PostalCode O
-1X8 PostalCode O
-
-None LocationInstructions O
-43 Latitude O
-. Latitude O
-6573867 Latitude O
-
--79 Longitude O
-. Longitude O
-37914202 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-979 Telephone I-PHONE
-- Telephone I-PHONE
-5000 Telephone E-PHONE
-5167 Extension O
-
-http://www Website O
-. Website O
-imagearts Website O
-. Website O
-ryerson Website O
-. Website O
-ca Website O
-http://www Twitter O
-. Twitter O
-twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-ryersonIMA Twitter O
-
-http://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-ryersonima Facebook O
-
-http://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-ryersonima Instagram O
-
-http://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-user YouTube O
-/ YouTube O
-ryersonima YouTube O
-
-None Flickr O
-
-
-R BuildingName O
-. BuildingName O
-C BuildingName O
-. BuildingName O
-Harris BuildingName O
-Water BuildingName O
-Treatment BuildingName O
-Plant BuildingName O
-2701 BuildingAddress B-ADDRESS
-Queen BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M4E PostalCode O
-1J1 PostalCode O
-
-None LocationInstructions O
-43 Latitude O
-. Latitude O
-6743852 Latitude O
-
--79 Longitude O
-. Longitude O
-27918979 Longitude O
-
-None Telephone O
-
-None Extension O
-
-http://www Website O
-. Website O
-toronto Website O
-. Website O
-ca Website O
-/ Website O
-water Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-TorontoComms Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-cityofto/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-cityofto/ Instagram O
-
-https://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-user YouTube O
-/ YouTube O
-thecityoftoronto YouTube O
-
-None Flickr O
-
-
-Scadding BuildingName O
-Cabin BuildingName O
-
-3 BuildingAddress B-ADDRESS
-Alberta BuildingAddress I-ADDRESS
-Cir BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M6 PostalCode O
-K PostalCode O
-3C3 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-630708 Latitude O
-
--79 Longitude O
-. Longitude O
-423992 Longitude O
-
-None Telephone O
-
-None Extension O
-
-http://yorkpioneers Website O
-. Website O
-com Website O
-
-http://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-YorkPioneers Twitter O
-
-http://facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-yorkpioneers Facebook O
-
-http://instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-yorkpioneers Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Scarborough BuildingName O
-Arts BuildingName O
-
-1859 BuildingAddress B-ADDRESS
-Kingston BuildingAddress I-ADDRESS
-Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-None Suite/Floor O
-
-M1N PostalCode O
-1T3 PostalCode O
-
-None LocationInstructions O
-43 Latitude O
-. Latitude O
-69539466 Latitude O
-
--79 Longitude O
-. Longitude O
-25878546 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-788 Telephone I-PHONE
-- Telephone I-PHONE
-1767 Telephone E-PHONE
-
-None Extension O
-
-http://scarborougharts Website O
-. Website O
-com Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-scararts Twitter O
-
-http;//www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-scarborougharts Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-scarborougharts/ Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Scarborough BuildingName O
-Museum BuildingName O
-
-1007 BuildingAddress B-ADDRESS
-Brimley BuildingAddress I-ADDRESS
-Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M1P PostalCode O
-3E8 PostalCode O
-
-In LocationInstructions O
-Thomson LocationInstructions O
-Memorial LocationInstructions O
-Park LocationInstructions O
-, LocationInstructions O
-just LocationInstructions O
-north LocationInstructions O
-of LocationInstructions O
-Lawrence LocationInstructions O
-Avenue LocationInstructions O
-, LocationInstructions O
-on LocationInstructions O
-the LocationInstructions O
-east LocationInstructions O
-side LocationInstructions O
-of LocationInstructions O
-Brimley LocationInstructions O
-Rd LocationInstructions O
-
-43 Latitude O
-. Latitude O
-7580445 Latitude O
-
--79 Longitude O
-. Longitude O
-25643433 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-338 Telephone I-PHONE
-- Telephone I-PHONE
-8807 Telephone E-PHONE
-None Extension O
-
-http://toronto Website O
-. Website O
-ca Website O
-/ Website O
-scarboroughmuseum Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-ScarbMuseum?ref_src Twitter O
-= Twitter O
-twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-scarboroughmuseum/ Facebook O
-
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Seneca BuildingName O
-@ BuildingName O
-York BuildingName O
-, BuildingName O
-Stephen BuildingName O
-E BuildingName O
-Quinlan BuildingName O
-Building BuildingName O
-
-70 BuildingAddress B-ADDRESS
-The BuildingAddress I-ADDRESS
-Pond BuildingAddress I-ADDRESS
-Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-None Suite/Floor O
-
-M3J PostalCode O
-3M6 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-77128349 Latitude O
-
--79 Longitude O
-. Longitude O
-49885756 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-491 Telephone I-PHONE
-- Telephone I-PHONE
-5050 Telephone E-PHONE
-None Extension O
-
-http://www Website O
-. Website O
-senecacollege Website O
-. Website O
-ca Website O
-
-http://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-SenecaCollege Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-groups/2212825873/about/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-senecacollege/ Instagram O
-
-https://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-user YouTube O
-/ YouTube O
-videoseneca YouTube O
-
-None Flickr O
-
-
-Shaftesbury BuildingName O
-
-18 BuildingAddress B-ADDRESS
-Logan BuildingAddress I-ADDRESS
-Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-None Suite/Floor O
-
-M4 PostalCode O
-M PostalCode O
-2M8 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65471142 Latitude O
-
--79 Longitude O
-. Longitude O
-34039461 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-363 Telephone I-PHONE
-- Telephone I-PHONE
-1411 Telephone E-PHONE
-None Extension O
-
-http://www Website O
-. Website O
-shaftesbury Website O
-. Website O
-ca Website O
-
-http://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-ShaftesburyTV Twitter O
-
-http://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-shaftesburytv/ Facebook O
-
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Sim BuildingName O
-Lighting BuildingName O
-+ BuildingName O
-Grip BuildingName O
-
-80 BuildingAddress B-ADDRESS
-Commissioners BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5A PostalCode O
-1A8 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-64690014 Latitude O
-
--79 Longitude O
-. Longitude O
-3494438 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-466 Telephone I-PHONE
-- Telephone I-PHONE
-0037 Telephone E-PHONE
-
-None Extension O
-
-https://www Website O
-. Website O
-siminternational Website O
-. Website O
-com Website O
-/ Website O
-contact/ Website O
-
-http://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-simcomplete Twitter O
-
-http://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-simcomplete/ Facebook O
-
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-Sim BuildingName O
-Post BuildingName O
-Sound BuildingName O
-
-260 BuildingAddress B-ADDRESS
-King BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-Suite Suite/Floor O
-A-102 Suite/Floor O
-
-M5A PostalCode O
-4L5 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65194466 Latitude O
-
--79 Longitude O
-. Longitude O
-3664486 Longitude O
-
-None Telephone O
-
-None Extension O
-
-https://www Website O
-. Website O
-siminternational Website O
-. Website O
-com Website O
-/ Website O
-contact/ Website O
-
-http://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-simcomplete Twitter O
-
-http://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-simcomplete/ Facebook O
-
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-Spadina BuildingName O
-Museum BuildingName O
-: BuildingName O
-Historic BuildingName O
-House BuildingName O
-and BuildingName O
-Gardens BuildingName O
-
-285 BuildingAddress B-ADDRESS
-Spadina BuildingAddress I-ADDRESS
-Rd BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-None Suite/Floor O
-
-M5R PostalCode O
-2V5 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-67902804 Latitude O
-
--79 Longitude O
-. Longitude O
-40832763 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-392 Telephone I-PHONE
-- Telephone I-PHONE
-6910 Telephone E-PHONE
-
-None Extension O
-
-https://www Website O
-. Website O
-toronto Website O
-. Website O
-ca Website O
-/ Website O
-explore Website O
-- Website O
-enjoy Website O
-/ Website O
-history Website O
-- Website O
-art Website O
-- Website O
-culture Website O
-/ Website O
-museums Website O
-/ Website O
-spadina Website O
-- Website O
-museum/ Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-SpadinaMuseum Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-spadinamuseum Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-spadinamuseum/ Instagram O
-https://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-channel YouTube O
-/ YouTube O
-ucv-7yr1tgjtyhsnkdiyzjja YouTube O
-
-https://www Flickr O
-. Flickr O
-flickr Flickr O
-. Flickr O
-com Flickr O
-/ Flickr O
-photos Flickr O
-/ Flickr O
-tohistoricsites Flickr O
-/ Flickr O
-albums Flickr O
-
-
-SPINVFX BuildingName O
-
-901 BuildingAddress B-ADDRESS
-King BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-W BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-Suite Suite/Floor O
-501 Suite/Floor O
-, Suite/Floor O
-Floor Suite/Floor O
-5 Suite/Floor O
-
-M5V PostalCode O
-3H5 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-64188101 Latitude O
-
--79 Longitude O
-. Longitude O
-41125002 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-504 Telephone I-PHONE
-- Telephone I-PHONE
-8333 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-spinvfx Website O
-. Website O
-com Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-SpinVFX Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-profile Facebook O
-. Facebook O
-php?id=100004799797053 Facebook O
-
-https://www Instagram O
-. Instagram O
-facebook Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-spinvfx-173906056034365/ Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-St. BuildingName O
-James BuildingName O
-Cathedral BuildingName O
-
-65 BuildingAddress B-ADDRESS
-Church BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5C PostalCode O
-2E9 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65027491 Latitude O
--79 Longitude O
-. Longitude O
-3743532 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-364 Telephone I-PHONE
-- Telephone I-PHONE
-7865 Telephone E-PHONE
-None Extension O
-
-http://www Website O
-. Website O
-stjamescathedral Website O
-. Website O
-ca Website O
-
-None Twitter O
-http://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-stjamesto/ Facebook O
-
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-St. BuildingName O
-John BuildingName O
-'s BuildingName O
-Convent BuildingName O
-
-233 BuildingAddress B-ADDRESS
-Cummer BuildingAddress I-ADDRESS
-Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M2 PostalCode O
-M PostalCode O
-2E8 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-78895139 Latitude O
-
--79 Longitude O
-. Longitude O
-40581919 Longitude O
-
-412 Telephone B-PHONE
-- Telephone I-PHONE
-226 Telephone I-PHONE
-- Telephone I-PHONE
-2201 Telephone E-PHONE
-
-301 Extension O
-
-https://www Website O
-. Website O
-ssjd Website O
-. Website O
-ca Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-ssjdcanada Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-ssjdcanada Facebook O
-
-None Instagram O
-
-https://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-user YouTube O
-/ YouTube O
-ssjdcanada YouTube O
-
-https://flickr Flickr O
-. Flickr O
-com Flickr O
-/ Flickr O
-photos Flickr O
-/ Flickr O
-ssjd Flickr O
-
-
-SvN BuildingName O
-Architects BuildingName O
-+ BuildingName O
-Planners BuildingName O
-110 BuildingAddress B-ADDRESS
-Adelaide BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-4 Suite/Floor O
-
-M5C PostalCode O
-1K9 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65169874 Latitude O
-
--79 Longitude O
-. Longitude O
-37355347 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-593 Telephone I-PHONE
-- Telephone I-PHONE
-6499 Telephone E-PHONE
-
-None Extension O
-
-http://svn Website O
-- Website O
-ap Website O
-. Website O
-com/ Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-svn_ap?lang Twitter O
-= Twitter O
-en Twitter O
-
-None Facebook O
-
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-TACT BuildingName O
-Architecture BuildingName O
-
-660R BuildingAddress B-ADDRESS
-College BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-Rear Suite/Floor O
-
-M6 PostalCode O
-G PostalCode O
-1B8 PostalCode O
-
-Located LocationInstructions O
-in LocationInstructions O
-the LocationInstructions O
-rear LocationInstructions O
-lane LocationInstructions O
-between LocationInstructions O
-Grace LocationInstructions O
-St LocationInstructions O
-and LocationInstructions O
-Beatrice LocationInstructions O
-St. LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65552058 Latitude O
-
--79 Longitude O
-. Longitude O
-41659685 Longitude O
-
-415 Telephone B-PHONE
-- Telephone I-PHONE
-516 Telephone I-PHONE
-- Telephone I-PHONE
-1949 Telephone E-PHONE
-
-33 Extension O
-
-http://www Website O
-. Website O
-tactarchitecture Website O
-. Website O
-com Website O
-
-http:// Twitter O
-
-None Facebook O
-
-None Instagram O
-None YouTube O
-
-None Flickr O
-
-
-The BuildingName O
-Chapel BuildingName O
-of BuildingName O
-St. BuildingName O
-Alban BuildingName O
-in BuildingName O
-Royal BuildingName O
-Saint BuildingName O
-George BuildingName O
-'s BuildingName O
-College BuildingName O
-120 BuildingAddress B-ADDRESS
-Howland BuildingAddress I-ADDRESS
-Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5R PostalCode O
-3B5 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-66955281 Latitude O
--79 Longitude O
-. Longitude O
-41065712 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-533 Telephone I-PHONE
-- Telephone I-PHONE
-6724 Telephone E-PHONE
-
-235 Extension O
-
-http://www Website O
-. Website O
-rsgc Website O
-. Website O
-on Website O
-. Website O
-ca/ Website O
-
-None Twitter O
-
-http://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-rsgc1/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-rsgc1/ Instagram O
-
-None YouTube O
-
-None Flickr O
-
-The BuildingName O
-Children BuildingName O
-'s BuildingName O
-Book BuildingName O
-Bank BuildingName O
-
-350 BuildingAddress B-ADDRESS
-Berkeley BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5A PostalCode O
-2X5 PostalCode O
-
-We LocationInstructions O
-are LocationInstructions O
-located LocationInstructions O
-on LocationInstructions O
-the LocationInstructions O
-corner LocationInstructions O
-of LocationInstructions O
-Berkeley LocationInstructions O
-and LocationInstructions O
-Gerrard LocationInstructions O
-Streets LocationInstructions O
-, LocationInstructions O
-with LocationInstructions O
-our LocationInstructions O
-entrance LocationInstructions O
-is LocationInstructions O
-on LocationInstructions O
-Berkeley LocationInstructions O
-Street LocationInstructions O
-. LocationInstructions O
-
-43 Latitude O
-. Latitude O
-66167972 Latitude O
-
--79 Longitude O
-. Longitude O
-3685595 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-922 Telephone I-PHONE
-- Telephone I-PHONE
-7323 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-childrensbookbank Website O
-. Website O
-com Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-BookBankCanada Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-childrensbookbankcanada/ Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-bookbankcanada/ Instagram O
-
-None YouTube O
-None Flickr O
-
-
-The BuildingName O
-Concert BuildingName O
-Hall BuildingName O
-( BuildingName O
-Masonic BuildingName O
-Temple BuildingName O
-) BuildingName O
-
-888 BuildingAddress B-ADDRESS
-Yonge BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M4W PostalCode O
-2J2 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-67307961 Latitude O
-
--79 Longitude O
-. Longitude O
-38841827 Longitude O
-
-None Telephone O
-
-None Extension O
-
-http://888yonge Website O
-. Website O
-com Website O
-
-http://https://twitter Twitter O
-. Twitter O
-com/888yonge Twitter O
-
-None Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com/888yonge/ Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-The BuildingName O
-Horseshoe BuildingName O
-Tavern BuildingName O
-
-370 BuildingAddress B-ADDRESS
-Queen BuildingAddress I-ADDRESS
-Street BuildingAddress I-ADDRESS
-West BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5V PostalCode O
-2A2 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-64910839 Latitude O
-
--79 Longitude O
-. Longitude O
-39587995 Longitude O
-416 Telephone B-PHONE
-- Telephone I-PHONE
-598 Telephone I-PHONE
-- Telephone I-PHONE
-2162 Telephone E-PHONE
-
-None Extension O
-
-https://www Website O
-. Website O
-horseshoetavern Website O
-. Website O
-com/ Website O
-
-None Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-horseshoetavern/ Facebook O
-
-None Instagram O
-
-None YouTube O
-
-None Flickr O
-
-
-The BuildingName O
-Japan BuildingName O
-Foundation BuildingName O
-, BuildingName O
-Toronto BuildingName O
-
-2 BuildingAddress B-ADDRESS
-Bloor BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-E BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-Suite Suite/Floor O
-300 Suite/Floor O
-| Suite/Floor O
-Floor Suite/Floor O
-3 Suite/Floor O
-
-M4W PostalCode O
-1A8 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-67072784 Latitude O
-
--79 Longitude O
-. Longitude O
-38555472 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-966 Telephone I-PHONE
-- Telephone I-PHONE
-1600 Telephone E-PHONE
-
-223 Extension O
-www Website O
-. Website O
-jftor Website O
-. Website O
-org Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-JFToronto Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-jftoronto/ Facebook O
-None Instagram O
-None YouTube O
-
-None Flickr O
-
-
-The BuildingName O
-Michener BuildingName O
-Institute BuildingName O
-of BuildingName O
-Education BuildingName O
-at BuildingName O
-UHN BuildingName O
-222 BuildingAddress B-ADDRESS
-St. BuildingAddress I-ADDRESS
-Patrick BuildingAddress I-ADDRESS
-St. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M5 PostalCode O
-T PostalCode O
-1V4 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65572607 Latitude O
-
--79 Longitude O
-. Longitude O
-39121594 Longitude O
-
-None Telephone O
-
-None Extension O
-
-http://www Website O
-. Website O
-michener Website O
-. Website O
-ca/ Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-michenerinst Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-themichenerinstitute Facebook O
-
-None Instagram O
-https://www YouTube O
-. YouTube O
-youtube YouTube O
-. YouTube O
-com YouTube O
-/ YouTube O
-user YouTube O
-/ YouTube O
-themichenerinstitute YouTube O
-
-None Flickr O
-
-
-The BuildingName O
-Redwood BuildingName O
-
-1300 BuildingAddress B-ADDRESS
-Gerrard BuildingAddress I-ADDRESS
-St. BuildingAddress I-ADDRESS
-E BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M4L PostalCode O
-1Y7 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-67138054 Latitude O
-
--79 Longitude O
-. Longitude O
-32723743 Longitude O
-
-None Telephone O
-
-None Extension O
-
-http://theredwood Website O
-. Website O
-org Website O
-
-http://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-TheRedwood Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-attheredwood/ Facebook O
-
-http://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-attheredwood/ Instagram O
-
-None YouTube O
-None Flickr O
-
-
-The BuildingName O
-Revue BuildingName O
-Cinema BuildingName O
-
-400 BuildingAddress B-ADDRESS
-Roncesvalles BuildingAddress I-ADDRESS
-Ave BuildingAddress I-ADDRESS
-. BuildingAddress E-ADDRESS
-
-None Suite/Floor O
-
-M6R PostalCode O
-2M9 PostalCode O
-
-None LocationInstructions O
-
-43 Latitude O
-. Latitude O
-65105283 Latitude O
-
--79 Longitude O
-. Longitude O
-45124343 Longitude O
-
-416 Telephone B-PHONE
-- Telephone I-PHONE
-531 Telephone I-PHONE
-- Telephone I-PHONE
-9950 Telephone E-PHONE
-
-None Extension O
-
-http://www Website O
-. Website O
-revuecinema Website O
-. Website O
-ca Website O
-
-https://twitter Twitter O
-. Twitter O
-com Twitter O
-/ Twitter O
-revuecinema Twitter O
-
-https://www Facebook O
-. Facebook O
-facebook Facebook O
-. Facebook O
-com Facebook O
-/ Facebook O
-revuecinema Facebook O
-
-https://www Instagram O
-. Instagram O
-instagram Instagram O
-. Instagram O
-com Instagram O
-/ Instagram O
-revuecinema/ Instagram O
-
-None YouTube O
-None Flickr O
-
 
