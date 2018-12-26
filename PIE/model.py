@@ -10,7 +10,7 @@ from tensorflow.python.training import session_run_hook
 
 from PIE.config import Config
 from PIE.data import Data, DataSet
-from bert import modeling, optimization
+from BERT import modeling, optimization
 
 
 class Model(object):

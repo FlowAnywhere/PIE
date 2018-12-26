@@ -10,7 +10,7 @@ import re
 import tensorflow as tf
 
 from PIE.config import Config
-from bert import tokenization
+from BERT import tokenization
 
 
 class Data(object):

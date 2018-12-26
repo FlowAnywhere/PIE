@@ -7,7 +7,7 @@ import os
 
 import tensorflow as tf
 
-from bert import tokenization, modeling
+from BERT import tokenization, modeling
 
 
 class Config(object):
