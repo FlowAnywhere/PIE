@@ -331,23 +331,171 @@ if __name__ == '__main__':
     token_counter_valid = Counter(token_counter_valid)
     token_c2 = Counter(token_c2)
     token_counter_valid = dict(token_counter_valid + token_c2)
-    xlsx.convert_to_tfrecord('../data/raw/City_biz_incubator/train.tsv', '../dataset/train/City_biz_incubator_BusinessEcosystem.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/City_biz_incubator/train.tsv',
+                             '../dataset/train/City_biz_incubator_BusinessEcosystem.tfrecords')
     xlsx.convert_to_tfrecord('../data/raw/City_biz_incubator/valid.tsv',
                              '../dataset/valid/City_biz_incubator_BusinessEcosystem.tfrecords')
 
-    # token_c1, token_c2 = xlsx.convert_to_tsv('../data/raw/City_door_open/Doors_Open_2018.xlsx',
-    #                                          '../data/raw/City_door_open/train.tsv',
-    #                                          '../data/raw/City_door_open/valid.tsv')
-    # token_counter_train = Counter(token_counter_train)
-    # token_c1 = Counter(token_c1)
-    # token_counter_train = dict(token_counter_train + token_c1)
-    # token_counter_valid = Counter(token_counter_valid)
-    # token_c2 = Counter(token_c2)
-    # token_counter_valid = dict(token_counter_valid + token_c2)
-    # xlsx.convert_to_tfrecord('../data/raw/City_door_open/train.tsv',
-    #                          '../dataset/train/City_door_open_2018.tfrecords')
-    # xlsx.convert_to_tfrecord('../data/raw/City_door_open/valid.tsv',
-    #                          '../dataset/valid/City_door_open_2018.tfrecords')
+    token_c1, token_c2 = xlsx.convert_to_tsv('../data/raw/City_door_open/Doors_Open_2018.xlsx',
+                                             '../data/raw/City_door_open/train.tsv',
+                                             '../data/raw/City_door_open/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/City_door_open/train.tsv',
+                             '../dataset/train/City_door_open_2018.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/City_door_open/valid.tsv',
+                             '../dataset/valid/City_door_open_2018.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv('../data/raw/cymh/cymh_mcys_open_data_dataset_may_2016_cyrb_approved.xlsx',
+                                             '../data/raw/cymh/train.tsv',
+                                             '../data/raw/cymh/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/cymh/train.tsv',
+                             '../dataset/train/cymh.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/cymh/valid.tsv',
+                             '../dataset/valid/cymh.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv('../data/raw/Farm_marketing_board/marketingdirectory1.xlsx',
+                                             '../data/raw/Farm_marketing_board/train.tsv',
+                                             '../data/raw/Farm_marketing_board/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/Farm_marketing_board/train.tsv',
+                             '../dataset/train/Farm_marketing_board.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/Farm_marketing_board/valid.tsv',
+                             '../dataset/valid/Farm_marketing_board.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv('../data/raw/ON_farm_advisor/growing_forward_2_farm_advisors.xlsx',
+                                             '../data/raw/ON_farm_advisor/train.tsv',
+                                             '../data/raw/ON_farm_advisor/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/ON_farm_advisor/train.tsv',
+                             '../dataset/train/ON_farm_advisor.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/ON_farm_advisor/valid.tsv',
+                             '../dataset/valid/ON_farm_advisor.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv(
+        '../data/raw/ON_labor_sponsored_inv_fund/labour-sponsored-investment-funds_1.xlsx',
+        '../data/raw/ON_labor_sponsored_inv_fund/train.tsv',
+        '../data/raw/ON_labor_sponsored_inv_fund/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/ON_labor_sponsored_inv_fund/train.tsv',
+                             '../dataset/train/ON_labor_sponsored_inv_fund.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/ON_labor_sponsored_inv_fund/valid.tsv',
+                             '../dataset/valid/ON_labor_sponsored_inv_fund.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv(
+        '../data/raw/ON_livestock/lma-listc.xlsx',
+        '../data/raw/ON_livestock/train.tsv',
+        '../data/raw/ON_livestock/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/ON_livestock/train.tsv',
+                             '../dataset/train/ON_livestock.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/ON_livestock/valid.tsv',
+                             '../dataset/valid/ON_livestock.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv(
+        '../data/raw/ON_private_school/private_schools_contact_information_july_2018_en_.xlsx',
+        '../data/raw/ON_private_school/train.tsv',
+        '../data/raw/ON_private_school/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/ON_private_school/train.tsv',
+                             '../dataset/train/ON_private_school.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/ON_private_school/valid.tsv',
+                             '../dataset/valid/ON_private_school.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv(
+        '../data/raw/ON_public_school/publicly_funded_schools_xlsx_july_2018_en.xlsx',
+        '../data/raw/ON_public_school/train.tsv',
+        '../data/raw/ON_public_school/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/ON_public_school/train.tsv',
+                             '../dataset/train/ON_public_school.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/ON_public_school/valid.tsv',
+                             '../dataset/valid/ON_public_school.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv(
+        '../data/raw/ON_school_board/boards_schoolauthorities_july_2018_en.xlsx',
+        '../data/raw/ON_school_board/train.tsv',
+        '../data/raw/ON_school_board/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/ON_school_board/train.tsv',
+                             '../dataset/train/ON_school_board.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/ON_school_board/valid.tsv',
+                             '../dataset/valid/ON_school_board.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv(
+        '../data/raw/Toxics_planner/toxics_planners.xlsx',
+        '../data/raw/Toxics_planner/train.tsv',
+        '../data/raw/Toxics_planner/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/Toxics_planner/train.tsv',
+                             '../dataset/train/Toxics_planner.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/Toxics_planner/valid.tsv',
+                             '../dataset/valid/Toxics_planner.tfrecords')
+
+    token_c1, token_c2 = xlsx.convert_to_tsv(
+        '../data/raw/WoodSupplier/may2018.xlsx',
+        '../data/raw/WoodSupplier/train.tsv',
+        '../data/raw/WoodSupplier/valid.tsv')
+    token_counter_train = Counter(token_counter_train)
+    token_c1 = Counter(token_c1)
+    token_counter_train = dict(token_counter_train + token_c1)
+    token_counter_valid = Counter(token_counter_valid)
+    token_c2 = Counter(token_c2)
+    token_counter_valid = dict(token_counter_valid + token_c2)
+    xlsx.convert_to_tfrecord('../data/raw/WoodSupplier/train.tsv',
+                             '../dataset/train/WoodSupplier.tfrecords')
+    xlsx.convert_to_tfrecord('../data/raw/WoodSupplier/valid.tsv',
+                             '../dataset/valid/WoodSupplier.tfrecords')
 
     print(">>>>> Training Set")
     for k in token_counter_train:

@@ -31,7 +31,7 @@ class Config(object):
     dataset_dir_train = dataset_dir_root + 'train/'
     dataset_dir_valid = dataset_dir_root + 'valid/'
 
-    lr = 2e-5
+    lr = 1e-5
     dropout = 0.5
     batch_size = 32 if tf.test.is_gpu_available() else 16
     patience = 1  # early stop
