@@ -10,7 +10,7 @@ import random
 import re
 
 import tensorflow as tf
-from openpyxl import load_workbook
+
 
 from PIE.config import Config
 
@@ -270,6 +270,7 @@ class XlsxDataProcessor(DataProcessor):
         token_counter1 = {}
         token_counter2 = {}
 
+        from openpyxl import load_workbook
         wb = load_workbook(original_file, guess_types=False)
         split_idx = math.floor(wb.active.max_row * split)
 
