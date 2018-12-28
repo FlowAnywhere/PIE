@@ -19,16 +19,35 @@ class DataProcessor(object):
     def __init__(self, config):
         self.config = config
 
-    def tokenize_text(self, text):
-        def chunks(l, n):
+    def convert_for_prediction(self, text):
+        def create_chunks(l, n):
             """Yield successive n-sized chunks from l."""
             for i in range(0, len(l), n):
                 yield l[i:i + n]
 
-        token = self.config.tokenizer.tokenize(text)
-        input_ids = self.config.tokenizer.convert_tokens_to_ids(token)
+        tokens = self.config.tokenizer.tokenize(text)
 
-        return chunks(input_ids, self.config.max_seq_length)
+        token_chunks = create_chunks(tokens, self.config.max_seq_length - 2)  # need space for [CLS] and [SEP]
+
+        features = {'input_ids': [], 'input_mask': [], 'segment_ids': []}
+        for chunk in token_chunks:
+            chunk.insert(0, '[CLS]')
+            chunk.append('[SEP]')
+
+            inputid_chunk = self.config.tokenizer.convert_tokens_to_ids(chunk)
+            inputmask_chunk = [1] * len(inputid_chunk)
+            segmentid_chunk = [0] * len(inputid_chunk)
+
+            while len(inputid_chunk) < self.config.max_seq_length:
+                inputid_chunk.append(0)
+                inputmask_chunk.append(0)
+                segmentid_chunk.append(0)
+
+            features['input_ids'].append(inputid_chunk)
+            features['input_mask'].append(inputmask_chunk)
+            features['segment_ids'].append(segmentid_chunk)
+
+        return features
 
     def get_dataset(self, is_training):
         name_to_features = {
@@ -312,7 +331,7 @@ if __name__ == '__main__':
     from collections import Counter
 
     conll2003 = ConllDataProcessor(Config())
-    # conll2003.tokenize_text('info@BDAccelerate.com')
+    # conll2003.convert_for_prediction('info@BDAccelerate.com')
     token_counter_train = conll2003.convert_to_tsv('../data/raw/conll2003/en/train_bio.txt',
                                                    '../data/raw/conll2003/en/train.tsv')
     token_counter_valid = conll2003.convert_to_tsv('../data/raw/conll2003/en/valid_bio.txt',

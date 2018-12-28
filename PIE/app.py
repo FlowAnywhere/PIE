@@ -6,19 +6,19 @@ from flask import Flask
 from flask import request
 
 from PIE.config import Config
-from PIE.predict import Prediction
+from PIE.predictor import Predictor
 
 application = Flask(__name__)
 
-prediction = Prediction(Config(), 'localhost', 9000)
+prediction = Predictor(Config(), 'localhost', 9000)
 
 
 @application.route("/c3api_ai/v1/privacy", methods=['GET', 'POST'])
 def privacy_predict():
     if request.method == 'POST':
         # if header Content-Type is not application/json, json_object = None
-        json_object = request.get_json()
-        return prediction.predict_json_object(json_object)
+        json_instance = request.get_json()
+        return prediction.predict_json(json_instance)
     else:
         if 'json' in request.args:
             json_string = request.args['json']
