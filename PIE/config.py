@@ -53,7 +53,7 @@ class Config(object):
     vocab_file = bert_checkpoint_dir + 'vocab.txt'
     do_lower_case = True
     label_list = ["B-PERSON", "I-PERSON", "B-ADDRESS", "I-ADDRESS", "B-ORG", "I-ORG", "O", "X", "[CLS]", "[SEP]"]
-    max_seq_length = 4
+    max_seq_length = 128
 
     if max_seq_length > bert_config.max_position_embeddings:
         raise ValueError(

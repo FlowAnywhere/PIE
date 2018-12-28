@@ -97,7 +97,7 @@ class Predictor(object):
 
 
 if __name__ == '__main__':
-    prediction = Predictor(Config(), '192.168.99.101', 9000)
+    prediction = Predictor(Config(), '192.168.99.100', 9000) # IP address is retrieved by "docker-machine ip" on windows
 
     while True:
         sentence = input("input> ")
