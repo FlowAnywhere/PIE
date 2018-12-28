@@ -32,11 +32,10 @@ class Config(object):
     dataset_dir_valid = dataset_dir_root + 'valid/'
 
     lr = 2e-5
-    dropout = 0.9
-    batch_size = 128 if tf.test.is_gpu_available() else 64
-    patience = 6  # early stop
+    dropout = 0.5
+    batch_size = 32 if tf.test.is_gpu_available() else 16
+    patience = 1  # early stop
 
-    hidden_size_char = 100  # lstm on chars
     hidden_size_lstm = 100  # lstm on word embeddings
 
     output_dir_root = '../output/'
@@ -53,8 +52,7 @@ class Config(object):
 
     vocab_file = bert_checkpoint_dir + 'vocab.txt'
     do_lower_case = True
-    label_list = ["B-PERSON", "I-PERSON", "E-PERSON", "S-PERSON", "B-ADDRESS", "I-ADDRESS", "E-ADDRESS", "S-ADDRESS",
-                  "B-ORG", "I-ORG", "E-ORG", "S-ORG", "O", "X", "[CLS]", "[SEP]"]
+    label_list = ["B-PERSON", "I-PERSON", "B-ADDRESS", "I-ADDRESS", "B-ORG", "I-ORG", "O", "X", "[CLS]", "[SEP]"]
     max_seq_length = 128
 
     if max_seq_length > bert_config.max_position_embeddings:

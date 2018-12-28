@@ -5,8 +5,8 @@ import os
 import random
 import re
 
-import exrex
 from openpyxl import load_workbook
+
 
 class Stat(object):
     def __init__(self, category='TRAIN'):
@@ -24,47 +24,83 @@ class Stat(object):
             self.SET, self.PERSON, self.ADDRESS, self.ORG, self.SIN, self.EMAIL, self.PHONE, self.TWITTERHANDLE)
 
 
-def convert_bio_to_bioes(file, newfile, stat):
-    with open(file, encoding='UTF-8') as f:
-        file_content = f.readlines()
-
+def keep_person(file, newfile, stat):
     new_file_content = []
 
-    for line, next_line in zip(file_content, file_content[1:] + ['']):
-        line = line.strip()
-        next_line = next_line.strip()
+    words, labels = [], []
+    with open(file, encoding='UTF-8') as f:
+        for line in f:
+            line = line.strip()
 
-        if len(line) == 0 or line.startswith("-DOCSTART-"):
-            new_file_content.append(line)
-        else:
-            l = line.split(' ')
-            nl = next_line.split(' ')
+            if len(line) == 0 or line.startswith('-DOCSTART'):
+                if len(words) > 0:
+                    word_line = ' '.join(words)
+                    label_line = ' '.join(labels)
+                    new_file_content.append(word_line)
+                    new_file_content.append(label_line)
 
-            word, tag, next_tag = l[0], l[-1], nl[-1]
-            tag1 = tag.split('-')[0]
-            next_tag1 = next_tag.split('-')[0]
-
-            if tag1 in ['B', 'I']:
-                if tag1 == 'B':
-                    tag1 = 'S' if next_tag1 not in ['I', 'E'] else tag1
-                if tag1 == 'I':
-                    tag1 = 'E' if next_tag1 not in ['I', 'E'] else tag1
-
-                tag2 = tag.split('-')[1]
-                if tag2 == 'PER':
-                    new_file_content.append(word + ' ' + tag1 + '-' + 'PERSON')
-                else:
-                    new_file_content.append(word + ' ' + 'O')
+                    words, labels = [], []
             else:
-                new_file_content.append(word + ' ' + tag)
+                line = line.split(' ')
+                words.append(line[0])
 
-            # count number of PER
-            if tag1 in ['B', 'S'] and tag.split('-')[1] in ['PER']:
-                stat.PERSON += 1
+                label = line[-1].split('-')
+                new_label = 'O'
+                if len(label) == 2 and label[1] == 'PER':
+                    new_label = label[0] + '-' + 'PERSON'
+
+                    #count
+                    if label[0] == 'B':
+                        stat.PERSON += 1
+
+                labels.append(new_label)
 
     with open(newfile, mode="w", encoding='UTF-8') as f:
         for i, line in enumerate(new_file_content):
             f.write("{}\n".format(line))
+
+
+# def convert_bio_to_bioes(file, newfile, stat):
+#     with open(file, encoding='UTF-8') as f:
+#         file_content = f.readlines()
+#
+#     new_file_content = []
+#
+#     for line, next_line in zip(file_content, file_content[1:] + ['']):
+#         line = line.strip()
+#         next_line = next_line.strip()
+#
+#         if len(line) == 0 or line.startswith("-DOCSTART-"):
+#             new_file_content.append(line)
+#         else:
+#             l = line.split(' ')
+#             nl = next_line.split(' ')
+#
+#             word, tag, next_tag = l[0], l[-1], nl[-1]
+#             tag1 = tag.split('-')[0]
+#             next_tag1 = next_tag.split('-')[0]
+#
+#             if tag1 in ['B', 'I']:
+#                 if tag1 == 'B':
+#                     tag1 = 'S' if next_tag1 not in ['I', 'E'] else tag1
+#                 if tag1 == 'I':
+#                     tag1 = 'E' if next_tag1 not in ['I', 'E'] else tag1
+#
+#                 tag2 = tag.split('-')[1]
+#                 if tag2 == 'PER':
+#                     new_file_content.append(word + ' ' + tag1 + '-' + 'PERSON')
+#                 else:
+#                     new_file_content.append(word + ' ' + 'O')
+#             else:
+#                 new_file_content.append(word + ' ' + tag)
+#
+#             # count number of PER
+#             if tag1 in ['B', 'S'] and tag.split('-')[1] in ['PER']:
+#                 stat.PERSON += 1
+#
+#     with open(newfile, mode="w", encoding='UTF-8') as f:
+#         for i, line in enumerate(new_file_content):
+#             f.write("{}\n".format(line))
 
 
 def convert_xlsx_and_split(file, stats, split=0.5):
@@ -244,34 +280,34 @@ if __name__ == '__main__':
     training_stat = Stat('TRAIN')
     validation_stat = Stat('VALID')
 
-    convert_bio_to_bioes('../data/raw/conll2003/en/train_bio.txt', '../data/raw/conll2003/en/train.txt', training_stat)
-    convert_bio_to_bioes('../data/raw/conll2003/en/valid_bio.txt', '../data/raw/conll2003/en/valid.txt',
-                         validation_stat)
+    keep_person('../data/raw/conll2003/en/train_bio.txt', '../data/raw/conll2003/en/train.txt', training_stat)
+    keep_person('../data/raw/conll2003/en/valid_bio.txt', '../data/raw/conll2003/en/valid.txt',
+                validation_stat)
 
-    convert_xlsx_and_split('../data/raw/City_biz_incubator/BusinessEcosystem.xlsx',
-                           stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/City_door_open/Doors_Open_2018.xlsx', stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/cymh/cymh_mcys_open_data_dataset_may_2016_cyrb_approved.xlsx',
-                           stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/Farm_marketing_board/marketingdirectory1.xlsx',
-                           stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/ON_farm_advisor/growing_forward_2_farm_advisors.xlsx',
-                           stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/ON_labor_sponsored_inv_fund/labour-sponsored-investment-funds_1.xlsx',
-                           stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/ON_livestock/lma-listc.xlsx', stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/ON_private_school/private_schools_contact_information_july_2018_en_.xlsx',
-                           stats=[training_stat, validation_stat])
-    # convert_xlsx_and_split(
-    #     '../data/raw/ON_public_library/2015_ontario_public_library_statistics_open_data_dec_2017rev.xlsx')
-    convert_xlsx_and_split('../data/raw/ON_public_school/publicly_funded_schools_xlsx_july_2018_en.xlsx',
-                           stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/ON_school_board/boards_schoolauthorities_july_2018_en.xlsx',
-                           stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/Toxics_planner/toxics_planners.xlsx', stats=[training_stat, validation_stat])
-    convert_xlsx_and_split('../data/raw/WoodSupplier/may2018.xlsx', stats=[training_stat, validation_stat])
-
-    # generate_fake_email_phone_sin_th([training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/City_biz_incubator/BusinessEcosystem.xlsx',
+    #                        stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/City_door_open/Doors_Open_2018.xlsx', stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/cymh/cymh_mcys_open_data_dataset_may_2016_cyrb_approved.xlsx',
+    #                        stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/Farm_marketing_board/marketingdirectory1.xlsx',
+    #                        stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/ON_farm_advisor/growing_forward_2_farm_advisors.xlsx',
+    #                        stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/ON_labor_sponsored_inv_fund/labour-sponsored-investment-funds_1.xlsx',
+    #                        stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/ON_livestock/lma-listc.xlsx', stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/ON_private_school/private_schools_contact_information_july_2018_en_.xlsx',
+    #                        stats=[training_stat, validation_stat])
+    # # convert_xlsx_and_split(
+    # #     '../data/raw/ON_public_library/2015_ontario_public_library_statistics_open_data_dec_2017rev.xlsx')
+    # convert_xlsx_and_split('../data/raw/ON_public_school/publicly_funded_schools_xlsx_july_2018_en.xlsx',
+    #                        stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/ON_school_board/boards_schoolauthorities_july_2018_en.xlsx',
+    #                        stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/Toxics_planner/toxics_planners.xlsx', stats=[training_stat, validation_stat])
+    # convert_xlsx_and_split('../data/raw/WoodSupplier/may2018.xlsx', stats=[training_stat, validation_stat])
+    #
+    # # generate_fake_email_phone_sin_th([training_stat, validation_stat])
 
     print(training_stat)
     print(validation_stat)

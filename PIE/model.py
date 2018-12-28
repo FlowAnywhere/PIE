@@ -9,7 +9,7 @@ import tensorflow as tf
 from tensorflow.python.training import session_run_hook
 
 from PIE.config import Config
-from PIE.data import Data, DataSet
+from PIE.data import DataProcessor
 from BERT import modeling, optimization
 
 
@@ -17,17 +17,16 @@ class Model(object):
     def __init__(self, config):
         self.config = config
         self.logger = config.logger
-        self.data = Data(self.config)
-        self.dataset = DataSet(self.config)
+        self.data = DataProcessor(self.config)
 
         self.training_hook = None
         self.eval_hook = None
 
     def _train_input_fn(self):
-        return self.dataset.train()
+        return self.data.get_dataset(True)
 
     def _valid_input_fn(self):
-        return self.dataset.valid()
+        return self.data.get_dataset(False)
 
     def _create_serving_input_receiver(self):
         inputs = {'input_ids': tf.placeholder(dtype=tf.int64, shape=[None, None], name="input_ids"),
@@ -35,7 +34,7 @@ class Model(object):
                   'segment_ids': tf.placeholder(dtype=tf.int64, shape=[None, None], name="segment_ids")}
         return tf.estimator.export.ServingInputReceiver(inputs, inputs)
 
-    def _model_fn(self, features, labels, mode, params):
+    def _model_fn(self, features, labels, mode):
         self._create_model(features, mode)
 
         tvars = tf.trainable_variables()
@@ -93,6 +92,21 @@ class Model(object):
         if mode in [tf.estimator.ModeKeys.TRAIN, tf.estimator.ModeKeys.EVAL]:
             self._add_accuracy_op()
 
+    def _add_variables(self, features, mode):
+        with tf.variable_scope("variable"):
+            self.input_ids = tf.cast(features['input_ids'], dtype=tf.int32, name='input_ids')
+
+            used = tf.sign(tf.abs(self.input_ids))
+            self.sequence_lengths = tf.reduce_sum(used, reduction_indices=1)
+
+            if mode in [tf.estimator.ModeKeys.TRAIN, tf.estimator.ModeKeys.EVAL]:
+                self.labels = tf.cast(features['label_ids'], dtype=tf.int32, name='labels')
+
+            if mode in [tf.estimator.ModeKeys.TRAIN]:
+                self.dropout = tf.constant(self.config.dropout, dtype=tf.float32, name='dropout')
+            else:
+                self.dropout = tf.constant(1.0, dtype=tf.float32, name='dropout')
+
     def _add_bert(self, features, mode):
         model = modeling.BertModel(
             config=self.config.bert_config,
@@ -105,20 +119,6 @@ class Model(object):
 
         self.word_embeddings = model.get_sequence_output()
         # TODO dropout
-
-    def _add_variables(self, features, mode):
-        with tf.variable_scope("variable"):
-            used = tf.sign(tf.abs(features['input_ids']))
-            self.sequence_lengths = tf.reduce_sum(used, reduction_indices=1)
-
-            # shape = (batch size, max length of sentence in batch)
-            if mode in [tf.estimator.ModeKeys.TRAIN, tf.estimator.ModeKeys.EVAL]:
-                self.labels = tf.cast(features['label_ids'], dtype=tf.int32, name='labels')
-
-            if mode in [tf.estimator.ModeKeys.TRAIN]:
-                self.dropout = tf.constant(self.config.dropout, dtype=tf.float32, name='dropout')
-            else:
-                self.dropout = tf.constant(1.0, dtype=tf.float32, name='dropout')
 
     def _add_logits_op(self):
         """
@@ -159,7 +159,7 @@ class Model(object):
 
     def _add_train_op(self):
         with tf.variable_scope("train_op"):
-            self.train_op = optimization.create_optimizer(self.loss, self.config.lr, 100000, 0, False)
+            self.train_op = optimization.create_optimizer(self.loss, self.config.lr, 8000, 0, False)
 
             # optimizer = tf.train.AdamOptimizer(self.lr)
             # if self.config.clip > 0:  # gradient clipping if clip is positive
@@ -272,7 +272,7 @@ class _EvaluationHook(session_run_hook.SessionRunHook):
 
     def before_run(self, run_context):  # pylint: disable=unused-argument
         return session_run_hook.SessionRunArgs(
-            [self.model.accuracy[1], self.model.f1[1], self.model.word_ids, self.model.labels,
+            [self.model.accuracy[1], self.model.f1[1], self.model.input_ids, self.model.labels,
              self.model.viterbi_sequence])
 
     def after_run(self, run_context, run_values):
@@ -295,29 +295,106 @@ class _EvaluationHook(session_run_hook.SessionRunHook):
             self.model.logger.info('======================Evaluation Result===========================')
 
             # output prediction
-            corrected_pred, total_pred, corrected_pred_wo_o, total_pred_wo_o = 0, 0, 0, 0
-            with open(self.model.config.output_dir_root + 'eval_result_' + str(self.epoch % 3) + '.txt', mode='w',
+            corrected_pred, total_pred = {}, {}
+            with open(self.model.config.output_dir_root + 'eval_result_' + str(self.f1) + '.txt', mode='w',
                       encoding='UTF-8') as f:
                 for word, label, pred in zip(self.word_ids, self.labels, self.predictions):
                     for w, l, p in zip(word, label, pred):
-                        if l != 0 and p != 0:
-                            if l == p:
-                                corrected_pred += 1
-                                if self.model.data.idx_tag_vocab[l] != 'O':
-                                    corrected_pred_wo_o += 1
-                            total_pred += 1
-                            if self.model.data.idx_tag_vocab[l] != 'O':
-                                total_pred_wo_o += 1
-
+                        if l not in [9, 10, 0]:
                             f.write(
-                                '{:20}{:20}{:20}\n'.format(self.model.data.idx_word_vocab[w],
-                                                           self.model.data.idx_tag_vocab[l],
-                                                           self.model.data.idx_tag_vocab[p]))
+                                '{:20}{:20}{:20}\n'.format(self.model.config.tokenizer.convert_ids_to_tokens([w])[0],
+                                                           self.model.config.label_list[l - 1],
+                                                           self.model.config.label_list[p - 1]))
+
+                    start, end = 0, 0
+                    for_label = 0
+                    for i, l in enumerate(label):
+                        if l == 0:
+                            break
+
+                        if for_label in [0, 7] and l in [7, 8]:
+                            if start == 0:
+                                start, end = i, i
+                                for_label = 7
+                            else:
+                                end = i
+
+                            if i == len(label) - 1 or label[i + 1] not in [8]:
+                                if not total_pred.__contains__('O'):
+                                    total_pred['O'] = 0
+                                    corrected_pred['O'] = 0
+                                total_pred['O'] += 1
+
+                                if (pred[start:end + 1] == label[start:end + 1])[0]:
+                                    corrected_pred['O'] += 1
+
+                                start, end = 0, 0
+                                for_label = 0
+
+                        elif for_label in [0, 1] and l in [1, 2, 8]:
+                            if start == 0:
+                                start, end = i, i
+                                for_label = 1
+                            else:
+                                end = i
+
+                            if i == len(label) - 1 or label[i + 1] not in [2, 8]:
+                                if not total_pred.__contains__('PERSON'):
+                                    total_pred['PERSON'] = 0
+                                    corrected_pred['PERSON'] = 0
+                                total_pred['PERSON'] += 1
+
+                                if (pred[start:end + 1] == label[start:end + 1])[0]:
+                                    corrected_pred['PERSON'] += 1
+
+                                start, end = 0, 0
+                                for_label = 0
+
+                        elif for_label in [0, 3] and l in [3, 4, 8]:
+                            if start == 0:
+                                start, end = i, i
+                                for_label = 3
+                            else:
+                                end = i
+
+                            if i == len(label) - 1 or label[i + 1] not in [4, 8]:
+                                if not total_pred.__contains__('ADDRESS'):
+                                    total_pred['ADDRESS'] = 0
+                                    corrected_pred['ADDRESS'] = 0
+                                total_pred['ADDRESS'] += 1
+
+                                if (pred[start:end + 1] == label[start:end + 1])[0]:
+                                    corrected_pred['ADDRESS'] += 1
+
+                                start, end = 0, 0
+                                for_label = 0
+
+                        elif for_label in [0, 5] and l in [5, 6, 8]:
+                            if start == 0:
+                                start, end = i, i
+                                for_label = 5
+                            else:
+                                end = i
+
+                            if i == len(label) - 1 or label[i + 1] not in [6, 8]:
+                                if not total_pred.__contains__('ORG'):
+                                    total_pred['ORG'] = 0
+                                    corrected_pred['ORG'] = 0
+                                total_pred['ORG'] += 1
+
+                                if (pred[start:end + 1] == label[start:end + 1])[0]:
+                                    corrected_pred['ORG'] += 1
+
+                                start, end = 0, 0
+                                for_label = 0
+
                     f.write('\n')
-                f.write('\n\nAccuracy: {}\tTotal: {}\tCorrect: {}\n'.format((100 * corrected_pred) / total_pred,
-                                                                            total_pred, corrected_pred))
-                f.write('Accuracy w/o O: {}\tTotal: {}\tCorrect: {}\n'.format(
-                    (100 * corrected_pred_wo_o) / total_pred_wo_o, total_pred_wo_o, corrected_pred_wo_o))
+
+                f.write('\n\n')
+                for key in total_pred:
+                    f.write('{}\nAccuracy: {}\tTotal: {}\tCorrect: {}\n'.format(key, (100 * corrected_pred[key]) /
+                                                                                total_pred[key],
+                                                                                total_pred[key], corrected_pred[key]))
         else:
             self.wait += 1
             self.model.logger.info('# epochs with no improvement: {}'.format(self.wait))
