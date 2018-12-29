@@ -1,6 +1,7 @@
 #REPOSITORY                  TAG                 IMAGE ID            CREATED             SIZE
 #flowanywhere/pie            0.0.4               77d800ef5c83        5 minutes ago       1.77GB
 docker run -v /git/PIE:/PIE -p 19999:19999 -it 77d800ef5c83 bash
+docker run -v /git/PIE:/PIE -p 9000:9000 -it 77d800ef5c83 bash
 
 export PYTHONPATH=/PIE
 cd /PIE/PIE

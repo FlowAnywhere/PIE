@@ -11,7 +11,6 @@ import re
 
 import tensorflow as tf
 
-
 from PIE.config import Config
 
 
@@ -29,20 +28,22 @@ class DataProcessor(object):
 
         token_chunks = create_chunks(tokens, self.config.max_seq_length - 2)  # need space for [CLS] and [SEP]
 
-        features = {'input_ids': [], 'input_mask': [], 'segment_ids': []}
-        for chunk in token_chunks:
-            chunk.insert(0, '[CLS]')
-            chunk.append('[SEP]')
+        features = {'input': [], 'input_ids': [], 'input_mask': [], 'segment_ids': []}
+        for input_chunk in token_chunks:
+            input_chunk.insert(0, '[CLS]')
+            input_chunk.append('[SEP]')
 
-            inputid_chunk = self.config.tokenizer.convert_tokens_to_ids(chunk)
+            inputid_chunk = self.config.tokenizer.convert_tokens_to_ids(input_chunk)
             inputmask_chunk = [1] * len(inputid_chunk)
             segmentid_chunk = [0] * len(inputid_chunk)
 
             while len(inputid_chunk) < self.config.max_seq_length:
+                input_chunk.append('[CAP]')
                 inputid_chunk.append(0)
                 inputmask_chunk.append(0)
                 segmentid_chunk.append(0)
 
+            features['input'].append(input_chunk)
             features['input_ids'].append(inputid_chunk)
             features['input_mask'].append(inputmask_chunk)
             features['segment_ids'].append(segmentid_chunk)
