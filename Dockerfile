@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y curl unzip && \
     curl https://storage.googleapis.com/tensorflow-serving-apt/tensorflow-serving.release.pub.gpg | apt-key add - && \
     apt-get update && apt-get install -y tensorflow-model-server && \
     pip3 install -r requirements.txt && \
-    curl https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip && unzip uncased_L-12_H-768_A-12.zip && mkdir /PIE/data/bert && mv uncased_L-12_H-768_A-12/* /PIE/data/bert && \
+    curl -o uncased_L-12_H-768_A-12.zip https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip && unzip uncased_L-12_H-768_A-12.zip && mkdir /PIE/data/bert && mv uncased_L-12_H-768_A-12/* /PIE/data/bert && \
     rm -rf uncased_L-12_H-768_A-12 && rm uncased_L-12_H-768_A-12.zip && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 ENV PYTHONPATH=/PIE
