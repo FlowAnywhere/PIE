@@ -103,7 +103,7 @@ class Predictor(object):
                 field_tags = []
                 pred = None
                 for j, l in enumerate(label_text):
-                    if l not in ['O', 'X']:
+                    if l not in ['O', 'X', '[CLS]', '[SEP]']:
                         split_label = l.split('-')
                         pred = {split_label[1]: {"token": "", "confidence": 0}}
                         pred[split_label[1]]["token"] = input[i][j + 1]
