@@ -31,12 +31,12 @@ class Config(object):
     dataset_dir_train = dataset_dir_root + 'train/'
     dataset_dir_valid = dataset_dir_root + 'valid/'
 
-    lr = 1e-5
+    lr = 2e-5
     dropout = 0.5
     batch_size = 32 if tf.test.is_gpu_available() else 16
     patience = 1  # early stop
 
-    hidden_size_lstm = 100  # lstm on word embeddings
+    hidden_size_lstm = 100  # lstm for prediction
 
     output_dir_root = '../output/'
     log_filename = output_dir_root + 'logs/log.txt'

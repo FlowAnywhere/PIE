@@ -85,7 +85,7 @@ class Predictor(object):
             for i, label_text in enumerate(label_texts):
                 field_tag = set()
                 for l in label_text:
-                    if l not in ['O', 'X', '[CLS]', '[SEP]']:
+                    if l not in ['O', 'X', '[CLS]']:
                         field_tag.add(l.split('-')[1])
                 if len(field_tag) > 0:
                     if new_headers[i] in header_dict:

@@ -27,12 +27,11 @@ class DataProcessor(object):
 
         tokens = self.config.tokenizer.tokenize(text)
 
-        token_chunks = create_chunks(tokens, self.config.max_seq_length - 2)  # need space for [CLS] and [SEP]
+        token_chunks = create_chunks(tokens, self.config.max_seq_length - 1)  # need space for [CLS]
 
         features = {'input_ids': [], 'input_mask': [], 'segment_ids': []}
         for chunk in token_chunks:
             chunk.insert(0, '[CLS]')
-            chunk.append('[SEP]')
 
             inputid_chunk = self.config.tokenizer.convert_tokens_to_ids(chunk)
             inputmask_chunk = [1] * len(inputid_chunk)
@@ -112,9 +111,9 @@ class DataProcessor(object):
                     else:
                         labels.append("X")
 
-            if len(tokens) > self.config.max_seq_length - 2:
-                tokens = tokens[0:(self.config.max_seq_length - 2)]
-                labels = labels[0:(self.config.max_seq_length - 2)]
+            if len(tokens) > self.config.max_seq_length - 1:
+                tokens = tokens[0:(self.config.max_seq_length - 1)]
+                labels = labels[0:(self.config.max_seq_length - 1)]
             ntokens = []
             segment_ids = []
             label_ids = []
@@ -126,10 +125,6 @@ class DataProcessor(object):
                 ntokens.append(token)
                 segment_ids.append(0)
                 label_ids.append(label_map[labels[i]])
-            ntokens.append("[SEP]")
-            segment_ids.append(0)
-            # append("O") or append("[SEP]") not sure!
-            label_ids.append(label_map["[SEP]"])
             input_ids = self.config.tokenizer.convert_tokens_to_ids(ntokens)
             input_mask = [1] * len(input_ids)
 
