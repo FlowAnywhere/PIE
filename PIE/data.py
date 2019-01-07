@@ -2,15 +2,14 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-import collections
 import math
 import multiprocessing
 import os
 import random
+
+import collections
 import re
-
 import tensorflow as tf
-
 
 from PIE.config import Config
 
