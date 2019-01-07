@@ -2,6 +2,8 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
+import sys
+
 import numpy as np
 from flask import Flask
 from flask import jsonify
@@ -50,7 +52,9 @@ def privacy_predict():
         elif content_type.lower() == 'audio/wave':
             audio = request.get_data()
             try:
-                resp = Response(prediction.predict_json_string('{"audio": "%s"}' % stt(audio)))
+                text = stt(audio)
+                print('decoded text from audio: %s' % text, file=sys.stdout)
+                resp = Response(prediction.predict_json_string('{"audio": "%s"}' % text))
                 resp.headers['Content-Type'] = 'application/json'
                 return resp
             except EnvironmentError as ee:

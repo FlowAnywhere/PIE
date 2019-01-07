@@ -4,8 +4,8 @@ from __future__ import print_function
 
 import json
 
-import tensorflow as tf
 import numpy as np
+import tensorflow as tf
 from grpc.beta import implementations
 from grpc.framework.interfaces.face.face import AbortionError
 from tensorflow_serving.apis import prediction_service_pb2, predict_pb2
@@ -103,7 +103,7 @@ class Predictor(object):
                 field_tags = []
                 pred = None
                 for j, l in enumerate(label_text):
-                    if l not in ['O', 'X', '[CLS]']:
+                    if l not in ['O', 'X', '[CLS]', '[SEP]']:
                         split_label = l.split('-')
                         pred = {split_label[1]: {"token": "", "confidence": 0}}
                         pred[split_label[1]]["token"] = input[i][j + 1]
