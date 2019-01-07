@@ -85,33 +85,31 @@ class Predictor(object):
 
         labels_pred = tf.contrib.util.make_ndarray(response.outputs['viterbi_sequence'])
         logits = tf.contrib.util.make_ndarray(response.outputs['logits'])
-        # tp = tf.contrib.util.make_ndarray(response.outputs['tp'])
 
         label_map = {}
         for (i, label) in enumerate(self.config.label_list, 1):
             label_map[i] = label
 
         if headers is None:
-            labels = [label_map[x] for labels in labels_pred for x in labels if x > 0][1:-1]
-            labels = [x for x in labels if x != 'X']
+            labels = [label_map[x] for labels in labels_pred for x in labels if x > 0]
+            labels = [x for x in labels if x not in ['X', '[CLS]', '[SEP]']]
             return labels
         else:
-            label_texts = [[label_map[x] for x in labels if x > 0][1:-1] for labels in labels_pred]
+            label_texts = [[label_map[x] for x in labels if x > 0] for labels in labels_pred]
             header_dict = {}
 
             for i, label_text in enumerate(label_texts):
                 field_tags = []
-                pred = None
                 for j, l in enumerate(label_text):
                     if l not in ['O', 'X', '[CLS]', '[SEP]']:
                         split_label = l.split('-')
                         pred = {split_label[1]: {"token": "", "confidence": 0}}
-                        pred[split_label[1]]["token"] = input[i][j + 1]
+                        pred[split_label[1]]["token"] = input[i][j]
                         k = 1
                         while j + k < len(label_text) and label_text[j + k] == 'X':
-                            pred[split_label[1]]["token"] += input[i][j + 1 + k][2:]
+                            pred[split_label[1]]["token"] += input[i][j + k][2:]
                             k += 1
-                        pred[split_label[1]]["confidence"] = round(float(np.max(softmax(logits[i][j + 1]))), 4)
+                        pred[split_label[1]]["confidence"] = round(float(np.max(softmax(logits[i][j]))), 4)
                         field_tags.append(pred)
 
                 if len(field_tags) > 0:
